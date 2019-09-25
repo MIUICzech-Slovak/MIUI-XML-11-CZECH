@@ -2,6 +2,14 @@
 <resources>
   <string name="app_name">Platby</string>
   <string name="mibi_app_name">Mi Kredit</string>
+  <string name="mibi_order_balance_lable">MiKredity</string>
+  <string name="mibi_order_balance_lable_append">MiKredity + kupón</string>
+  <string name="mibi_order_balance_title">Moje MiKredity</string>
+  <string name="mibi_order_no_use_balance">Žádné</string>
+  <string name="mibi_order_pay_back">Potvrdit</string>
+  <string name="mibi_order_pay_type">Způsob platby</string>
+  <string name="mibi_order_pay_type_title">Vybrat způsob platby</string>
+  <string name="mibi_order_title">Platba</string>
   <string name="passport_access_denied">Přístup zamítnut</string>
   <string name="passport_account_hint_text">E-mail nebo telefonní číslo</string>
   <string name="passport_account_identity_title">Ověřit vaši identitu</string>
@@ -179,12 +187,4 @@ Zkontrolujte také složku SPAM."</string>
   <string name="passport_wrong_password">Heslo není správné</string>
   <string name="passport_wrong_phone_number_format">Formát telefonního čísla není správný</string>
   <string name="passport_wrong_vcode">Zadaný kód není správný</string>
-     <string name="mibi_order_balance_lable">MiKredity</string>
-     <string name="mibi_order_balance_lable_append">MiKredity + kupón</string>
-     <string name="mibi_order_balance_title">Moje MiKredity</string>
-     <string name="mibi_order_no_use_balance">Žádné</string>
-     <string name="mibi_order_pay_back">Potvrdit</string>
-     <string name="mibi_order_pay_type">Způsob platby</string>
-     <string name="mibi_order_pay_type_title">Vybrat způsob platby</string>
-     <string name="mibi_order_title">Platba</string>
 </resources>

@@ -9,6 +9,9 @@
   <string name="button_queue_for_wifi">Přes Wi-Fi</string>
   <string name="button_start_now">Stáhnout</string>
   <string name="call_record">Nahrávka hovoru</string>
+  <string name="call_record_list_group_all">Vše</string>
+  <string name="call_record_list_group_connected">Připojeno</string>
+  <string name="call_record_list_group_unconnected">Není připojeno</string>
   <string name="choose_call_records_count">Položek: %d</string>
   <string name="clear_records">Vymazat synchr. nahrávky</string>
   <string name="cloud_record">Nahrávka v Cloudu (%d)</string>
@@ -31,6 +34,7 @@ Při použití mobilních dat se budou účtovat poplatky u operátora."</string
   <string name="deleting_message">Mazání...</string>
   <string name="details">Detail</string>
   <string name="dialog_content_storage_full">Není dostatek místa na úložišti. Záznam byl zastaven. Vymažte nepotřebné soubory.</string>
+  <string name="dialog_privacy_revoke_tips">Po odmítnutí autorizace, aplikace přestane shromažďovat vaše data a všechny data budou vymazána ze serveru. Chcete odmítnout autorizaci i přes to?.</string>
   <string name="dialog_title_storage_full">Není dostatek místa.</string>
   <string name="duration_format_hour">%s hod.</string>
   <string name="duration_format_minute">%s min.</string>
@@ -75,6 +79,7 @@ Při použití mobilních dat se budou účtovat poplatky u operátora."</string
   <string name="preference_record_scenes_dialog_title">Zvolte typ nahrávaného zvuku</string>
   <string name="preference_scenes">Režim nahrávání</string>
   <string name="preference_silent_mode">Nahrávání v tichém režimu</string>
+  <string name="preference_status_bar_indicator_prompt">Zobrazit zkratku v roletce během nahrávání</string>
   <string name="preference_tip_rename">Přejmenovat nahrávku po dokončení nahrávání</string>
   <string name="recognition_error_cancel">Zrušeno</string>
   <string name="recognition_error_download_cancel">Později</string>
@@ -98,6 +103,7 @@ Při použití mobilních dat se budou účtovat poplatky u operátora."</string
   <string name="record_downloading_notification">Stahování...</string>
   <string name="record_downloading_notification_complete">Stahování dokončeno</string>
   <string name="record_downloading_notification_count">%d stahování</string>
+  <string name="record_format_preference_title">Formát nahrávání</string>
   <string name="record_list">Nahrávky</string>
   <string name="record_list_call">Nahrávky hovoru</string>
   <string name="record_list_category_title_format">MMM yyyy</string>
@@ -131,13 +137,19 @@ Při použití mobilních dat se budou účtovat poplatky u operátora."</string
   <string name="search_tip_rename">Zadat název nahrávky manuálně</string>
   <string name="share">Sdílet</string>
   <string name="share_dialog_title">Sdílet přes</string>
+  <string name="shortcut_records">Nahrávky</string>
+  <string name="shortcut_start_record">Nahrávat</string>
+  <string name="shortcut_stop_record">Ukončit</string>
   <string name="sound_recorder_settings">Nastavení nahrávání</string>
+  <string name="sound_source_summary_without_system_sounds">Použít mikrofon nebo ztišit zvuky</string>
   <string name="start">Pokračovat</string>
   <string name="start_recording">Nahrávat</string>
   <string name="status_bar_back">Pro návrat klepněte sem</string>
   <string name="status_bar_recording">Nahrávání...</string>
   <string name="status_bar_recording_pause">Nahrávání bylo pozastaveno.</string>
+  <string name="text_btn_backward_3_seconds">3s zpět</string>
   <string name="text_btn_complete">Hotovo</string>
+  <string name="text_btn_forward_3_seconds">3s zpět</string>
   <string name="text_btn_list">Seznam</string>
   <string name="text_btn_mark">Označit</string>
   <string name="text_btn_pause">Zastavit</string>
@@ -146,29 +158,17 @@ Při použití mobilních dat se budou účtovat poplatky u operátora."</string
   <string name="text_btn_recording">Nahrávání</string>
   <string name="text_btn_wave">Vlna</string>
   <string name="text_finish">Potvrdit</string>
+  <string name="text_play_speed_0_5">0.5X rychlost přehrávání</string>
+  <string name="text_play_speed_1_0">Normální rychlost přehrávání</string>
+  <string name="text_play_speed_1_5">1.5X rychlost přehrávání</string>
+  <string name="text_play_speed_2_0">2X rychlost přehrávání</string>
   <string name="timer_format" formatted="false">%02d:%02d</string>
   <string name="toast_file_is_downloading">Tento soubor se stahuje, čekejte prosím.</string>
   <string name="toast_max_record_time">%1$s může nahrát kolem %2$s</string>
   <string name="toast_uninstall_fileexplorer">Správce souborů není nainstalován</string>
+  <string name="usage_description">Synchronizace nahrávek s Mi Cloudem</string>
   <string name="wifi_recommended_body" formatted="false">"Spuštěním tohoto %s stahování může dojít ke zvýšení spotřeby dat a baterie.
 
 Dotkněte se %s pro spuštění stahování po připojení k Wi-Fi"</string>
   <string name="wifi_recommended_title">Upozornění na spotřebu dat</string>
-  <string name="record_format_preference_title">Formát nahrávání</string>
-  <string name="sound_source_summary_without_system_sounds">Použít mikrofon nebo ztišit zvuky</string>
-  <string name="call_record_list_group_all">Vše</string>
-  <string name="call_record_list_group_connected">Připojeno</string>
-  <string name="call_record_list_group_unconnected">Není připojeno</string>
-  <string name="preference_status_bar_indicator_prompt">Zobrazit zkratku v roletce během nahrávání</string>
-  <string name="shortcut_records">Nahrávky</string>
-  <string name="shortcut_start_record">Nahrávat</string>
-  <string name="shortcut_stop_record">Ukončit</string>
-  <string name="text_btn_backward_3_seconds">3s zpět</string>
-  <string name="text_btn_forward_3_seconds">3s zpět</string>
-  <string name="text_play_speed_0_5">0.5X rychlost přehrávání</string>
-  <string name="text_play_speed_1_0">Normální rychlost přehrávání</string>
-  <string name="text_play_speed_1_5">1.5X rychlost přehrávání</string>
-  <string name="text_play_speed_2_0">2X rychlost přehrávání</string>  
-     <string name="dialog_privacy_revoke_tips">Po odmítnutí autorizace, aplikace přestane shromažďovat vaše data a všechny data budou vymazána ze serveru. Chcete odmítnout autorizaci i přes to?.</string>
-     <string name="usage_description">Synchronizace nahrávek s Mi Cloudem</string>
 </resources>

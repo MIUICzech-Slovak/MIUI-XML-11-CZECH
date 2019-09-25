@@ -9,7 +9,6 @@
   <string name="account_sim2">SIM karta %d</string>
   <string name="account_type_format">%1$s kontakt</string>
   <string name="actionIncomingCall">Příchozí hovory</string>
-  <string name="contact_is_deleted">Kontakt byl vymazán</string>
   <string name="action_menu_overflow_description">Více možností</string>
   <string name="activity_title_confirm_add_detail">Přidat do kontaktů</string>
   <string name="activity_title_contacts_filter">Kontakty pro zobrazení</string>
@@ -125,6 +124,7 @@
   <string name="callrecordview_menu_delete_sim">Vymazat seznam hovorů %s</string>
   <string name="callrecordview_menu_delete_stranger">Vymazat neznámá čísla</string>
   <string name="callrecordview_menu_edit_call_note">Upravit poznámku</string>
+  <string name="callrecordview_menu_identify_numbers">Rozpoznat telefonní čísla</string>
   <string name="callrecordview_menu_ip">Auto IP hovor</string>
   <string name="callrecordview_menu_paste">Vložit</string>
   <string name="callrecordview_menu_save_to_group">Uložit historii hovorů do skupiny</string>
@@ -188,6 +188,8 @@
   <string name="config_export_file_prefix"/>
   <string name="config_export_file_suffix"/>
   <string name="config_prohibited_phone_number_regexp"/>
+  <string name="confirm_call_log_dial_summary">Zeptat se před vytáčením hovoru ze seznamu volání.</string>
+  <string name="confirm_call_log_dial_title">Potvrdit vytáčení ze seznamu volání</string>
   <string name="confirm_delete_contact_all_call_logs">Opravdu vymazat historii volání?</string>
   <string name="confirm_delete_selected_all_call_logs">"Vymazat všechny záznamy o hovorech tohoto kontaktu?"</string>
   <string name="confirm_delete_sim_entry_miui_title">Vymazat</string>
@@ -225,6 +227,7 @@ Karty kontaktu jsou deaktivovány"</string>
   <string name="contact_detail_miprofile_save_success_toast">Přijata karta kontaktu</string>
   <string name="contact_detail_miprofile_settings_header">Další nastavení</string>
   <string name="contact_detail_miprofile_subtitle">Karty již jsou vyměněny</string>
+  <string name="contact_detail_more_calllog">Zobrazit více</string>
   <string name="contact_detail_profile_switch_fail_network_toast">Nelze se připojit k síti</string>
   <string name="contact_detail_profile_switch_fail_toast">Nastala chyba na našem serveru</string>
   <string name="contact_detail_profile_switch_off">Deaktivovat karty kontaktu</string>
@@ -245,6 +248,7 @@ Karty kontaktu jsou deaktivovány"</string>
   <string name="contact_import_methods_dialog_bluetooth">Bluetooth</string>
   <string name="contact_import_methods_dialog_mi_mover">Transfer</string>
   <string name="contact_import_methods_dialog_title">Vybete metodu importu</string>
+  <string name="contact_is_deleted">Kontakt byl vymazán</string>
   <string name="contact_is_readOnly">Kontakt nelze upravit</string>
   <string name="contact_list_loading">Načítání...</string>
   <string name="contact_pick_photo">Fotografie</string>
@@ -258,6 +262,7 @@ Karty kontaktu jsou deaktivovány"</string>
   <string name="contactsGroupsLabel">Skupiny</string>
   <string name="contactsJoinedMessage">Kontakty byly spojeny</string>
   <string name="contactsList">Kontakty</string>
+  <string name="contacts_default_notification_channel">Upozornění</string>
   <string name="contacts_hybrid_activity_label">Obnovit kontakty</string>
   <string name="contacts_in_call_show">video %s</string>
   <string name="contacts_setting_title">Nastavení kontaktů</string>
@@ -327,7 +332,9 @@ Karty kontaktu jsou deaktivovány"</string>
   <string name="description_image_button_pound">libra</string>
   <string name="description_image_button_seven">sedm</string>
   <string name="description_image_button_sim1_dial">Vytočit SIM1</string>
+  <string name="description_image_button_sim1_named_dial">Vytočit přes SIM1 %s</string>
   <string name="description_image_button_sim2_dial">Vytočit SIM2</string>
+  <string name="description_image_button_sim2_named_dial">Vytočit přes SIM2 %s</string>
   <string name="description_image_button_six">šest</string>
   <string name="description_image_button_star">hvězdička</string>
   <string name="description_image_button_three">tři</string>
@@ -702,6 +709,9 @@ Chyba: \"%s\""</string>
   <string name="menu_set_ring_tone">Nastavit vyzvánění</string>
   <string name="menu_settings">Nastavení</string>
   <string name="menu_share">Sdílet</string>
+  <string name="menu_share_qrcode">QR kód</string>
+  <string name="menu_share_text">Text</string>
+  <string name="menu_share_vcard_file">Soubor</string>
   <string name="menu_show_all_calls">Zobrazit všechny hovory</string>
   <string name="menu_show_voicemails_only">Zobrazit jen hlasové vzkazy</string>
   <string name="menu_splitAggregate">Rozdělit</string>
@@ -857,6 +867,7 @@ Synchronizujte je nyní."</string>
   <string name="no_contacts_dialog_title">Kontakt nenalezen</string>
   <string name="no_contacts_selected">Nejsou vybrány žádné kontakty.</string>
   <string name="no_sdcard_message">Úložiště nebylo nalezeno</string>
+  <string name="no_setting_menu">Nastavení menu není dostupné</string>
   <string name="no_voip_contacts">Žádné MiVoice kontakty</string>
   <string name="non_phone_add_to_contacts">Přidat do kontaktů</string>
   <string name="non_phone_caption">Telefonní číslo</string>
@@ -969,7 +980,6 @@ Synchronizujte je nyní."</string>
   <string name="preference_display">Zobrazit</string>
   <string name="preference_displayOptions">Možnosti zobrazení</string>
   <string name="preference_display_contact">Nastavení zobrazení</string>
-  <string name="no_setting_menu">Nastavení menu není dostupné</string>
   <string name="preference_export">Export</string>
   <string name="preference_import">Import</string>
   <string name="preference_import_export">Import/Export</string>
@@ -979,7 +989,9 @@ Synchronizujte je nyní."</string>
   <string name="preference_others">Ostatní</string>
   <string name="preference_phone">Telefon</string>
   <string name="preference_phone_more_title">Další nastavení telefonu</string>
+  <string name="preference_privacy_policy_title">Ochrana soukromí</string>
   <string name="preference_remove_duplicate">Sloučit duplicitní kontakty</string>
+  <string name="preference_show_firewall_calllog">Zobrazit blokované hovory v seznamu hovorů</string>
   <string name="preference_simple_mode_description">V seznamu se budou zobrazovat fotografie a detaily kontaktů</string>
   <string name="preference_simple_mode_title">Zobrazit fotografie kontaktů</string>
   <string name="preference_smart_group_company_summary">Skupina kontaktů podle firmy</string>
@@ -1064,6 +1076,8 @@ Synchronizujte je nyní."</string>
   <string name="savingContact">Ukládání kontaktu...</string>
   <string name="savingDisplayGroups">Ukládám nastavení zobrazení...</string>
   <string name="scan">Prohledat zařízení</string>
+  <string name="scan_business_card">Skenovat vizitku</string>
+  <string name="scan_bussiness_card_merge_tip">Data byla přepsána</string>
   <string name="scan_duplicate_message">Počet duplicitních kontaktů: %1$d</string>
   <string name="scan_merge">Hledání možných duplicitních kontaktů, prosím čekejte...</string>
   <string name="scan_qrcode_card_hint1">Načtěte QR kód</string>
@@ -1115,14 +1129,18 @@ Synchronizujte je nyní."</string>
   <string name="service_provider">Poskytovatel</string>
   <string name="set_default">Nastavit výchozí</string>
   <string name="set_photo_failed_msg">Nastavení avatara selhalo</string>
+  <string name="share_contact_as">Sdílet kontakt jako</string>
   <string name="share_error">Tento kontakt nemůže být sdílen.</string>
   <string name="share_over_limit">Více jak 1000 nelze sdílet.</string>
+  <string name="share_qrcode">Sdílet QR kód</string>
   <string name="share_via">Sdílet přes</string>
   <string name="share_visible_contacts">Sdílet kontakty</string>
   <string name="shortcutActivityTitle">Výběr zkratky kontaktu</string>
   <string name="shortcutContact">Kontakty</string>
   <string name="shortcutDialContact">Přímá volba</string>
   <string name="shortcutMessageContact">Přímá zpráva</string>
+  <string name="shortcut_new_contact_label">Nový kontakt</string>
+  <string name="shortcut_scan_label">Načíst vizitku</string>
   <string name="showAllContactsJoinItem">Zobrazit všechny kontakty</string>
   <string name="simContacts_airplaneMode">Pro importování kontaktů ze SIM karty deaktivujte režim Letadlo.</string>
   <string name="simContacts_empty">Žádné kontakty na Vaší SIM kartě.</string>
@@ -1215,6 +1233,8 @@ Synchronizujte je nyní."</string>
   <string name="title_other_devices">Ostatní dostupná zařízení</string>
   <string name="title_paired_devices">Spárovaná zařízení</string>
   <string name="toast_call_detail_error">Nemohu přečíst detaily o hovoru.</string>
+  <string name="toast_call_no_SoundRecorder">Nahrávání není dostupné</string>
+  <string name="toast_call_no_notes">Poznámky nejsou dostupné</string>
   <string name="toast_copy_done">Kopírování dokončeno</string>
   <string name="toast_copying">Kopírování...</string>
   <string name="toast_displaying_all_contacts">Zobrazení všech kontaktů</string>
@@ -1314,24 +1334,4 @@ Vyberte si z následujících možností:</string>
   <string name="yellowpage_user_profile">Profil</string>
   <string name="yesterday">Včera</string>
   <string name="zero_items_selected">Nic není vybráno</string>
-  <string name="preference_show_firewall_calllog">Zobrazit blokované hovory v seznamu hovorů</string>  
-  <string name="toast_call_no_SoundRecorder">Nahrávání není dostupné</string>
-    <string name="toast_call_no_notes">Poznámky nejsou dostupné</string>
-     <string name="preference_privacy_policy_title">Ochrana soukromí</string>
-     <string name="description_image_button_sim1_named_dial">Vytočit přes SIM1 %s</string>
-  <string name="description_image_button_sim2_named_dial">Vytočit přes SIM2 %s</string>
-  <string name="scan_business_card">Skenovat vizitku</string>
-  <string name="scan_bussiness_card_merge_tip">Data byla přepsána</string>
-  <string name="contacts_default_notification_channel">Upozornění</string>
-  <string name="confirm_call_log_dial_summary">Zeptat se před vytáčením hovoru ze seznamu volání.</string>
-  <string name="confirm_call_log_dial_title">Potvrdit vytáčení ze seznamu volání</string>  
-     <string name="menu_share_qrcode">QR kód</string>
-     <string name="menu_share_text">Text</string>
-     <string name="menu_share_vcard_file">Soubor</string>
-     <string name="share_contact_as">Sdílet kontakt jako</string>
-     <string name="share_qrcode">Sdílet QR kód</string>
-     <string name="shortcut_new_contact_label">Nový kontakt</string>
-     <string name="shortcut_scan_label">Načíst vizitku</string>
-     <string name="callrecordview_menu_identify_numbers">Rozpoznat telefonní čísla</string>
-     <string name="contact_detail_more_calllog">Zobrazit více</string>
 </resources>

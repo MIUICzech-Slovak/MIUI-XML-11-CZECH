@@ -10,6 +10,7 @@
   <string name="armed_forces_day"/>
   <string name="autumn_begins"/>
   <string name="autumn_equinox"/>
+  <string name="birdcicada_preview">Zvuky přírody 2</string>
   <string name="childrens_day"/>
   <string name="chinese_youth_day"/>
   <string name="christmas_day"/>
@@ -111,14 +112,13 @@
   <string name="united_nations_day"/>
   <string name="valentines_day"/>
   <string name="vernal_equinox"/>
+  <string name="waterdrop_preview">Zvuky přírody 1</string>
   <string name="white_dews"/>
   <string name="winter_begins"/>
   <string name="winter_solstice"/>
   <string name="yellow_page_module_sms_sent">SMS zpráva odeslána.</string>
   <string name="yellow_page_sms_disabled_in_privacy_mode">"Nelze odeslat SMS zprávu v režimu Návštěvník."</string>
   <string name="yellow_page_sms_send_failed">Odesílání SMS zprávy selhalo.</string>
-     <string name="birdcicada_preview">Zvuky přírody 2</string>
-     <string name="waterdrop_preview">Zvuky přírody 1</string>
   <string name="yellow_page_sms_sending">Odesílání...</string>
   <string name="yellow_page_unable_send_sms">Nelze odeslat SMS zprávu.</string>
 </resources>

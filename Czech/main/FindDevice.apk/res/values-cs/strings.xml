@@ -29,6 +29,7 @@
   <string name="find_device_notice_p1">Jděte na</string>
   <string name="find_device_notice_p3">" pro vyhledání, zablokování, nebo obnovu vašeho zařízení.
 Pokud změníte SIM kartu, automaticky se odešle SMS pro její aktivaci."</string>
+  <string name="find_device_notice_sms_alert">Pokud změníte SIM kartu, bude odeslána SMS pro aktivaci této funkce.</string>
   <string name="find_device_stop_noise">Stiskněte OK pro vypnutí</string>
   <string name="find_device_storage_corrupted">Find Device storage corrupted. Your device is unsafe now.</string>
   <string name="find_device_success_title">Vyhledat zařízení</string>
@@ -85,5 +86,4 @@ Pokud změníte SIM kartu, automaticky se odešle SMS pro její aktivaci."</stri
   <string name="unlocking">Aktivování...</string>
   <string name="verifing_account">Ověřování hesla...</string>
   <string name="verify_password_failed">Nelze ověřit Mi účet. %s.</string>
-     <string name="find_device_notice_sms_alert">Pokud změníte SIM kartu, bude odeslána SMS pro aktivaci této funkce.</string>
 </resources>

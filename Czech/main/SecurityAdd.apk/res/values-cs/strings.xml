@@ -8,6 +8,7 @@
   <string name="anti_disturb_msg_title">Režim Nerušit</string>
   <string name="app_name">Zrychlení her</string>
   <string name="app_not_installed_toast">Aplikace není nainstalovaná.</string>
+  <string name="app_select_title">Přidejte často používané aplikace</string>
   <string name="application_item_already_permission">Povoleno</string>
   <string name="application_item_disable">Zakázáno</string>
   <string name="auto_import_games">Přidejte všechny hry na jedno místo</string>
@@ -18,6 +19,7 @@
   <string name="cancel_button">Zrušit</string>
   <string name="close">Zavřít</string>
   <string name="create_shortcut">Bude vytvořena ikona na ploše pro rychlé spuštění</string>
+  <string name="cta_main_purpose">Vítejte ve Zrychlení her!</string>
   <string name="dialog_text">Bude vytvořena ikona na ploše pro rychlé spuštění</string>
   <string name="dont_bore">Nenechte se rušit upozorněními</string>
   <string name="dont_bore_text">Nezobrazovat okno zrychlení při spouštění hry</string>
@@ -48,6 +50,7 @@
   <string name="game_setting">Nastavení her</string>
   <string name="gamebooster_network_dialog_message">Povolit Zrychlení her připojení k internetu?</string>
   <string name="gamebooster_network_dialog_title">Internetové připojení</string>
+  <string name="gdpr_msg">Pro používání této funkce musíte souhlasit s Xiaomi Podmínkami používání a Ochranou soukromí.</string>
   <string name="get_sys_info">Získávání informací...</string>
   <string name="gs_anto_clean_memory_whitelist">Výjimky</string>
   <string name="gs_app_back_self_start">Úspora baterie</string>
@@ -115,6 +118,20 @@
   <string name="shield_keyboard_title">Vypnout tlačítka</string>
   <string name="start">Spustit</string>
   <string name="start_game">Spustit</string>
+  <string name="superpower_app_add">Přidat</string>
+  <string name="superpower_app_finish">Hotovo</string>
+  <string name="superpower_battery_dangerous">Co nejdříve připojte nabíječku</string>
+  <string name="superpower_date">dd.MMMM EEEE</string>
+  <string name="superpower_dialog_app_select_content">Doinstalované aplikace bežne spotřebují více baterie než systémové aplikace. Přesto je chcete přidat?</string>
+  <string name="superpower_dialog_app_select_title">Upozornění</string>
+  <string name="superpower_exit_hint">Deaktivace Ultra šetření baterie...</string>
+  <string name="superpower_incharging">Nabíjení</string>
+  <string name="superpower_progress_battery_last">%s zůstává</string>
+  <string name="superpower_search_hint">Hledat aplikace</string>
+  <string name="superpower_select_app_title">Rozložení plochy</string>
+  <string name="superpower_settings">Ultra šetřič baterie</string>
+  <string name="superpower_system">Doporučené</string>
+  <string name="superpower_third">Doinstalované aplikace</string>
   <string name="support_game_booster_tips">Zrychlete a zlepšete zážitek z her</string>
   <string name="sys_cpu_title">Využití CPU</string>
   <string name="sys_freememory_title">Dostupné</string>
@@ -127,21 +144,4 @@
   <string name="usage_sorted_loading_text">Načítání...</string>
   <string name="wlan_change_protection_detail">Nepřepínat automaticky na Wi-Fi po připojení na mobilní data</string>
   <string name="wlan_change_protection_title">Zamezit změně sítě</string>
-     <string name="app_select_title">Přidejte často používané aplikace</string>
-     <string name="superpower_app_add">Přidat</string>
-     <string name="superpower_app_finish">Hotovo</string>
-     <string name="superpower_battery_dangerous">Co nejdříve připojte nabíječku</string>
-     <string name="superpower_date">dd.MMMM EEEE</string>
-     <string name="superpower_dialog_app_select_content">Doinstalované aplikace bežne spotřebují více baterie než systémové aplikace. Přesto je chcete přidat?</string>
-     <string name="superpower_dialog_app_select_title">Upozornění</string>
-     <string name="superpower_incharging">Nabíjení</string>
-     <string name="superpower_progress_battery_last">%s zůstává</string>
-     <string name="superpower_search_hint">Hledat aplikace</string>
-     <string name="superpower_select_app_title">Rozložení plochy</string>
-     <string name="superpower_settings">Ultra šetřič baterie</string>
-     <string name="superpower_system">Doporučené</string>
-     <string name="superpower_third">Doinstalované aplikace</string>
-     <string name="superpower_exit_hint">Deaktivace Ultra šetření baterie...</string>
-  <string name="gdpr_msg">Pro používání této funkce musíte souhlasit s Xiaomi Podmínkami používání a Ochranou soukromí.</string>  
-     <string name="cta_main_purpose">Vítejte ve Zrychlení her!</string>
 </resources>

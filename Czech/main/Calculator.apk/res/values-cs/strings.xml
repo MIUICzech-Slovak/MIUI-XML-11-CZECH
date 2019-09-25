@@ -1,12 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="allow">Súhlasím</string>
   <string name="app_name">Kalkulačka</string>
   <string name="app_name_danfa">Kalkulačka</string>
+  <string name="app_notification_info">Kalkulačka je spuštěná na pozadí</string>
+  <string name="btn_float_window_close">Zavřít kalkulačku</string>
+  <string name="btn_float_window_resize">Změnit velikost</string>
   <string name="cal_convert_to_word_figure">Konverze financí</string>
   <string name="cal_copy">Kopírovat</string>
   <string name="cal_edit_mode">Režim úpravy</string>
   <string name="cal_paste">Vložit</string>
   <string name="cal_text_copied">Text zkopírován</string>
+  <string name="cancel">Zrušit</string>
   <string name="choose_currency">Vyberte měnu</string>
   <string name="choose_unit">Vyberte jednotku</string>
   <string name="clearDesc">vymazat</string>
@@ -27,18 +32,25 @@
   <string name="deleteDesc">odstranit</string>
   <string name="description_content">Kalkulačka slouží nejen na matematické počty, ale i na konverzi měn a výpočet fyzikálních veličin.</string>
   <string name="description_title">O Kalkulačce</string>
+  <string name="devided_by_zero_reminder_message">Není možné dělit nulou</string>
+  <string name="dialog_privacy_content">Některé funkce Kalkulačky vyžadují připojení k síti. Používáním této aplikace souhlasíte s našimi %1$s a %2$s.</string>
+  <string name="dialog_privacy_title">Podmínky používání</string>
   <string name="divDesc">děleno</string>
   <string name="dotDesc">desetiná čárka</string>
   <string name="eDesc">"Eulerovo číslo"</string>
   <string name="equalDesc">rovná se</string>
   <string name="error">Chyba</string>
   <string name="error_fomrat">Chyba formátu</string>
+  <string name="exit">Ukončit</string>
   <string name="factorialDesc">faktoriál</string>
+  <string name="float_window_guide_text">Přepnout do okna</string>
   <string name="from_unit">km/h</string>
   <string name="from_unit_en">Kilometr za hodinu</string>
   <string name="from_unit_short">km/h</string>
   <string name="global_network_confirm_content">Výpočet daní, kurzů měn a hypotéky vyžaduje stažení dat přes internetové připojení</string>
+  <string name="hint_floatwindow_alpha_guide_text">Dotykom upravíte průhlednost</string>
   <string name="home_title_calculator">Kalkulačka</string>
+  <string name="interest_rate_hint">Zadejte úrok</string>
   <string name="item_title_aa_payment">Rozdělit účet</string>
   <string name="item_title_area_conversion">Plocha</string>
   <string name="item_title_calculator">Kalkulačka</string>
@@ -65,6 +77,8 @@
   <string name="loan_interest_rate">Úrok</string>
   <string name="loan_pay_years">Doba splácení úvěru</string>
   <string name="loan_payback_way">Splátka</string>
+  <string name="loan_repayment_detail">" Splátek"</string>
+  <string name="loan_repayment_detail_loading">Výpočet...</string>
   <string name="loan_unit">nespočetný</string>
   <string name="menuDesc">menu</string>
   <string name="minusDesc">mínus</string>
@@ -103,6 +117,8 @@
   <string name="mulDesc">krát</string>
   <string name="network_confirm_content">Výpočet daní, kurzů měn a hypotéky vyžaduje stahování dat z internetu.</string>
   <string name="network_confirm_title">Je vyžadováno připojení k internetu</string>
+  <string name="network_purpose">Vítejte v Kalkulačce!</string>
+  <string name="not_supported_due_to_language">tato funkce není podporována mimo Čínu</string>
   <string name="percentDesc">procenta</string>
   <string name="piDesc">pí</string>
   <string name="plusDesc">plus</string>
@@ -123,6 +139,10 @@
   <string name="settingsDesc">nastavení</string>
   <string name="sinDesc">sinus</string>
   <string name="sqrtDesc">druhá odmocnina</string>
+  <string name="tab_title_calculator">Kalkulačka</string>
+  <string name="tab_title_convert">Konvertor</string>
+  <string name="tab_title_tax_mortgage">Hypotéka</string>
+  <string name="tab_title_tax_mortgage_global">Hypotéka</string>
   <string name="tanDesc">tangens</string>
   <string name="tax_annual_bonus_number">Bonus</string>
   <string name="tax_city_error">Zadejte vaše město</string>
@@ -324,31 +344,11 @@
   <string name="unit_myriads">Nespočetný</string>
   <string name="unit_year">R</string>
   <string name="unit_year_format">Rok %s</string>
+  <string name="view_float_window_move">Přesunout okno</string>
   <string name="wf_word_figure">Finance</string>
   <string name="xiaomi_update_dialog_message">"Uvedená verze %1$s
 má velikost: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff">"Uvedená verze %1$s
 Delta aktualizace má velikost: %2$s"</string>
   <string name="xiaomi_update_dialog_title">%1$s aktualizováno!</string>
-  <string name="tab_title_calculator">Kalkulačka</string>
-  <string name="tab_title_convert">Konvertor</string>
- <string name="tab_title_tax_mortgage">Hypotéka</string>
-  <string name="tab_title_tax_mortgage_global">Hypotéka</string>
-  <string name="interest_rate_hint">Zadejte úrok</string>
-  <string name="loan_repayment_detail">" Splátek"</string>
-  <string name="loan_repayment_detail_loading">Výpočet...</string>
-  <string name="not_supported_due_to_language">tato funkce není podporována mimo Čínu</string>
-     <string name="allow">Súhlasím</string>
-     <string name="app_notification_info">Kalkulačka je spuštěná na pozadí</string>
-     <string name="btn_float_window_close">Zavřít kalkulačku</string>
-     <string name="btn_float_window_resize">Změnit velikost</string>
-     <string name="cancel">Zrušit</string>
-     <string name="devided_by_zero_reminder_message">Není možné dělit nulou</string>
-     <string name="dialog_privacy_content">Některé funkce Kalkulačky vyžadují připojení k síti. Používáním této aplikace souhlasíte s našimi %1$s a %2$s.</string>
-     <string name="dialog_privacy_title">Podmínky používání</string>
-     <string name="exit">Ukončit</string>
-     <string name="float_window_guide_text">Přepnout do okna</string>
-     <string name="hint_floatwindow_alpha_guide_text">Dotykom upravíte průhlednost</string>
-     <string name="network_purpose">Vítejte v Kalkulačce!</string>
-     <string name="view_float_window_move">Přesunout okno</string>
 </resources>

@@ -21,7 +21,6 @@
   <string name="auth_fail">Nebylo možné autorizovat</string>
   <string name="bind_xunlei_account">Připojit xunlei účet &gt;</string>
   <string name="bt_download">Stáhnout</string>
-    <string name="path_no_available">Tato cesta není dostupná</string>
   <string name="bt_xunlei_open_info">Opravdu chcete stáhnout tento soubor? Doporučujeme stahovat přes vestavěný webový prohlížeč.</string>
   <string name="button_sort_by_date">Seřadit podle data</string>
   <string name="button_sort_by_size">Seřadit podle velikosti</string>
@@ -52,6 +51,7 @@
   <string name="dialog_confirm_delete_checkbox_message">Vymazat i uložený soubor</string>
   <string name="dialog_confirm_delete_downloads_message">Vymazat úlohy (%d)?</string>
   <string name="dialog_confirm_delete_the_download_item_message">Vymazat tyto úlohy</string>
+  <string name="dialog_content_limit_max">Bez limitu</string>
   <string name="dialog_failed_body">Chcete opakovat stahování souboru později nebo odstranit z fronty?</string>
   <string name="dialog_file_already_exists">Nelze stáhnout. Soubor již existuje.</string>
   <string name="dialog_file_missing_body">Stažený soubor nelze nalézt.</string>
@@ -134,6 +134,7 @@
   <string name="get_order_fail_msg">Objednávka selhala</string>
   <string name="high_speed_channel">High speed channel data</string>
   <string name="hint">Upozornění</string>
+  <string name="home_page_new_download_guide">Nová stahování budou zde</string>
   <string name="immediately_a_renewal">Prodloužit</string>
   <string name="info_flow_only_load_wifi">Načíst doporučené pouze přes Wi-Fi</string>
   <string name="info_flow_setting">Nastavení obsahu</string>
@@ -176,6 +177,7 @@
   <string name="other">Ostatní</string>
   <string name="other_filter">Ostatní</string>
   <string name="package_filter">Balíčky</string>
+  <string name="path_no_available">Tato cesta není dostupná</string>
   <string name="pause_download">Pauza</string>
   <string name="paused">Zastaveno</string>
   <string name="paused_by_app">Pozastaveno</string>
@@ -194,8 +196,7 @@
   <string name="pref_summary_no_limit_popup">Neomezená velikost souboru</string>
   <string name="pref_title_enable_max_bytes_popup">Ptát se při stahování</string>
   <string name="preferences_title">Nastavení</string>
-  <string name="home_page_new_download_guide">Nová stahování budou zde</string>
-  <string name="dialog_content_limit_max">Bez limitu</string>
+  <string name="privacy_policy">Ochrana soukromí</string>
   <string name="privacy_tip_cancel">Zrušit</string>
   <string name="privacy_tip_content">"Use Xunlei Accelerator to speed up downloads? The URL of the download's host will uploaded to Xunlei's servers. Your Mi Account details will also be uploaded to check if you have any active subscriptions to this service."</string>
   <string name="privacy_tip_ok">OK</string>
@@ -279,5 +280,4 @@ Tato funkce není mimo Čínu doporučena"</string>
   <string name="xunlei_open_info">Stáhnout tento soubor přes MIUI správce stahování?</string>
   <string name="xunlei_speed_service">Xunlei stahování</string>
   <string name="xunlei_switch">Xunlei stahování</string>
-     <string name="privacy_policy">Ochrana soukromí</string>
 </resources>

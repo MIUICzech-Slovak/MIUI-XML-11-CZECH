@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="allow">Povolit</string>
   <string name="altitude_title">Nadm. výška</string>
   <string name="altitude_uncalibrate_cancel">Zrušit</string>
   <string name="altitude_uncalibrate_msg">Nelze kalibrovat nadmořskou výšku bez GPS nebo mobilního datového připojení."</string>
@@ -16,6 +17,7 @@
   <string name="calibrate_success">Kalibrace dokončena</string>
   <string name="calibrate_tip">Nakloňte zařízení a kutálejte kuličku po kruhu</string>
   <string name="calibrate_title">Kalibrování kompasu</string>
+  <string name="cancel">Zrušit</string>
   <string name="cannot_get_location">--</string>
   <string name="dialog_body_no_network">Nelze se připojit k síti</string>
   <string name="dialog_calibrat_altitude">Kalibrace nadmořské výšky...</string>
@@ -47,15 +49,13 @@
   <string name="longitude">LON</string>
   <string name="mobiledata_alert_dialog_message">Připojit se k internetu pro kalibraci nadmořské výšky?</string>
   <string name="mobiledata_alert_dialog_title">Upozornění</string>
+  <string name="open_perm_msg">Kompas vyžaduje přístup k poloze a fotoaparátu. Povolit?</string>
+  <string name="open_perm_title">Jsou vyžadována povolení</string>
+  <string name="permission_camera_desc">Pro použití vodováhy</string>
+  <string name="permission_location_desc">Zobrazení souřadnic a tlaku</string>
   <string name="pressure_title">Tlak</string>
   <string name="pressure_unit">hPa</string>
   <string name="shake_enter_tip">Zatřesením zkalibrujete</string>
   <string name="using_camera_confirm_cancel">Ukončit</string>
   <string name="using_camera_confirm_ok">OK</string>
-  <string name="allow">Povolit</string>
-  <string name="cancel">Zrušit</string>
-  <string name="open_perm_msg">Kompas vyžaduje přístup k poloze a fotoaparátu. Povolit?</string>
-  <string name="open_perm_title">Jsou vyžadována povolení</string>
-     <string name="permission_camera_desc">Pro použití vodováhy</string>
-     <string name="permission_location_desc">Zobrazení souřadnic a tlaku</string>
 </resources>
