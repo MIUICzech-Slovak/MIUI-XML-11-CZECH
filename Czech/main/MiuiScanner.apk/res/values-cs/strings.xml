@@ -203,4 +203,12 @@
      <string name="close_hotspot_when_connecting_to_wifi">Hotspot je zapnutý. Zapněte Wi-Fi.</string>
      <string name="module_title_business_card">Vizitka</string>
      <string name="setting_function_sort">Upravit funkce</string>
+     <string name="agree_app_use">Skenování QR kódů a jejich rozpoznávání</string>
+     <string name="agree_camera_permission">Pro zhotovení fotografie</string>
+     <string name="agree_storage_permission">Pro přístup k souborům ve vašem zařízení</string>
+     <string name="always">Vždy</string>
+     <string name="choose_open_code_app">Vyberte aplikaci</string>
+     <string name="once">Jen jednou</string>
+     <string name="to_install_title">tento QR kód odkazuje na odinstalovanou aplikaci. Chcete ji znova stáhnout?</string>
+     <string name="toinstall">Stáhnout</string>
 </resources>

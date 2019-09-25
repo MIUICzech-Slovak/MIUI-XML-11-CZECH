@@ -16,4 +16,16 @@
         <item>Zobrazit synchr. položky</item>
         <item>Podrobnosti o úložišti</item>
     </string-array>
+     <string-array name="priv_dialog_finddevice_runtime_perm_desc">
+        <item>Pro identifikaci vašeho zařízení</item>
+        <item>Pro získání polohy vašeho zařízení</item>
+     </string-array>
+     <string-array name="priv_dialog_sync_runtime_perm_desc">
+        <item>Pro synch. událostí</item>
+        <item>Pro synch. zpráv</item>
+        <item>Pro synch. zpráv</item>
+        <item>Pro synch. kontaktů</item>
+        <item>Pro synch. kontaktů</item>
+        <item>Pro ukládání souborů do vašeho zařízení</item>
+     </string-array>
 </resources>

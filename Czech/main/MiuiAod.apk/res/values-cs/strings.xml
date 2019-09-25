@@ -54,4 +54,6 @@
      <string name="signature_default_content">Navštivte miuios.cz</string>
      <string name="text_length_exceed_limit_alert">*Zadaný text je příliš dlouhý</string>
      <string name="text_size">Velikost textu</string>
+  <string name="notification_screen_on">Rozsvítit displej</string>
+  <string name="notification_nothing">Žádné</string>
 </resources>
