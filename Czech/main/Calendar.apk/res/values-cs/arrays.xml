@@ -420,4 +420,10 @@
         <item>Pro všechny události</item>
         <item>Pro časové události</item>
      </string-array>
+     <string-array name="response_labels2">
+        <item>Neodpovídat</item>
+        <item>Přijmout</item>
+        <item>Později</item>
+        <item>Odmítnout</item>
+     </string-array>
 </resources>

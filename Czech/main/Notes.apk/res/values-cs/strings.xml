@@ -348,4 +348,13 @@ Povolte aplikaci Poznámky přístup k mikrofonu."</string>
   <string name="todo_menu_cancel">Zrušit</string>
   <string name="todo_user_guide_fw_pop">Přidat odkaz na plochu</string>
   <string name="todo_user_guide_tip5">Nikdy nezmeškejte nic důležitého!</string>
+     <string name="confirm_cancel">Nesouhlasím</string>
+     <string name="confirm_ok">Souhlasím</string>
+     <string name="permission_get_account_desc">Synchronizace poznámek</string>
+     <string name="permission_microphone_desc">Nahrávat hlasové poznámky</string>
+     <string name="permission_network_for_cloud_desc">Vyžaduje se připojení k síti pro synchronizaci poznámek s Mi cloudem. Připojit sa nyní?</string>
+     <string name="permission_read_contact_desc">Pro spárování poznámek s kontaktem</string>
+     <string name="pref_remind_type_summary">Přehrát hlasové poznámky v režimu Nerušit</string>
+     <string name="pref_remind_type_title">Ignorovat režim Nerušit</string>
+     <string name="remind_title">Připomínky</string>
 </resources>

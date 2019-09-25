@@ -849,4 +849,33 @@ Pokus: %s."</string>
      <string name="zero_sms_feedback_message">Nahlášené zprávy jsou odeslané na náš server pro další analýzu.</string>
      <string name="zero_sms_feedback_success">Nahlášené</string>
      <string name="zero_sms_feedback_title">Nahlásit</string>  
+     <string name="mi_message_title">Cloudové Zprávy</string>
+     <string name="mms_main_purpose">Pro přístup ke všem funkcím Zpráv, povolte přístup k internetu.</string>
+     <string name="mms_title">Zprávy</string>
+     <string name="mx_main_purpose">Cloudové zprávy umožňují odesílat SMS jiným MIUI uživatelům.
+Pro aktivaci této služby bude odeslána bežná SMS."</string>
+     <string name="mx_privacy_policy">Ochrana soukromí Cloudových Zpráv</string>
+     <string name="perm_purpose_mms_account">Pro přístup k Mi účtu</string>
+     <string name="perm_purpose_mms_storage">Pro ukládání příloh</string>
+     <string name="perm_purpose_rcs_account">Pro zobrazení návodů</string>
+     <string name="perm_purpose_rcs_phone_state">Pro spracovávaní vašeho IMEI</string>
+     <string name="perm_purpose_rcs_storage">Pro ukládání obrázků a souborů</string>
+     <string name="smart_message_title">Inteligentní zprávy</string>
+     <string name="smart_msg_main_purpose">Inteligentní zprávy poskytují rozpoznávání čísla odesílatele.</string>
+     <string name="smart_msg_privacy_policy">Ochrana soukromí</string>
+     <string name="system_permission_declare_agree">Souhlasím</string>
+     <string name="system_permission_declare_disagree">Nesouhlasím</string>
+     <string name="system_permission_declare_double_link" formatted="false">Přečtěte si a odsouhlaste naše %1s a %2s.</string>
+     <string name="system_permission_declare_main_purpose" formatted="false">Vítejte v %1s! %2s</string>
+     <string name="system_permission_declare_no_say_no">Bez těchto povolení aplikace nebude fungovat správně.</string>
+     <string name="system_permission_declare_privacy_declare">"Respektujeme a chráníme vaše soukromí.
+%1s vyžaduje tyto povolení pro správné fungování:"</string>
+     <string name="system_permission_declare_revoke_path">Autorizaci můžete zamítnout v nastavení SMS.</string>
+     <string name="system_permission_declare_single_link">Přečtěte si a odsouhlaste naše %1s.</string>
+     <string name="system_permission_declare_triple_link" formatted="false">Přečtěte si a odsouhlaste naše %1s, %2s, a %3s.</string>
+     <string name="system_permission_declare_use_network">Připojení k síti</string>
+     <string name="system_permission_perm_answer_call">Uskutečnit hovory</string>
+     <string name="system_permission_perm_read_mms">Číst MMS</string>
+     <string name="system_permission_perm_read_numbers">Číst telefonní čísla</string>
+     <string name="system_permission_perm_send_mms">Odeslat MMS</string>
 </resources>

@@ -92,4 +92,7 @@
   <string name="warning_recording_when_a2dp_connect">Vaše zařízení nepodporuje nahrávání systémových zvuků, když je připojeno Bluetooth handsfree.</string>
 <string name="permission_intro_microphone">Pro nahrávání zvuku, pokud je zvolen vstup z mikrofonu</string>
   <string name="permission_intro_storage">Pro ukládání nahrávek</string>  
+     <string name="permission_microphone_desc">Používání mikrofonu jako zdroj zvuku</string>
+     <string name="settings_other">Ostatní</string>
+     <string name="settings_privacy">Ochrana soukromí</string>
 </resources>

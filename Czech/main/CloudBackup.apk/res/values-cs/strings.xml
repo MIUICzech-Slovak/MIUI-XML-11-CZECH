@@ -244,4 +244,6 @@ Poznámka: Nastavení doinstalovaných aplikací nebude zálohováno na MiCloud.
      <string name="restoring_data">Obnovení dat...</string>
      <string name="self_device_main_space">První profil tohoto zařízení</string>
      <string name="self_device_second_space">Druhý profil tohoto zařízení</string>
+     <string name="provision_background_restore_more_data">Obnovení více položek na pozadí</string>
+     <string name="provision_restore_data">Obnovení položek</string>
 </resources>

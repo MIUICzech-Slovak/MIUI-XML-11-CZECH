@@ -1140,4 +1140,10 @@ Chcete opustit tuto stránku?"</string>
   <string name="mw_miuichromium_error_page_unknown_error">Ups... něco se pokazilo...</string>
   <string name="mw_miuichromium_error_page_wlan">Povolit Wi-Fi</string>  
      <string name="save_file_suffix">" soubor"</string>
+     <string name="no_memory_space">není místo na úložišti</string>
+     <string name="system_permission_accounts_purpose">Pro přihlášení k účtu</string>
+     <string name="system_permission_main_purpose">Prohledat webové stránky, atd.</string>
+     <string name="system_permission_phone_state_purpose">Pro načítání IMEI</string>
+     <string name="system_permission_storage_purpose">Pro ukládání souborů na úložiště</string>
+     <string name="system_permission_user_agreement_url">http://www.miui.com/res/doc/eula/cz.html</string>
 </resources>

@@ -56,4 +56,6 @@
   <string name="cancel">Zrušit</string>
   <string name="open_perm_msg">Kompas vyžaduje přístup k poloze a fotoaparátu. Povolit?</string>
   <string name="open_perm_title">Jsou vyžadována povolení</string>
+     <string name="permission_camera_desc">Pro použití vodováhy</string>
+     <string name="permission_location_desc">Zobrazení souřadnic a tlaku</string>
 </resources>

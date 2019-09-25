@@ -43,4 +43,15 @@
   <string name="show_notification">Zobrazit upozornění</string>
   <string name="standard_style">Standardní</string>
   <string name="text_color">Barva textu</string>  
+     <string name="align_type">Zarovnat</string>
+     <string name="font_thickness">Tučné písmo</string>
+     <string name="please_input_signature">Zadejte podpis</string>
+     <string name="scope_des">Každý kaleidoskop obsahuje 5 různých vzorů ktoré se zobrazí při každém rozsvícení displeje.</string>
+     <string name="scope_icon">Styl kaleidoskopu</string>
+     <string name="scope_time">Kaleidoskop</string>
+     <string name="select_notification_animation_style">Vybrat speciální efekt</string>
+     <string name="signature">Podpis</string>
+     <string name="signature_default_content">Navštivte miuios.cz</string>
+     <string name="text_length_exceed_limit_alert">*Zadaný text je příliš dlouhý</string>
+     <string name="text_size">Velikost textu</string>
 </resources>

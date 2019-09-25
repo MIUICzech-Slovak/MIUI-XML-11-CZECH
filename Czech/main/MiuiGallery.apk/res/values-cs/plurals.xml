@@ -553,4 +553,8 @@
         <item quantity="other">Položek: %1$d</item>
         <item quantity="one">Položek: %1$d</item>
      </plurals>	 
+     <plurals name="file_type_detail_count">
+        <item quantity="other">Souborů: %1$d</item>
+        <item quantity="one">Soubor: %1$d</item>
+     </plurals>
 </resources>

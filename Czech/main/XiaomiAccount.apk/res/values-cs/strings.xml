@@ -594,4 +594,6 @@ Zkontrolujte také složku SPAM."</string>
      <string name="system_ad_summary">Povolením této funkce se budou zobrazovat reklamy v systémových aplikacích!</string>
      <string name="system_ad_switch">Reklamy v systémových aplikacích</string>
      <string name="system_ad_switch_failed">selhalo</string>
+     <string name="passport_ticket_login_select_sim_card">Vyberte SIM kartu</string>
+     <string name="passport_ticket_login_select_sim_card_cancel">Zrušit</string>
 </resources>

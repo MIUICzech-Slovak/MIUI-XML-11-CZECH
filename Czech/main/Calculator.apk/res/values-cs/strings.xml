@@ -338,4 +338,17 @@ Delta aktualizace má velikost: %2$s"</string>
   <string name="loan_repayment_detail">" Splátek"</string>
   <string name="loan_repayment_detail_loading">Výpočet...</string>
   <string name="not_supported_due_to_language">tato funkce není podporována mimo Čínu</string>
+     <string name="allow">Súhlasím</string>
+     <string name="app_notification_info">Kalkulačka je spuštěná na pozadí</string>
+     <string name="btn_float_window_close">Zavřít kalkulačku</string>
+     <string name="btn_float_window_resize">Změnit velikost</string>
+     <string name="cancel">Zrušit</string>
+     <string name="devided_by_zero_reminder_message">Není možné dělit nulou</string>
+     <string name="dialog_privacy_content">Některé funkce Kalkulačky vyžadují připojení k síti. Používáním této aplikace souhlasíte s našimi %1$s a %2$s.</string>
+     <string name="dialog_privacy_title">Podmínky používání</string>
+     <string name="exit">Ukončit</string>
+     <string name="float_window_guide_text">Přepnout do okna</string>
+     <string name="hint_floatwindow_alpha_guide_text">Dotykom upravíte průhlednost</string>
+     <string name="network_purpose">Vítejte v Kalkulačce!</string>
+     <string name="view_float_window_move">Přesunout okno</string>
 </resources>

@@ -2037,5 +2037,21 @@ pro dlouhý screenshot"</string>
      <string name="qs_open_night_mode_alert_summary">Současné nastavení displeje není kompatibilní s Tmavým režimem. Po vypnutí Tmavého režimu budou obnovené.</string>
      <string name="quick_settings_nightmode_label">Tmavý režim</string>
        <string name="description_image_button_bubble_answer">Reproduktor</string>
+     <string name="bubble_content_description_single">%1$s od %2$s</string>
+     <string name="bubble_content_description_stack">%1$s od %2$s a %3$d více</string>
+     <string name="bubble_dismiss_text">Zrušit</string>
+     <string name="bubbles_deep_link_button_description">Otevřít %1$s</string>
+     <string name="bubbles_prompt">Povolit bubliny z %1$s?</string>
+     <string name="bubbles_settings_button_description">Nastavení pro bubliny %1$s</string>
+     <string name="connected_via_app">Připojené přes %1$s</string>
+     <string name="copy">Kopírovat</string>
+     <string name="data_saver_description">Šetření dat omezí aktivitu aplikací na pozadí. Může ovlivnit upozornění z aplikací.</string>
+     <string name="data_saver_enable_button">Povolit</string>
+     <string name="data_saver_enable_title">Povolit šetření dat?</string>
+     <string name="face_data_apply_for_category_title">Odemknout pomocí tváře</string>
+     <string name="face_data_apply_for_keyguard_title">Zámek obrazovky</string>
+     <string name="face_unlock_category_title">Nastavení zámknu obrazovky</string>
+     <string name="no_bubbles">Odmítnout</string>
+     <string name="yes_bubbles">Povolit</string>
        
 </resources>

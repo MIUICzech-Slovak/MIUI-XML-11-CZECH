@@ -85,4 +85,5 @@ Pokud změníte SIM kartu, automaticky se odešle SMS pro její aktivaci."</stri
   <string name="unlocking">Aktivování...</string>
   <string name="verifing_account">Ověřování hesla...</string>
   <string name="verify_password_failed">Nelze ověřit Mi účet. %s.</string>
+     <string name="find_device_notice_sms_alert">Pokud změníte SIM kartu, bude odeslána SMS pro aktivaci této funkce.</string>
 </resources>

@@ -101,4 +101,10 @@
   <string name="ai_button_single_press">Stisk</string>
   <string name="ai_button_single_press_desc">Stiskněte AI tlačítko pro zobrazení AI zkratek</string>
   <string name="ai_button_title">AI tlačítko</string>
+     <string name="font_hint_large">Předvolená velikost písma</string>
+     <string name="font_hint_normal">Zvětšit písmo</string>
+     <string name="skip_gesture_guide_dialog_message">Ujistit se, že umíte používat všechny gesta.</string>
+     <string name="skip_gesture_guide_dialog_negative_btn">Zrušit</string>
+     <string name="skip_gesture_guide_dialog_positive_btn">OK</string>
+     <string name="skip_gesture_guide_dialog_title">Gesta celé obrazovky</string>
 </resources>

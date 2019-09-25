@@ -576,4 +576,8 @@
      <string name="setting_desc_import_todo">Importovat naplánované úlohy z Poznámek</string>
      <string name="setting_title_import_todo">Importovat úlohy</string>
      <string name="todo_event">Nadcházející úlohy</string>
+     <string name="permission_accounts">Pro přihlášení se</string>
+     <string name="permission_contacts">Pro synchronizaci narozenin vašich kontaktů</string>
+     <string name="permission_main_purpose">Zobrazení a spravování udalostí</string>
+     <string name="permission_storage">Pro ukládání připomínek a zvonění</string>
 </resources>

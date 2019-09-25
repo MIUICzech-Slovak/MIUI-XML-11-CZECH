@@ -242,4 +242,5 @@
      <string name="can_not_transfer_when_screening">Není možné vysílat během přenosu souborů</string>
      <string name="wireless_charging_notification_message3">Nastala chyba během nabíjení. Reverzní bezdrátové nabíjení je deaktivováno.</string>
      <string name="wireless_charging_notification_titile">Reverzní bezdrátové nabíjení je deaktivováno</string>
+     <string name="flip_screen_camera_tip">Pro používání fotoaparátu otočte zařízení</string>
 </resources>
