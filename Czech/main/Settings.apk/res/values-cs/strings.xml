@@ -347,7 +347,7 @@ Administrátor může sledovat a spravovat nastavení, přístup, aplikace a dat
   <string name="app_overlay_permission_preference">Povolení na vykreslení aplikace nahoře</string>
   <string name="app_permissions">Povolení aplikací</string>
   <string name="app_permissions_group_summary" formatted="false">Povoleno: %d z %d aplikací</string>
-  <string name="app_permissions_summary" formatted="false">Další přístup povolet %d z %d apl.</string>
+  <string name="app_permissions_summary">Aplikace používající %1$s</string>
   <string name="app_process_limit_title">Omezení procesů na pozadí</string>
   <string name="app_restrictions_custom_label">Nastavit omezení aplikací</string>
   <string name="app_sees_restricted_accounts">Tato aplikace má přístup k vašim účtům</string>
