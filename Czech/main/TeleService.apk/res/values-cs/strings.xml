@@ -1482,9 +1482,7 @@ Počet zbývajících pokusů: %d."</string>
   <string name="sum_xdivert_enabled">X-Divert povolen</string>
   <string name="summary_manage_subscriptions">Spravuje nastavení síťových připojení pro každé předplatné</string>
   <string name="system_visual_voicemail_client"/>
-  <string name="t9_indexing_method_pinyin">Abecedně</string>
   <string name="t9_indexing_method_title">Vyhledávání T9</string>
-  <string name="t9_indexing_method_zhuyin">Foneticky</string>
   <string name="t9_indexing_rebuilding_message">Obnovování T9 Indexů...</string>
   <string name="technology_news_disable">Technologické zprávy zakázány</string>
   <string name="technology_news_enable">Technologické zprávy povoleny</string>
