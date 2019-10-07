@@ -322,8 +322,8 @@
   <string name="settings">Nastavení</string>
   <string name="settings_shortcut">Zkratky</string>
   <string name="shake_to_align_icons">Potřepáním uspořádat ikony</string>
-  <string name="shake_to_align_icons_summary">Protřepejte zařízením během úpravy plochy pro vyplnění prázdných buněk</string>
-  <string name="shake_to_align_icons_title">Potřepáním zaplňte prázdné buňky</string>
+  <string name="shake_to_align_icons_summary">Zatřepejte zařízením během úpravy plochy pro vyplnění prázdných buněk</string>
+  <string name="shake_to_align_icons_title">Zatřepáním zaplňte prázdné buňky</string>
   <string name="share">Sdílet</string>
   <string name="sharedUserId"/>
   <string name="show_all">Zobrazit vše</string>
