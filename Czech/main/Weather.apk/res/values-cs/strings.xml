@@ -207,7 +207,7 @@ Zadejte město manuálně"</string>
   <string name="unit">Jednotky</string>
   <string name="unit_temperature">Teplota</string>
   <string name="unit_wind">Rychlost větru</string>
-  <string name="update_night_setting_summary_text">Neaktualizovat v čase 23:00-07:00</string>
+  <string name="update_night_setting_summary_text">Aktualizovat v čase 23:00-07:00</string>
   <string name="update_night_setting_title_text">Aktualizace v noci</string>
   <string name="update_notification_info">Aktualizace dat...</string>
   <string name="update_setting_title_text">Nastavení aktualizace</string>
