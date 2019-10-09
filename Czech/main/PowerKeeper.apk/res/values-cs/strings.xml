@@ -264,4 +264,6 @@
   <string name="user_define_mode">Název</string>
   <string name="warm_configure">Nastavení kontroly teploty</string>
   <string name="warm_performance_tip">Ve výkonných operacích se může teplota zařízení zvýšit</string>
+     <string name="permstep_description">Povolit aplikací přístup k počtu kroků</string>
+     <string name="permstep_label">Číst kroky</string>
 </resources>

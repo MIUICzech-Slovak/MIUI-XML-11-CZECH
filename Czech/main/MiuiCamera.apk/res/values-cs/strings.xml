@@ -803,4 +803,26 @@ Objekt bude ostrý na rozmazaném pozadí."</string>
   <string name="wideselfie_rotate_to_left_slowly">Natočte telefon doleva</string>
   <string name="wideselfie_rotate_to_right_slowly">Natočte telefon doprava</string>
   <string name="zoom_no_support_tip_48M">Zoom nefunguje v 48MP režimu</string>
+     <string name="accessibility_flash_back_soft_light">Blesk pracuje v režimu jemného světla</string>
+     <string name="dirty_tip_toast">Čočka je zašpiněná. Vyčistěte ji.</string>
+     <string name="photo_assistance_tips_title">Tipy</string>
+     <string name="pref_960_watermark_title">960FPS vodoznak</string>
+     <string name="pref_lens_dirty_detect_summary">Upozornit na zašpinění čočky</string>
+     <string name="pref_lens_dirty_detect_title">Zašpiněná čočka</string>
+     <string name="pref_photo_assistance_tips_off">Vyp</string>
+     <string name="pref_photo_assistance_tips_on">Zap</string>
+     <string name="recommend_macro_mode">Zkuste Makro režim</string>
+     <string name="recommend_portrait">Zkuste Portrét</string>
+     <string name="recommend_super_night">Zkuste Noční režim</string>
+     <string name="super_eis">Super stabilizace</string>
+     <string name="super_eis_disabled_hint">Super stabilizace je vypnutá</string>
+     <string name="super_night_hint">Optimalizace obrazu. Nehýbejte se zařízením.</string>
+     <string name="ultra_tele_use_hint_text_body">"Použijte 50X zoom pro zachycení vzdálených objektů"</string>
+     <string name="ultra_tele_use_hint_text_title">50X zoom</string>
+     <string name="vv_duartion_hint">%1$s | Segment %2$d | %3$ss</string>
+     <string name="vv_hint">Můžete točit vlogy jen v režimu na šířku</string>
+     <string name="vv_stability_hint">Nehýbejte se zařízením</string>
+     <string name="vv_start">Točit vlog</string>
+     <string name="vv_use_hint_text_body">"Vlog režim umožňuje natáčet a upravovat videa"</string>
+     <string name="vv_use_hint_text_title">VLOG</string>
 </resources>
