@@ -2015,7 +2015,7 @@ Pamatujte, že někdy tyto hovory mohou být užitečné. Blokujte pouze čísla
   <string name="pc_battery_detail_device_item_title">spotřeba baterie</string>
   <string name="pc_battery_history_battery_detail_menu_item">Podrobnosti</string>
   <string name="pc_battery_history_consume_rank_menu_item">Hodnocení</string>
-  <string name="pc_battery_history_rank_mha_menu_item">miliampery za hodinu</string>
+  <string name="pc_battery_history_rank_mha_menu_item">Miliampérhodiny</string>
   <string name="pc_battery_history_rank_percent_menu_item">Procenta</string>
   <string name="pc_install_manager">Správce instalací</string>
   <string name="pc_main_activity_back">Zpět</string>
