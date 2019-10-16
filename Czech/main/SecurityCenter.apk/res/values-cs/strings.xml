@@ -3354,4 +3354,10 @@ Remaining data includes data that has been rolled over from the previous month."
      <string name="power_center_5g_save_summary_text">Snížit spotřebu baterie 5G připojením</string>
      <string name="power_center_5g_save_title_text">5G šetření baterie</string>
      <string name="process_vpnsdkmanager_label">Zrychlení her</string>
+     <string name="cta_close_dialog_cancel">Zrušit</string>
+     <string name="cta_close_dialog_content">Když zakážete aplikaci Optimalizace přístup k internetu a vaší poloze, vaše zařízení bude méně bezpečné. Chcete ho zakázat i přes to?</string>
+     <string name="cta_close_dialog_ok">Zakázat</string>
+     <string name="cta_close_dialog_title">Zakázat přístup</string>
+     <string name="shortcut_title_scan">Vyčistit</string>
+     <string name="shortcut_title_whatsapp_clean">WhatsApp čistič</string>
 </resources>
