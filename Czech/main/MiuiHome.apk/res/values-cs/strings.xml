@@ -393,7 +393,7 @@
   <string name="drawer_background_light">Světlé</string>
   <string name="drawer_background_transparency">Průhlednost pozadí v seznamu aplikací</string>
   <string name="drawer_settings">Seznam aplikací</string>
-  <string name="home_screen_settings">Domáca plocha</string>
+  <string name="home_screen_settings">Domácí plocha</string>
   <string name="local_apps">Lokální aplikace</string>
   <string name="recommend_app">Návrhy aplikací</string>
   <string name="search_in_apps_store">Hledat \"%1$s\" v %2$s</string>
