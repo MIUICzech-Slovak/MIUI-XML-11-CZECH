@@ -290,7 +290,7 @@
   <string name="app_manager_mobile_slot2">Mobilní data (SIM 2)</string>
   <string name="app_manager_more_times">Přístup 100000+ krát</string>
   <string name="app_manager_my_app">Moje aplikace</string>
-  <string name="app_manager_net_control_title">Zakázat používání dat</string>
+  <string name="app_manager_net_control_title">Povolit používání dat</string>
   <string name="app_manager_net_mobile">Mobilní</string>
   <string name="app_manager_net_wifi">Wi-Fi</string>
   <string name="app_manager_not_allow">Ne</string>
