@@ -20,4 +20,20 @@
         <item quantity="other">Nalezeno: %d</item>
         <item quantity="one">Nalezeno: 1</item>
     </plurals>
+     <plurals name="durationDays">
+        <item quantity="other">%1$d dní</item>
+        <item quantity="one">%1$d den</item>
+     </plurals>
+     <plurals name="durationHours">
+        <item quantity="other">%1$dh</item>
+        <item quantity="one">%1$dhr</item>
+     </plurals>
+     <plurals name="durationMinutes">
+        <item quantity="other">%1$dmin</item>
+        <item quantity="one">%1$dmin</item>
+     </plurals>
+     <plurals name="durationSeconds">
+        <item quantity="other">%1$ds</item>
+        <item quantity="one">%1$ds</item>
+     </plurals>	
 </resources>

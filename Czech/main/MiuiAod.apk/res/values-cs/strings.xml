@@ -72,4 +72,10 @@
   <string name="text_size">Velikost textu</string>
   <string name="time_style">Styl</string>
   <string name="time_style_layout">Rozložení</string>
+     <string name="above_image">Nahoře</string>
+     <string name="aod_show_date_and_time">Datum a čas</string>
+     <string name="below_image">Dole</string>
+     <string name="custom_image">Vlastní obrázek</string>
+     <string name="shownone_arround_image">Žádný</string>
+     <string name="time_location">Pozice hodin</string>  
 </resources>

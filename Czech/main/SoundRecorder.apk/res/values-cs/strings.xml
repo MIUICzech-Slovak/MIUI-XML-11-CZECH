@@ -171,4 +171,6 @@ Při použití mobilních dat se budou účtovat poplatky u operátora."</string
 
 Dotkněte se %s pro spuštění stahování po připojení k Wi-Fi"</string>
   <string name="wifi_recommended_title">Upozornění na spotřebu dat</string>
+     <string name="search_empty">Nic se nenašlo</string>
+     <string name="search_hint">Vyhledat</string>  
 </resources>

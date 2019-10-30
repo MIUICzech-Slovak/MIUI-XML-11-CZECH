@@ -6095,4 +6095,24 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="zone_auto_summaryOn">Použít časové pásmo ze sítě</string>
   <string name="zone_list_menu_sort_alphabetically">Řadit abecedně</string>
   <string name="zone_list_menu_sort_by_timezone">Řadit podle časového pásma</string>
+     <string name="add_broadsize_fingerprint_instruction_msg">Senzor otisku prstu je na pravé hraně vašeho zařízení</string>
+     <string name="bluetooth_inform_messgae">"Nebylo možné připojit se k %1$s.
+Zkontrolujte následované:
+1. Bluetooth je deaktivované nebo mimo dosah zařízení.
+2. Toto zařízení není viditelné.
+3. Zařízení je připojené k jinému zařízení."</string>
+     <string name="bluetooth_inform_messgae_title">Nebylo možné se připojit</string>
+     <string name="fingerprint_unlock_press_type">Stlačení</string>
+     <string name="fingerprint_unlock_touch_type">Dotyk</string>
+     <string name="fingerprint_unlock_type">Způsob rozpoznání otisku prstu</string>
+     <string name="network_alarm">Neztišit internetové volání</string>
+     <string name="network_alarm_summary">Poznámka: Některé aplikace nejsou kompatibilní s touto funkcí.%1$s</string>
+     <string name="network_alarm_summary_reg">Zobrazit aplikace</string>
+     <string name="network_alarm_support_apps">Podporované aplikace</string>
+     <string name="screen_fps_summary_power_save">Používání fixní hodnoty spotřebuje méně energie</string>
+     <string name="screen_fps_summary_smooth">Některé aplikace automaticky zvýší hodnotu pro zlepšení kvality zobrazení</string>
+     <string name="screen_fps_unit_power_save">%dHz (Šetří baterii)</string>
+     <string name="screen_fps_unit_smooth">%dHz (Lepší kvalita)</string>
+     <string name="unlock_type_category_title">Způsob rozpoznávání</string>
+     <string name="wellbing_title">Čas používání a rodičovská kontrola</string>  
 </resources>

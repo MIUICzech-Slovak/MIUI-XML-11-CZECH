@@ -3360,4 +3360,8 @@ Remaining data includes data that has been rolled over from the previous month."
      <string name="cta_close_dialog_title">Zakázat přístup</string>
      <string name="shortcut_title_scan">Vyčistit</string>
      <string name="shortcut_title_whatsapp_clean">WhatsApp čistič</string>
+     <string name="applock_go_to">Nastavení</string>
+     <string name="applock_settings_unlock_all_toast">Všechny apl. jsou odemknuté</string>
+     <string name="lock_all_title">Uzamknout všechny aplikace</string>
+     <string name="power_center_list_item_set_lockscreen_time_holder">Uzamknout zařízení po %ds nečinnosti</string>	 
 </resources>

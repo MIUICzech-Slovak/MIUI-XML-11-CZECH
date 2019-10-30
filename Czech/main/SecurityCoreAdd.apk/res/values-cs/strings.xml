@@ -395,4 +395,8 @@ Můžete je i znovu stáhnout."</string>
   <string name="xspace_uninstall_dialog_title">Odinstalovat klonovanou apl.</string>
   <string name="xspace_uninstalling">Odinstalace...</string>
   <string name="xspace_whatsapp_title">WhatsApp</string>
+     <string name="xspace_disable">Není vytvořené</string>
+     <string name="xspace_enable">Vytvořené</string>
+     <string name="xspace_notification">Upozornění klonovaných aplikací</string>
+     <string name="xspace_settins">Nastavit</string>  
 </resources>
