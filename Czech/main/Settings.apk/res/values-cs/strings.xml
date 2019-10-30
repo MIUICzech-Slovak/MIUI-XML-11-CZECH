@@ -6097,7 +6097,7 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="zone_list_menu_sort_by_timezone">Řadit podle časového pásma</string>
      <string name="add_broadsize_fingerprint_instruction_msg">Senzor otisku prstu je na pravé hraně vašeho zařízení</string>
      <string name="bluetooth_inform_messgae">"Nebylo možné připojit se k %1$s.
-Zkontrolujte následované:
+Zkontrolujte následující:
 1. Bluetooth je deaktivované nebo mimo dosah zařízení.
 2. Toto zařízení není viditelné.
 3. Zařízení je připojené k jinému zařízení."</string>
