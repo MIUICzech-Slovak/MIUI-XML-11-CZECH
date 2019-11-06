@@ -2055,4 +2055,22 @@ Jakýkoli uživatel může aktualizovat aplikace všech ostatních uživatelů."
   <string name="zen_silence_introduction_voice">V tomto režimu budou blokovány VŠECHNY zvuky a vibrace, včetně těch z budíků, hudby, videí a her. Telefonovat budete moci i nadále.</string>
      <string name="gxzw_quick_close">Zavřít</string>
      <string name="gxzw_quick_open_title">Otevřené menu zkratek</string>
+     <string name="quick_settings_sim_disabled">(Deaktivovaná)</string>
+  <string name="gxzw_area">Skener otisku prstu</string>
+  <string name="gxzw_press_harder">Stlačte o trochu více</string>
+  <string name="gxzw_quick_close">Zavřít</string>
+  <string name="gxzw_quick_open_add_event">Událost</string>
+  <string name="gxzw_quick_open_add_event_sub">Kalendář</string>
+  <string name="gxzw_quick_open_qr_code">QR kód</string>
+  <string name="gxzw_quick_open_qr_code_sub">Skener</string>
+  <string name="gxzw_quick_open_search">Hledat</string>
+  <string name="gxzw_quick_open_search_sub">Prohlížeč</string>
+  <string name="gxzw_quick_open_skip_teach">Přeskočit</string>
+  <string name="gxzw_quick_open_title">Otevřít menu zkratek</string>
+  <string name="gxzw_quick_tip_press">Stále držte...</string>
+  <string name="gxzw_quick_tip_slide">Nezvedejte váš prst. Potáhněte pro výběr.</string>
+  <string name="gxzw_try_again">Zkuste to znova</string>
+  <string name="gxzw_try_more_again">Zkuste to znova</string>
+  <string name="gxzw_use_password">Použijte vaše heslo pro odemknutí</string>
+  <string name="gxzw_use_password_to_unlock">Zadajte heslo</string>  
 </resources>

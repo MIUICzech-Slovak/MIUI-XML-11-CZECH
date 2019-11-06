@@ -91,4 +91,13 @@
         <item>Asistent</item>
         <item>Google</item>
     </string-array>	
+     <string-array name="global_search_mode_entries">
+        <item>Žádné</item>
+        <item>Potáhnutím nahoru</item>
+        <item>Lišta vyhledávání</item>
+     </string-array>
+     <string-array name="global_search_provider_entries">
+        <item>Předvolený </item>
+        <item>Google</item>
+     </string-array>
 </resources>

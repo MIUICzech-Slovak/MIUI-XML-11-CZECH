@@ -781,4 +781,8 @@ Přečtěte si a odsouhlaste naše Podmínky používání a Ochranu soukromí.
      <string name="cloud_storage_already_full">Cloudové úložiště je plné: %1$s/%2$s</string>
      <string name="cloud_storage_default_title">Cloudové úložiště</string>
      <string name="cloud_storage_loading_data">Načítání...</string>
+     <string name="menu_add_feedback">Zpětná vazba</string>
+     <string name="menu_add_short_cut">Vytvořit odkaz na ploše</string>
+     <string name="tip_short_cut_added_success">Vytvořené</string>
+     <string name="tip_short_cut_already_added">Vytvořené</string>
 </resources>

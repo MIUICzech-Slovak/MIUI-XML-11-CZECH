@@ -831,4 +831,8 @@ Objekt bude ostrý na rozmazaném pozadí."</string>
      <string name="hint_subtitle_prompt">Můžete diktovat</string>
      <string name="pref_video_subtitle">Titulky</string>
      <string name="subtitle_network_exception_tips">Nebylo možné připojit se k síti.</string>	
+  <string name="network_access_user_notice_message_live_video">Fotoaparát vyžaduje připojení k síti pro správné fungování některých funkcí.</string>
+  <string name="network_access_user_notice_message_sticker">Fotoaparát vyžaduje připojení k síti pro správné fungování některých funkcí.</string>
+  <string name="network_access_user_notice_message_voice_caption">Fotoaparát vyžaduje připojení k síti pro správné fungování některých funkcí.</string>
+  <string name="network_access_user_notice_agree">Souhlasím</string>
 </resources>

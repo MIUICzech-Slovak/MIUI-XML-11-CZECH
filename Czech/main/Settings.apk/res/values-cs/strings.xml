@@ -6115,4 +6115,5 @@ Zkontrolujte následující:
      <string name="screen_fps_unit_smooth">%dHz (Lepší kvalita)</string>
      <string name="unlock_type_category_title">Způsob rozpoznávání</string>
      <string name="wellbing_title">Čas používání a rodičovská kontrola</string>  
+     <string name="xiaomi_cloud_find_device">Vyhledávání zařízení</string>
 </resources>

@@ -358,4 +358,10 @@ http://www.miuios.cz/rom
   <string name="widget_havenot_content">Žádná poznámka není vytvořena.</string>
   <string name="widget_under_privacy_mode">Režim Soukromí, není možné zobrazit obsah poznámky</string>
      <string name="privacy_note_content_empty">Žádné položky.</string>
+     <string name="audio_create_normal_state">Pusťte pro vytvoření. Potáhněte nahoru pro zrušení.</string>
+     <string name="audio_create_will_cancel_state">Pusťte pro zrušení</string>
+     <string name="new_audio_create_cancel_talkback_des">Zrušené</string>
+     <string name="new_audio_create_done_talkback_des">Vytvořené</string>
+     <string name="new_audio_create_guide_tip">Podržte pro vytvoření nahrávky</string>
+     <string name="new_audio_create_talkback_des">Dotkněte se pro vytvoření poznámky. Podržte pro vytvoření nahrávky. Pusťte tlačítko pro ukončení nahrávky nebo potáhněte nahoru pro zrušení.</string>
 </resources>

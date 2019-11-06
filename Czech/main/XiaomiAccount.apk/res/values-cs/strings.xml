@@ -596,4 +596,6 @@ Zkontrolujte také složku SPAM."</string>
   <string name="wipe_data_dialog_msg">%s nebylo synchronizováno (tato data se odstraní, pokud budete pokračovat).</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="wipe_data_dialog_title">Některé položky nebyly synchronizovány.</string>
+     <string name="pwd_width_phone_number_or_mail_num">Heslo nesmí obsahovat vaše telefonní číslo, email nebo Mi ID</string>
+     <string name="risky_pwd_not_allow">Nové heslo není bezpečné. Nastavte ho znova.</string>
 </resources>
