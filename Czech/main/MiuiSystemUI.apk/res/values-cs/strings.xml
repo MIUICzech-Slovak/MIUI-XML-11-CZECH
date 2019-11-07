@@ -776,13 +776,6 @@ Další použití datového připojení se může projevit na výši vašeho vy�
   <string name="guest_wipe_session_message">Chcete v relaci pokračovat?</string>
   <string name="guest_wipe_session_title">Vítejte zpět v relaci hosta!</string>
   <string name="guest_wipe_session_wipe">Začít znovu</string>
-  <string name="gxzw_area">Skener otisku prstu</string>
-  <string name="gxzw_long_press_tip"/>
-  <string name="gxzw_press_harder">Stiskněte silněji</string>
-  <string name="gxzw_try_again">Zkuste to znovu</string>
-  <string name="gxzw_try_more_again">Zkuste to znovu</string>
-  <string name="gxzw_use_password">Použijte heslo</string>
-  <string name="gxzw_use_password_to_unlock">Zadejte heslo</string>
   <string name="hdcp_checking_dialog_title">Nastavit chování kontroly HDCP</string>
   <string name="hdcp_checking_title">Kontrola HDCP</string>
   <string name="headset">Náhlavní souprava</string>
