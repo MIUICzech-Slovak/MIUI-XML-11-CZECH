@@ -4498,6 +4498,12 @@ Tato funkcia vyžaduje povolení pro přístup k vaší poloze, používání mo
   <string name="sound_title">Zvuk</string>
   <string name="sound_vibrate_settings">Zvuky a vibrace</string>
   <string name="speaker">Reproduktor</string>
+  <string name="speed_label_fast">Rychlá</string>
+  <string name="speed_label_medium">Střední</string>
+  <string name="speed_label_okay">OK</string>
+  <string name="speed_label_slow">Pomalá</string>
+  <string name="speed_label_very_fast">Velmi rychlá</string>
+  <string name="speed_label_very_slow">Velmi pomalá</string>
   <string name="spellchecker_language">Jazyk</string>
   <string name="spellchecker_quick_settings">Nastavení</string>
   <string name="spellchecker_security_warning">Prostřednictvím této kontroly pravopisu lze shromažďovat zadaný text včetně osobních údajů, jako jsou hesla a čísla kreditních karet. Kontrola pravopisu je součástí aplikace %1$s. Chcete tuto kontrolu pravopisu použít?</string>
