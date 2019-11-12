@@ -99,7 +99,7 @@
   <string name="delete_wallpapers_message">Vymazat tapety (%1$d)?</string>
   <string name="deselect_all">Odznačit vše</string>
   <string name="disable_wallpaper_scroll">Zakázat posouvání tapety</string>
-  <string name="double_tap_to_lock_title">Zamknout dvojitých poklepáním</string>
+  <string name="double_tap_to_lock_title">Zamknout dvojitým poklepáním</string>
   <string name="download_action">Stáhnout</string>
   <string name="dual_app">Klonované aplikace</string>
   <string name="edit_folder_title">Úprava názvu složky</string>
