@@ -230,4 +230,13 @@
      <string name="shortcut_failed">Nebylo možné vytvořit odkaz</string>
      <string name="sst_shield_tag_desc">Spravovat blokované kategorie</string>
      <string name="sst_shield_tag_title">Blokované položky</string>  
+     <string name="local_default_category">Lokální</string>
+     <string name="mode_auto_desc_selected">Dostávat nové tapety automaticky</string>
+     <string name="mode_cw_desc_open">Přidejte vaše obrázky do prezentace</string>
+     <string name="mode_cw_desc_selected">Používáte vlastní obrázky v prezentaci</string>
+     <string name="morning_greet_title">Ranní pozdravy</string>
+     <string name="sst_morning_greeting_desc2">Dostávat pozdravy mezi %1$s a %2$s každý ráno</string>
+     <string name="sst_morning_history_desc">Zobrazit předcházející ranní pozdravy</string>
+     <string name="sst_morning_history_title">Historie ranních pozdravů</string>
+     <string name="system_default">Lokální</string>  
 </resources>
