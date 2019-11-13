@@ -594,4 +594,6 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
   <string name="wallpaper_settings_pad_more_page_title">Více tapet</string>
   <string name="wallpaper_settings_page_title">tapeta</string>
   <string name="wallpaper_static">Statické</string>
+     <string name="lab">Experimentální</string>
+     <string name="like_list">Oblíbené</string>
 </resources>

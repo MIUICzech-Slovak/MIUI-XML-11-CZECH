@@ -3364,4 +3364,11 @@ Remaining data includes data that has been rolled over from the previous month."
      <string name="applock_settings_unlock_all_toast">Všechny apl. jsou odemknuté</string>
      <string name="lock_all_title">Uzamknout všechny aplikace</string>
      <string name="power_center_list_item_set_lockscreen_time_holder">Uzamknout zařízení po %ds nečinnosti</string>	 
+     <string name="game_booster_close">Zrychlení her je vypnuté</string>
+     <string name="power_center_scan_item_title_5g">5G připojení</string>
+     <string name="power_dialog_super_save_msg_5g">Ultra šetříč baterie omezí funkce náročné na spotřebu baterie (např. 5G připojení) a sníží výkon zařízení. Jen hovory, SMS a síťové připojení zůstanou povolené. Povolit Ultra šetření baterie?</string>
+     <string name="power_optimize_disable_5g">Zakázat 5G připojení</string>
+     <string name="power_save_ps_close_setting_5g">Omezit funkce náročné na spotřebu baterie (synchr., 5G, GPS)</string>
+     <string name="privacyapp_number_masked_text">Obsah upozornění je skrytý</string>
+     <string name="privacyapp_number_unmasked_text">Obsah připojení může být skrytý</string>
 </resources>

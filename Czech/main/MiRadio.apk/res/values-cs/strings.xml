@@ -163,4 +163,5 @@
   <string name="using_recorder_dialog_message">FM rádio vyžaduje povolení ohledně používání nahrávání, pro jeho správné fungování.</string>
   <string name="using_recorder_dialog_title">Povolení přístupu</string>
   <string name="view_stations_list">Zobrazit seznam stanic</string>
+     <string name="msg_try_plug_headset">Připojte sluchátka.</string>
 </resources>

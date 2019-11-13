@@ -541,4 +541,9 @@
   <string name="year_month_day_all_format_en">MM.dd.yyyy HH:mm:ss</string>
   <string name="yesterday">Včera</string>
   <string name="ball_football_recent_ing">Probíhá</string>
+     <string name="battery_history">Baterie</string>
+     <string name="card_expand_note_clear_all">Vymazat</string>
+     <string name="miuishare_title_share">Sdílet</string>
+     <string name="search_change_header">Nahradit obrázek pozadí</string>
+     <string name="search_clear_header">Odstranit obrázek pozadí</string>
 </resources>

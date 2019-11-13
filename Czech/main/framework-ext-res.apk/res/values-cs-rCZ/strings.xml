@@ -243,4 +243,5 @@
   <string name="wireless_charging_notification_titile">Reverzní bezdrátové nabíjení je deaktivováno</string>
   <string name="xspace_head">Klonovaná aplikace</string>
   <string name="xspace_resolver_activity_title">Vybrat apl.</string>
+     <string name="data_usage_context">Když není Wi-Fi zapnutá, vaše zařízení bude připojené k mobilním datům.</string>
 </resources>

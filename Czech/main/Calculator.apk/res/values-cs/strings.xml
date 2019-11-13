@@ -351,4 +351,6 @@ má velikost: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff">"Uvedená verze %1$s
 Delta aktualizace má velikost: %2$s"</string>
   <string name="xiaomi_update_dialog_title">%1$s aktualizováno!</string>
+     <string name="convertion_unit_radix">Číselný systém</string>
+     <string name="item_title_radix">Číselný systém</string>
 </resources>
