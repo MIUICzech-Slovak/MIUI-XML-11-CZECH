@@ -308,8 +308,9 @@
   <string name="worldclock_title">Hodiny</string>
   <string name="worldclock_world_time">Časové zóny</string>
   <string name="worldcolock_date_display_prefix">"Aktuální: "</string>
-  <string name="worldcolock_timezone_current">Současné: %1$s</string>
-  <string name="worldcolock_timezone_date">MMM dd</string>
+  <string name="worldcolock_timezone_current">Současní: %1$s</string>
+  <string name="worldcolock_timezone_current_date">dd.MM.yyyy</string>
+  <string name="worldcolock_timezone_date">dd. MMM</string>
   <string name="worldcolock_timezone_gap">Hodina</string>
   <string name="worldcolock_timezone_local">Stejný čas jako u vás</string>
   <string name="module_unzipping">Rozbalování zvuků...</string>
