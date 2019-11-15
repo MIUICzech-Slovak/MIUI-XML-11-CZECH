@@ -28,13 +28,13 @@
      </string-array>
      <string-array name="record_scenes_summaries">
          <item>Nahrávat hudbu v lepší kvalitě</item>
-         <item>Dejte mikrofon blíže ke zdroji zvuku pro lepší kvalitu nahrávy</item>
+         <item>Dejte mikrofon blíže ke zdroji zvuku pro lepší kvalitu nahrávky</item>
          <item>Dejte telefon do středu mezi dvě osoby</item>
          <item>Maximální efektivní vzdálenost od mikrofonu je 10m</item>
      </string-array>
      <string-array name="record_scenes_summaries_stereo">
          <item>Nahrávat hudbu v lepší kvalitě</item>
-         <item>Dejte mikrofon blíže ke zdroji zvuku pro lepší kvalitu nahrávy</item>
+         <item>Dejte mikrofon blíže ke zdroji zvuku pro lepší kvalitu nahrávky</item>
          <item>Dejte telefon do středu mezi dvě osoby</item>
          <item>Maximální efektivní vzdálenost od mikrofonu je 10m</item>
      </string-array>				
