@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="about_app_name">About Themes</string>
+  <string name="about_app_name">O aplikaci Témata</string>
   <string name="account_info">Můj účet</string>
   <string name="account_name_not_login">Přihlásit se</string>
   <string name="account_unactivated">Účet není aktivován.</string>
@@ -435,6 +435,7 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
   <string name="theme_batch_update_dlg_content_single">Aktualizovat?</string>
   <string name="theme_batch_update_dlg_title">Aktualizovat</string>
   <string name="theme_batch_updating_text">Aktualizace (%1$d)...</string>
+  <string name="theme_bug_report">Zpětná vazba</string>
   <string name="theme_changed_failed_message">Nepodařilo se nastavit téma.</string>
   <string name="theme_changed_message">Téma úspěšně nastaveno</string>
   <string name="theme_changing_dialog_title">Aplikuji nové téma, prosím vyčkejte...</string>
