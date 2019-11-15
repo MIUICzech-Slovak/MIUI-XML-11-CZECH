@@ -514,8 +514,8 @@
   <string name="editphoto_datetime_needdownload_origin_title">Stáhnout originál</string>
   <string name="effect">Filtry</string>
   <string name="email_picker_title">Přidat sdílený e-mail</string>
-  <string name="empty_album_cloud_list_title">Žádné alba na synchr.</string>
-  <string name="empty_album_hidden_list_title">žádné skryté alba</string>
+  <string name="empty_album_cloud_list_title">Žádná alba na synchr.</string>
+  <string name="empty_album_hidden_list_title">Žádná skrytá alba</string>
   <string name="empty_description_conditions">Pamatovat příběhy na kterých záleží</string>
   <string name="empty_description_no_cards">Pamatovat příběhy na kterých záleží</string>
   <string name="empty_query_text_msg">Co chcete vyhledat...</string>
