@@ -756,7 +756,7 @@ Chcete opustit tuto stránku?"</string>
   <string name="pref_content_homepage">Nastavit domovskou stránku</string>
   <string name="pref_content_javascript">Povolit JavaScript</string>
   <string name="pref_content_night_read_mode">Zapnout noční režim</string>
-  <string name="pref_content_search_engine">Nastavit vyhledávání</string>
+  <string name="pref_content_search_engine">Výchozí vyhledávač</string>
   <string name="pref_content_search_engine_summary">Vyberte vyhledávač</string>
   <string name="pref_download_setting">Nastavení stahování</string>
   <string name="pref_enable_adblock_notification">Upozornit na blokovanou reklamu</string>
