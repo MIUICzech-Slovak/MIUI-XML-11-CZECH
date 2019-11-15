@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="about_app_name">About Themes</string>
   <string name="account_info">Můj účet</string>
   <string name="account_name_not_login">Přihlásit se</string>
   <string name="account_unactivated">Účet není aktivován.</string>
