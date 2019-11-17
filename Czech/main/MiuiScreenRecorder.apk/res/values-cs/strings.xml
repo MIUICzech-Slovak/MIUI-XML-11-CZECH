@@ -30,7 +30,7 @@
   <string name="first_using_mic_dialog_message">Nahrávání vyžaduje přístup k mikrofonu. Chcete povolit přístup?</string>
   <string name="first_using_mic_dialog_title">Jsou vyžadována povolení</string>
   <string name="fixed_frame_rate">Fixní snímkovací frekvence</string>
-  <string name="fixed_frame_rate_summary">Nahrávání s fixní snímkovací frekvencí vylepšuje kvalitu nahrávky.</string>
+  <string name="fixed_frame_rate_summary">Nahrávání s fixní snímkovací frekvencí zlepšuje kvalitu nahrávky.</string>
   <string name="frames">Počet snímků</string>
   <string name="frames_summary">Více snímků eliminuje rozmazání při pohybu</string>
   <string name="frequently_click_toast">Probíhá spouštění služby, čekejte prosím...</string>

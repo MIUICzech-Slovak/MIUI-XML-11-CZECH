@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="about_app_name">O aplikaci Témata</string>
   <string name="account_info">Můj účet</string>
   <string name="account_name_not_login">Přihlásit se</string>
   <string name="account_unactivated">Účet není aktivován.</string>
@@ -18,7 +19,7 @@
   <string name="author_dialog_message">Zrušit sledování?</string>
   <string name="author_dynamic">Stav</string>
   <string name="author_dynamic_no_resource">Nic nebylo nalezeno</string>
-  <string name="backup_theme_dialog_message">Zálohování aktuálního téma</string>
+  <string name="backup_theme_dialog_message">Chcete zálohovat aktuální téma?</string>
   <string name="backup_theme_dialog_ok">Zálohovat</string>
   <string name="backup_theme_fail_trial_rights_message">Téma na zkoušku nelze zálohovat</string>
   <string name="backup_theme_name">Moje zálohy</string>
@@ -113,6 +114,7 @@
   <string name="gift_use_confirmation_dlg_title">Odeslat tento dar?</string>
   <string name="gift_use_fail_dlg_title">Nastala chyba</string>
   <string name="gift_used">Odesláno</string>
+  <string name="goto_purchased_list">Zobrazit historii nákupů</string>
   <string name="has_mamual_hide_font">Skryté</string>
   <string name="has_mamual_hide_theme">Skryté</string>
   <string name="has_mamual_hide_wallpaper">Skryté</string>
@@ -412,6 +414,7 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
   <string name="sdcard_not_mounted_dialog_message">"Vložte SD kartu.
 "</string>
   <string name="sdcard_not_mounted_dialog_title">Žádná SD karta</string>
+  <string name="search_hint_header_text">V trendu</string>
   <string name="selected_resource_file_invalid">Zvolený soubor je poškozený</string>
   <string name="set_home_wallpaper_failed">%s. Nemůže nastavit tapetu.</string>
   <string name="settings">Nastavení</string>
@@ -434,6 +437,7 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
   <string name="theme_batch_update_dlg_content_single">Aktualizovat?</string>
   <string name="theme_batch_update_dlg_title">Aktualizovat</string>
   <string name="theme_batch_updating_text">Aktualizace (%1$d)...</string>
+  <string name="theme_bug_report">Zpětná vazba</string>
   <string name="theme_changed_failed_message">Nepodařilo se nastavit téma.</string>
   <string name="theme_changed_message">Téma úspěšně nastaveno</string>
   <string name="theme_changing_dialog_title">Aplikuji nové téma, prosím vyčkejte...</string>

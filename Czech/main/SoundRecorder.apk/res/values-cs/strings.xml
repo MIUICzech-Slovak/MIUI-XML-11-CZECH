@@ -81,6 +81,7 @@ Při použití mobilních dat se budou účtovat poplatky u operátora."</string
   <string name="preference_silent_mode">Nahrávání v tichém režimu</string>
   <string name="preference_status_bar_indicator_prompt">Zobrazit zkratku v roletce během nahrávání</string>
   <string name="preference_tip_rename">Přejmenovat nahrávku po dokončení nahrávání</string>
+  <string name="privacy_policy_title">Zásady ochrany osobních údajů</string>
   <string name="recognition_error_cancel">Zrušeno</string>
   <string name="recognition_error_download_cancel">Později</string>
   <string name="recognition_error_download_fail">Stahování selhalo. Zkontrolujte nastavení sítě</string>
@@ -90,7 +91,7 @@ Při použití mobilních dat se budou účtovat poplatky u operátora."</string
   <string name="recognition_error_downloading">Stahování</string>
   <string name="recognition_error_engine">Recognition Engine out of order</string>
   <string name="recognition_error_engine_singleton">Recognition Engine is busy</string>
-  <string name="recognition_error_format">Illegal audio format</string>
+  <string name="recognition_error_format">Neplatný zvukový formát</string>
   <string name="recognition_error_internal">Závažná chyba</string>
   <string name="recognition_error_stopped">Rozpoznávání pozastaveno</string>
   <string name="recognition_status_downloading">Stahování</string>
