@@ -6146,4 +6146,9 @@ Zkontrolujte následující:
      <string name="wifi_coverage_extend">Povolit rozšířené Wi-Fi pokrytí</string>
      <string name="wifi_coverage_extend_summary">Rozšířit Wi-Fi pokrytí pomocí hot-spotu</string>
      <string name="wifi_multi_network_acceleration">Inteligentní zrychlení sítě</string>
+     <string name="wifi_generation">Použít ikony specifikující generaci</string>
+     <string name="wifi_generation_icon_display">Ikony</string>
+     <string name="wifi_generation_status">WLAN %1$d</string>
+     <string name="wifi_generation_summary">Přidá na ikonu WLAN číslo generace bezdrátové technologie</string>
+     <string name="wifi_generation_title">Technologie</string>
 </resources>
