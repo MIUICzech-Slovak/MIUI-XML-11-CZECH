@@ -1107,6 +1107,7 @@ Vysílání využívá nízkoenergetické signály Bluetooth."</string>
   <string name="controls_label">Ovládací prvky</string>
   <string name="controls_subtitle">Upravit spotřebu energie</string>
   <string name="convenience_key_category_title">Zkratky</string>
+  <string name="cool_color">Studené</string>
   <string name="copyright_title">Autorská práva</string>
   <string name="country_name">%s (systém)</string>
   <string name="create">Vytvořit</string>
@@ -2966,6 +2967,7 @@ Zvolte Váš operační systém:"</string>
   <string name="mvno_type">Typ MVNO</string>
   <string name="my_device">Zařízení</string>
   <string name="my_device_disclaimer">Poznámka: Informace o HW, CPU, kapacitě baterie, velikosti displeje a rozlišení je poskytováno Xiaomi, designéry a dodavateli.</string>
+  <string name="nature_color">Výchozí</string>
   <string name="navigation_guide_app_summary">Potáhněte vlevo nebo vpravo od hrany v horní části displeje</string>
   <string name="navigation_guide_app_title">Vyvolat akci aplikace</string>
   <string name="navigation_guide_appswitch_anim_summary">Potáhněte prstem od hrany pro přepnutí aplikací</string>
@@ -5524,6 +5526,7 @@ Každý uživatel může přijmout aktualizovaná oprávnění aplikací jménem
   <string name="wallpaper_lockscreen">Zámek</string>
   <string name="wallpaper_settings_fragment_title">Vybrat tapetu:</string>
   <string name="wallpaper_settings_title">Tapeta</string>
+  <string name="warm_color">Teplé</string>
   <string name="webview_license_title">Systémová licence WebView</string>
   <string name="weight_heavy">Tlustý</string>
   <string name="weight_light">Tenký</string>
