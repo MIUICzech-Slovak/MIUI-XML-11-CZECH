@@ -6165,4 +6165,7 @@ Zkontrolujte následující:
      <string name="max_fingerprint_reached_toast">Můžete přidat maximálne 5 otisků</string>
      <string name="sunlight_mode">Režim denního světla</string>
      <string name="sunlight_mode_summary">Přizpůsobit jas přímému slunci pokud je automatický jas vypnutý</string>
+  <string name="usb_headset_not_support_cancel">Rozumím</string>
+  <string name="usb_headset_not_support_message">Není možné přehrávat zvukové soubory přes redukci. Použijte Bluetooth sluchátka nebo 3.5mm jack konektor.</string>
+  <string name="usb_headset_not_support_tile">Není možné přehrát zvuk</string>  
 </resources>

@@ -143,4 +143,24 @@
         <item quantity="other">Můžete vymazat %d videí</item>
         <item quantity="one">Můžete vymazat %d video</item>
      </plurals>
+    <plurals name="global_wa_clean_finish_audio">
+        <item quantity="other">Uvolněné %1$s (dostatek pro %2$d skladeb)</item>
+        <item quantity="one">Uvolněné %1$s (dostatek pro %2$d skladeb)</item>
+    </plurals>
+    <plurals name="global_wa_clean_finish_picture">
+        <item quantity="other">Uvolněné %1$s (dostatek pro %2$d fotografií)</item>
+        <item quantity="one">Uvolněné %1$s (dostatek pro %2$d fotografií)</item>
+    </plurals>
+    <plurals name="global_wa_image">
+        <item quantity="other">Položek: %1$d</item>
+        <item quantity="one">Položek: %1$d</item>
+    </plurals>
+    <plurals name="global_wa_video">
+        <item quantity="other">Položek: %1$d</item>
+        <item quantity="one">Položek: %1$d</item>
+    </plurals>
+    <plurals name="global_wa_voice">
+        <item quantity="other">Hlasové zprávy: %1$d</item>
+        <item quantity="one">Hlasové zprávy: %1$d</item>
+    </plurals>
 </resources>
