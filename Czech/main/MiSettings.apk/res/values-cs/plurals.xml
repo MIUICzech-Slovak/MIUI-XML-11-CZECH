@@ -68,4 +68,37 @@
         <item quantity="other">min</item>
         <item quantity="one">min</item>
     </plurals>
+     <plurals name="last_several_days">
+        <item quantity="other">%d dní</item>
+        <item quantity="one">%d den</item>
+     </plurals>
+     <plurals name="trend_from_last_several_day_equal">
+        <item quantity="other">Dnešní čas displeje je stejný jako %d-denní průměr</item>
+        <item quantity="one">Dnešní čas displeje je stejný jako %d-denní průměr</item>
+     </plurals>
+     <plurals name="trend_from_last_several_day_less">
+        <item quantity="other">%2$s méně času displeje jako váš %1$d-denní průměr</item>
+        <item quantity="one">%2$s méně času displeje jako váš %1$d-denní průměr</item>
+     </plurals>
+     <plurals name="trend_from_last_several_day_more">
+        <item quantity="other">%2$s více času displeje jako váš %1$d-denní průměr</item>
+        <item quantity="one">%2$s více času displeje jako váš %1$d-denní průměr</item>
+     </plurals>
+     <plurals name="unlock_times">
+        <item quantity="other">%.2f krát</item>
+        <item quantity="zero">%.2f krát</item>
+        <item quantity="one">%.2f krát</item>
+     </plurals>
+     <plurals name="usage_days">
+        <item quantity="other">%d dní</item>
+        <item quantity="one">%d den</item>
+        <item quantity="few">%d dny</item>
+        <item quantity="many">%d dne</item>
+     </plurals>
+     <plurals name="usage_state_focus_usage_summary">
+        <item quantity="other">%d minut je velký krok ke smysluplnosti a koncentraci.</item>
+        <item quantity="one">%d minuta je velký krok ke smysluplnosti a koncentraci.</item>
+        <item quantity="few">%d minuty jsou velký krok ke smysluplnosti a koncentraci.</item>
+        <item quantity="many">%d minuty je velký krok ke smysluplnosti a koncentraci.</item>
+     </plurals>
 </resources>

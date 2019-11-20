@@ -835,4 +835,7 @@ Objekt bude ostrý na rozmazaném pozadí."</string>
   <string name="network_access_user_notice_message_sticker">Fotoaparát vyžaduje připojení k síti pro správné fungování některých funkcí.</string>
   <string name="network_access_user_notice_message_voice_caption">Fotoaparát vyžaduje připojení k síti pro správné fungování některých funkcí.</string>
   <string name="network_access_user_notice_agree">Souhlasím</string>
+     <string name="camera_settings_category_development">Experimentální funkce</string>
+     <string name="pref_camera_common_settings">Všeobecné nastavení</string>
+     <string name="pref_camera_quick_settings">Rychlé nastavení</string>
 </resources>

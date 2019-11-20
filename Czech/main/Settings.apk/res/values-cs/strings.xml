@@ -6160,4 +6160,9 @@ Zkontrolujte následující:
      <string name="wifi_generation_status">Wi-Fi %1$d</string>
      <string name="wifi_generation_summary">Přidá na ikonu Wi-Fi číslo generace bezdrátové technologie</string>
      <string name="wifi_generation_title">Technologie</string>
+     <string name="apply_fingerprint_to">Použít otisky pro</string>
+     <string name="enrol_fingerprint_data">Přidat otisk prstu</string>
+     <string name="max_fingerprint_reached_toast">Můžete přidat maximálne 5 otisků</string>
+     <string name="sunlight_mode">Režim denního světla</string>
+     <string name="sunlight_mode_summary">Přizpůsobit jas přímému slunci pokud je automatický jas vypnutý</string>
 </resources>

@@ -239,4 +239,5 @@
      <string name="sst_morning_history_desc">Zobrazit předcházející ranní pozdravy</string>
      <string name="sst_morning_history_title">Historie ranních pozdravů</string>
      <string name="system_default">Lokální</string>  
+     <string name="open_gallery">Povolit Denní tapetu</string>
 </resources>

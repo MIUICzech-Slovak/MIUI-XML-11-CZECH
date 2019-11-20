@@ -2071,4 +2071,6 @@ Jakýkoli uživatel může aktualizovat aplikace všech ostatních uživatelů."
      <string name="gxzw_quick_open_dialer_sub">Hovor</string>
      <string name="wifi_coverage_extend">Povolit rozšířené Wi-Fi pokrytí</string>
      <string name="wifi_coverage_extend_summary">Rozšířit Wi-Fi pokrytí pomocí hot-spotu</string>
+     <string name="screenshot_failed_to_capture_title">Tato aplikace blokuje vytváření screenshotů</string>
+     <string name="screenshot_failed_to_save_title">Není dostatek volného místa na úložišti</string>
 </resources>
