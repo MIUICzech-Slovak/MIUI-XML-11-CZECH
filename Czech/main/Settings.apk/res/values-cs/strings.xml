@@ -4,7 +4,7 @@
   <string name="a11y_settings_label">Nastavení usnadnění přístupu</string>
   <string name="aaid_info">"
  Reklamní identifikátor je permanentní ID vašeho zařízení. Výrobci ho používají pro výběr reklam, které mohou být pro vás zajímavé.
- 
+
  Pokud vyberete nepoužívat přizpůsobené reklamy, jejich počet se nesníží, ale nebudou cílené přímo pro vás."</string>
   <string name="about_phone_enter_xiaomi_net">Dozvědět se více</string>
   <string name="about_settings">Informace o zařízení</string>
@@ -1143,7 +1143,7 @@ Vysílání využívá nízkoenergetické signály Bluetooth."</string>
   <string name="crypt_keeper_content">Můžete šifrovat účty, nastavení, stažené aplikace a jejich data, média, a ostatní soubory.</string>
   <string name="crypt_keeper_content_title">Šifrovat zařízení</string>
   <string name="crypt_keeper_cooldown">Zkuste to znovu za: ^1 s.</string>
-  <string name="crypt_keeper_data_corrupt_summary">"Zadané heslo je správné, avšak data jsou poškozena. 
+  <string name="crypt_keeper_data_corrupt_summary">"Zadané heslo je správné, avšak data jsou poškozena.
 
 Chcete-li telefon nadále používat, je nutné v něm obnovit tovární nastavení. Když poté telefon nastavíte, bude možné obnovit veškerá data zálohovaná na váš účet Google."</string>
   <string name="crypt_keeper_data_corrupt_title">Dešifrování se nezdařilo</string>
@@ -1690,19 +1690,19 @@ You can view generated logs in File Manager."</string>
   <string name="encrypt_talkback_dialog_require_pin">Požadovat kód PIN?</string>
   <string name="encryption_continue_button">Pokračovat</string>
   <string name="encryption_interstitial_header">Šifrování</string>
-  <string name="encryption_interstitial_message_password">"Toto zařízení můžete dále ochránit tím, že před jeho spuštěním bude požadováno heslo. Před spuštěním zařízení nemůže přijímat hovory, zprávy ani oznámení, včetně budíků. 
+  <string name="encryption_interstitial_message_password">"Toto zařízení můžete dále ochránit tím, že před jeho spuštěním bude požadováno heslo. Před spuštěním zařízení nemůže přijímat hovory, zprávy ani oznámení, včetně budíků.
 
 Tato funkce pomáhá chránit data ve ztracených nebo ukradených zařízeních."</string>
   <string name="encryption_interstitial_message_password_for_fingerprint">"Kromě odemykání pomocí otisku prstu můžete toto zařízení dále ochránit tak, že před jeho spuštěním bude požadováno heslo. Před spuštěním zařízení nemůže přijímat hovory, zprávy ani oznámení, včetně budíků.
 
 Tato funkce pomáhá chránit data ve ztracených nebo ukradených zařízeních."</string>
-  <string name="encryption_interstitial_message_pattern">"Toto zařízení můžete dále ochránit tím, že před jeho spuštěním bude požadováno gesto. Před spuštěním zařízení nemůže přijímat hovory, zprávy ani oznámení, včetně budíků. 
+  <string name="encryption_interstitial_message_pattern">"Toto zařízení můžete dále ochránit tím, že před jeho spuštěním bude požadováno gesto. Před spuštěním zařízení nemůže přijímat hovory, zprávy ani oznámení, včetně budíků.
 
 Tato funkce pomáhá chránit data ve ztracených nebo ukradených zařízeních."</string>
   <string name="encryption_interstitial_message_pattern_for_fingerprint">"Kromě odemykání pomocí otisku prstu můžete toto zařízení dále ochránit tak, že před jeho spuštěním bude požadováno gesto. Před spuštěním zařízení nemůže přijímat hovory, zprávy ani oznámení, včetně budíků.
 
 Tato funkce pomáhá chránit data ve ztracených nebo ukradených zařízeních."</string>
-  <string name="encryption_interstitial_message_pin">"Toto zařízení můžete dále ochránit tím, že před jeho spuštěním bude požadován kód PIN. Před spuštěním zařízení nemůže přijímat hovory, zprávy ani oznámení, včetně budíků. 
+  <string name="encryption_interstitial_message_pin">"Toto zařízení můžete dále ochránit tím, že před jeho spuštěním bude požadován kód PIN. Před spuštěním zařízení nemůže přijímat hovory, zprávy ani oznámení, včetně budíků.
 
 Tato funkce pomáhá chránit data ve ztracených nebo ukradených zařízeních."</string>
   <string name="encryption_interstitial_message_pin_for_fingerprint">"Kromě odemykání pomocí otisku prstu můžete toto zařízení dále ochránit tak, že před jeho spuštěním bude požadován kód PIN. Před spuštěním zařízení nemůže přijímat hovory, zprávy ani oznámení, včetně budíků.
@@ -2450,7 +2450,7 @@ Když zapnete automatické zálohování, data zařízení a aplikací se budou 
  pro Druhý profil"</string>
   <string name="lockpassword_choose_your_pattern_header">Vyberte gesto</string>
   <string name="lockpassword_choose_your_pin_header">Zvolte kód PIN</string>
-  <string name="lockpassword_choose_your_pin_header_second_space">"Nastavit PIN 
+  <string name="lockpassword_choose_your_pin_header_second_space">"Nastavit PIN
  pro Druhý profil"</string>
   <string name="lockpassword_choose_your_pin_title">Zadejte 4-16 čísel</string>
   <string name="lockpassword_confirm_for_second_user">Confirm your Second space password</string>
@@ -2867,7 +2867,7 @@ V tomto zařízení jsou přítomni další uživatelé.
   <string name="msd_driver_download_mac_url">Stáhněte ovladač na http://www.android.com/filetransfer/</string>
   <string name="msd_driver_download_xp">Pro PC stáhněte MiPhoneManager pro rozpoznání USB úložiště</string>
   <string name="msd_driver_download_xp_url">Stáhněte ovladač na http://zhushou.xiaomi.com/</string>
-  <string name="msd_help_summary">"Máte problém s přístupem na úložiště telefonu přes počítač? 
+  <string name="msd_help_summary">"Máte problém s přístupem na úložiště telefonu přes počítač?
 Zvolte Váš operační systém:"</string>
   <string name="msd_help_title">Pomoc</string>
   <string name="msd_install">Instalovat ovladač</string>
@@ -3827,7 +3827,7 @@ Zvolte Váš operační systém:"</string>
   <string name="reset_network_confirm_title">Resetovat?</string>
   <string name="reset_network_data">Mobilní data</string>
   <string name="reset_network_desc">"Tímto obnovíte nastavení všech sítí, včetně následujících:
-    
+
     "připojení Wi-Fi,"
     "mobilního připojení,"
     "připojení Bluetooth.</string>
@@ -4485,7 +4485,7 @@ Zbývá:"</string>
   <string name="sos_privacy_and_content_policy">Podmínkami používání</string>
   <string name="sos_privacy_dialog_button_cancel">Zrušit</string>
   <string name="sos_privacy_dialog_button_ok">Souhlasím</string>
-  <string name="sos_privacy_dialog_message">"Používáním této funkce souhlasíte s našimi %s. 
+  <string name="sos_privacy_dialog_message">"Používáním této funkce souhlasíte s našimi %s.
 Tato funkcia vyžaduje povolení pro přístup k vaší poloze, používání mobilních dat a přístup ke kontaktům. Souhlasíte?"</string>
   <string name="sos_privacy_dialog_title">Podmínky používání</string>
   <string name="sound_category_call_ringtone_vibrate_title">Tón vyzvánění a vibrace</string>
@@ -4655,24 +4655,24 @@ Umožňují to důvěryhodné identifikační údaje nainstalované ve vašem za
   <string name="storage_detail_apps">Aplikace</string>
   <string name="storage_detail_audio">Zvuk</string>
   <string name="storage_detail_cached">Data uložená v mezipaměti</string>
-  <string name="storage_detail_dialog_other">"Mezi ostatní soubory patří sdílené soubory uložené aplikacemi, soubory stažené z internetu nebo přes Bluetooth, soubory systému Android apod. 
-    
+  <string name="storage_detail_dialog_other">"Mezi ostatní soubory patří sdílené soubory uložené aplikacemi, soubory stažené z internetu nebo přes Bluetooth, soubory systému Android apod.
+
     Chcete-li zobrazit celý obsah tohoto úložiště ^1, klepněte na Prozkoumat."</string>
-  <string name="storage_detail_dialog_user">"^1 může mít uložené fotky, hudbu, filmy, aplikace a další data, která v úložišti zabírají ^2. 
-    
+  <string name="storage_detail_dialog_user">"^1 může mít uložené fotky, hudbu, filmy, aplikace a další data, která v úložišti zabírají ^2.
+
     Chcete-li zobrazit podrobnosti, přepněte na účet uživatele ^1."</string>
   <string name="storage_detail_explore">Prozkoumat úložiště ^1</string>
   <string name="storage_detail_images">Obrázky</string>
   <string name="storage_detail_other">Jiné</string>
   <string name="storage_detail_videos">Videa</string>
-  <string name="storage_dialog_unmountable">"Toto úložiště ^1 je poškozeno. 
-    
+  <string name="storage_dialog_unmountable">"Toto úložiště ^1 je poškozeno.
+
     Chcete-li toto úložiště ^1 použít, musíte jej nejdříve nastavit."</string>
-  <string name="storage_dialog_unmounted">"Toto úložiště ^1 bylo bezpečně odpojeno, ale je stále k dispozici. 
-    
+  <string name="storage_dialog_unmounted">"Toto úložiště ^1 bylo bezpečně odpojeno, ale je stále k dispozici.
+
     Chcete-li toto úložiště ^1 použít, musíte jej nejdříve připojit."</string>
-  <string name="storage_dialog_unsupported">"Úložiště ^1 není v tomto zařízení podporováno. 
-    
+  <string name="storage_dialog_unsupported">"Úložiště ^1 není v tomto zařízení podporováno.
+
     Chcete-li toto úložiště ^1 použít s tímto zařízením, musíte jej nejdříve nastavit."</string>
   <string name="storage_external_title">Přenosné úložiště</string>
   <string name="storage_format">Formát</string>
@@ -4681,23 +4681,23 @@ Umožňují to důvěryhodné identifikační údaje nainstalované ve vašem za
   <string name="storage_internal_forget_confirm">Všechny aplikace, fotky a data uložená v tomto úložišti ^1 budou navždy ztracena.</string>
   <string name="storage_internal_forget_confirm_title">Zapomenout úložiště ^1?</string>
   <string name="storage_internal_forget_details">"Chcete-li použít aplikace, fotky nebo data, která jsou v úložišti ^1, vložte jej znovu.
-    
+
     Pokud toto zařízení není k dispozici, můžete alternativně zvolit, že má být zapomenuto.
-    
+
     Pokud se rozhodnete zařízení zapomenout, veškerá data v zařízení budou navždy ztracena.
-    
+
     Aplikace můžete znovu nainstalovat později. Jejich data uložená v tomto zařízení však budou ztracena."</string>
-  <string name="storage_internal_format_details">"Po naformátování budete moci toto úložiště ^1 používat s jinými zařízeními. 
-    
-    Veškerá data v tomto úložišti ^1 budou vymazána. Doporučujeme je nejprve zálohovat. 
-    
-    "Zálohování fotek a jiných médií" 
-    Mediální soubory přesuňte do jiného úložiště v zařízení nebo je pomocí kabelu USB přeneste do počítače. 
-    
-    "Zálohování aplikací" 
+  <string name="storage_internal_format_details">"Po naformátování budete moci toto úložiště ^1 používat s jinými zařízeními.
+
+    Veškerá data v tomto úložišti ^1 budou vymazána. Doporučujeme je nejprve zálohovat.
+
+    "Zálohování fotek a jiných médií"
+    Mediální soubory přesuňte do jiného úložiště v zařízení nebo je pomocí kabelu USB přeneste do počítače.
+
+    "Zálohování aplikací"
     Všechny aplikace v úložišti ^1 se odinstalují a jejich údaje se vymažou;. Pokud chcete tyto aplikace ponechat, přesuňte je do jiného úložiště v zařízení."</string>
   <string name="storage_internal_title">Úložiště zařízení</string>
-  <string name="storage_internal_unmount_details">Pokud toto úložiště ^1 odpojíte, přestanou fungovat aplikace, které jsou na něm uloženy. Mediální soubory nebudou dostupné, dokud ho opět nepřipojíte." 
+  <string name="storage_internal_unmount_details">Pokud toto úložiště ^1 odpojíte, přestanou fungovat aplikace, které jsou na něm uloženy. Mediální soubory nebudou dostupné, dokud ho opět nepřipojíte."
     Toto úložiště ^1 je naformátované tak, aby fungovalo pouze v tomto zařízení."</string>
   <string name="storage_label">Úložiště</string>
   <string name="storage_low_summary">Některé systémové funkce, jako například synchronizace, nemusejí fungovat správně. Zkuste uvolnit místo smazáním nebo uvolněním položek, jako jsou aplikace nebo multimediální obsah.</string>
@@ -4733,13 +4733,13 @@ Umožňují to důvěryhodné identifikační údaje nainstalované ve vašem za
   <string name="storage_volume_summary">Použito %1$s z %2$s</string>
   <string name="storage_volume_used">Použito z %1$s</string>
   <string name="storage_volume_used_total">Použito celkem z %1$s</string>
-  <string name="storage_wizard_format_confirm_body">"Proto je nutné úložiště ^1 zabezpečit pomocí formátování. 
+  <string name="storage_wizard_format_confirm_body">"Proto je nutné úložiště ^1 zabezpečit pomocí formátování.
 
-Po naformátování bude úložiště ^1 fungovat pouze v tomto zařízení. 
+Po naformátování bude úložiště ^1 fungovat pouze v tomto zařízení.
 
 Formátováním vymažete veškerá data, která jsou v tomto úložišti ^1 uložena. Chcete-li ztrátě dat předejít, doporučujeme je zálohovat."</string>
   <string name="storage_wizard_format_confirm_next">Vymazat a naformátovat</string>
-  <string name="storage_wizard_format_confirm_public_body">"Tato akce vyžaduje, aby byl proveden formát úložiště: ^1. 
+  <string name="storage_wizard_format_confirm_public_body">"Tato akce vyžaduje, aby byl proveden formát úložiště: ^1.
 
 Formátováním vymažete veškerá data z úložiště ^1. Chcete-li předejít ztrátě dat, doporučujeme je zálohovat."</string>
   <string name="storage_wizard_format_confirm_public_title">Formátovat jako přenosné úložiště</string>
@@ -4752,38 +4752,38 @@ Formátováním vymažete veškerá data z úložiště ^1. Chcete-li předejít
   <string name="storage_wizard_init_internal_summary">K ukládání libovolných dat, včetně aplikací a fotek, pouze do tohoto zařízení. Vyžaduje naformátování, které způsobí, že nebude fungovat v jiných zařízeních.</string>
   <string name="storage_wizard_init_internal_title">Použít jako interní úložiště</string>
   <string name="storage_wizard_init_title">Nastavte úložiště ^1</string>
-  <string name="storage_wizard_migrate_body">"Do tohoto nového úložiště ^1 můžete přesunout fotky, soubory a některé aplikace. 
-    
+  <string name="storage_wizard_migrate_body">"Do tohoto nového úložiště ^1 můžete přesunout fotky, soubory a některé aplikace.
+
     Přesun bude trvat ^2 a v interním úložišti uvolní ^3. Během přesunu nebudou některé aplikace fungovat."</string>
   <string name="storage_wizard_migrate_confirm_body">Doba přesunu: cca ^1. ^3 uvolní ^2.</string>
   <string name="storage_wizard_migrate_confirm_next">Přesunout</string>
   <string name="storage_wizard_migrate_confirm_title">Přesun dat</string>
-  <string name="storage_wizard_migrate_details">"Během přesunu: 
-    • Neodpojujte ^1. 
-    • Některé aplikace nebudou fungovat správně. 
+  <string name="storage_wizard_migrate_details">"Během přesunu:
+    • Neodpojujte ^1.
+    • Některé aplikace nebudou fungovat správně.
     • Udržujte zařízení nabité."</string>
   <string name="storage_wizard_migrate_later">Přesunout později</string>
   <string name="storage_wizard_migrate_now">Přesunout</string>
   <string name="storage_wizard_migrate_progress_title">Probíhá přesun dat…</string>
   <string name="storage_wizard_migrate_title">Přesuňte data do nového úložiště</string>
-  <string name="storage_wizard_move_confirm_body">"Přesunutí aplikace ^1 a jejích dat do úložiště ^2 bude trvat jen chvíli. Aplikaci bude možné používat až po dokončení přesunu. 
-    
+  <string name="storage_wizard_move_confirm_body">"Přesunutí aplikace ^1 a jejích dat do úložiště ^2 bude trvat jen chvíli. Aplikaci bude možné používat až po dokončení přesunu.
+
     Úložiště ^2 během přesunu neodpojujte."</string>
   <string name="storage_wizard_move_confirm_title">Přesuňte aplikaci ^1</string>
-  <string name="storage_wizard_move_progress_body">"Úložiště ^1 během přesunu nevysouvejte. 
-    
+  <string name="storage_wizard_move_progress_body">"Úložiště ^1 během přesunu nevysouvejte.
+
     Aplikace ^2 bude v tomto zařízení k dispozici až po dokončení přesunu."</string>
   <string name="storage_wizard_move_progress_cancel">Zrušit přesun</string>
   <string name="storage_wizard_move_progress_title">Probíhá přesun aplikace ^1…</string>
   <string name="storage_wizard_ready_external_body">Nyní do úložiště ^1 můžete ukládat fotky a další média.</string>
-  <string name="storage_wizard_ready_internal_body">"Nové úložiště ^1 již funguje. 
-    
+  <string name="storage_wizard_ready_internal_body">"Nové úložiště ^1 již funguje.
+
     Chcete-li do tohoto zařízení přesunout fotky, soubory a data aplikací, přejděte do Nastavení &gt; Úložiště."</string>
   <string name="storage_wizard_ready_title">Úložiště ^1 je připraveno</string>
-  <string name="storage_wizard_slow_body">"Toto zařízení ^1 je pravděpodobně pomalé. 
-    
-    Můžete pokračovat, ale aplikace přesunuté do tohoto umístění budou mít prodlevy a přenosy dat mohou trvat delší dobu. 
-    
+  <string name="storage_wizard_slow_body">"Toto zařízení ^1 je pravděpodobně pomalé.
+
+    Můžete pokračovat, ale aplikace přesunuté do tohoto umístění budou mít prodlevy a přenosy dat mohou trvat delší dobu.
+
     Zkuste použít rychlejší zařízení ^1, které zajistí vyšší výkon."</string>
   <string name="storageuse_settings_summary">Zobrazit aplikacemi používané úložiště</string>
   <string name="storageuse_settings_title">Využití úložiště</string>
@@ -6123,7 +6123,7 @@ Zkontrolujte následující:
      <string name="screen_fps_unit_power_save">%dHz (Šetří baterii)</string>
      <string name="screen_fps_unit_smooth">%dHz (Lepší kvalita)</string>
      <string name="unlock_type_category_title">Způsob rozpoznávání</string>
-     <string name="wellbing_title">Čas používání a rodičovská kontrola</string>  
+     <string name="wellbing_title">Čas používání a rodičovská kontrola</string>
      <string name="xiaomi_cloud_find_device">Vyhledávání zařízení</string>
      <string name="accessibility_autoclick_description">Pokud používáte myš, můžete nastavit automatickou akci po zastavení kurzoru v určitý čas.</string>
      <string name="app_permission_summary_allowed">Povolené</string>
@@ -6167,5 +6167,23 @@ Zkontrolujte následující:
      <string name="sunlight_mode_summary">Přizpůsobit jas přímému slunci pokud je automatický jas vypnutý</string>
   <string name="usb_headset_not_support_cancel">Rozumím</string>
   <string name="usb_headset_not_support_message">Není možné přehrávat zvukové soubory přes redukci. Použijte Bluetooth sluchátka nebo 3.5mm jack konektor.</string>
-  <string name="usb_headset_not_support_tile">Není možné přehrát zvuk</string>  
+  <string name="usb_headset_not_support_tile">Není možné přehrát zvuk</string>
+  <string name="wifi_connected_mac_randomization">Randomizace MAC adresy</string>
+  <string name="wifi_connected_mac_randomization_summary">Při připojení k sítím Wi-Fi randomizujte MAC adresu</string>
+  <string name="tethering_hardware_offload">Hardwarová akcelerace tetheringu</string>
+  <string name="tethering_hardware_offload_summary">Pokud je k dispozici, použijte hardwarovou akceleraci tetheringu</string>
+  <string name="usb_default_label">Výchozí USB konfigurace</string>
+  <string name="usb_default_info">Pokud je připojeno jiné zařízení a telefon je odemčený, budou tato nastavení použita. Připojujte se pouze k důvěryhodným zařízením.</string>
+  <string name="bluetooth_show_devices_without_names">Zobrazovat zařízení Bluetooth beze jmen</string>
+  <string name="bluetooth_show_devices_without_names_summary">Bluetooth zařízení se zobrazí beze jmen (pouze MAC adresy)</string>
+  <string name="bluetooth_disable_a2dp_hw_offload">Zakázat hardwarové zatížení procesem kódování zvuku A2DP</string>
+  <string name="bluetooth_pairing_shares_phonebook">Povolit přístup ke kontaktům a historii volání</string>
+  <string name="status_number">Telefonní číslo</string>
+  <string name="status_number_sim_slot">Telefonní číslo (sim slot %1$d)</string>
+  <string name="status_number_sim_status">Telefonní číslo SIM</string>
+  <string name="status_voice_network_type">Typ mobilní hlasové sítě</string>
+  <string name="status_data_network_type">Typ mobilní datové sítě</string>
+  <string name="ims_reg_title">Stav registrace IMS</string>
+  <string name="ims_reg_status_not_registered">Neregistrováno</string>
+  <string name="ims_reg_status_registered">Registrováno</string>
 </resources>
