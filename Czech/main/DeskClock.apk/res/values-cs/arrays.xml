@@ -103,4 +103,31 @@
         <item>Černá</item>
         <item>Auto</item>
     </string-array>		
+    <string-array name="bedtime_guide_repeat_type">
+        <item>Pondělí až Pátek</item>
+        <item>Každý den</item>
+        <item>Pracovní dny</item>
+    </string-array>
+    <string-array name="bedtime_repeat_entries">
+        <item>Každý den</item>
+        <item>Pondělí až Pátek</item>
+        <item>Pracovní dny</item>
+        <item>Vlastní</item>
+    </string-array>
+    <string-array name="days_of_week">
+        <item>Ned</item>
+        <item>Pon</item>
+        <item>Úte</item>
+        <item>Stř</item>
+        <item>Čtv</item>
+        <item>Pát</item>
+        <item>Sob</item>
+    </string-array>
+    <string-array name="notification_adv_time_entries">
+        <item>V nastavený čas</item>
+        <item>15 minut předtím</item>
+        <item>30 minut předtím</item>
+        <item>1 hodinu předtím</item>
+        <item>Žádné</item>
+    </string-array>		
 </resources>
