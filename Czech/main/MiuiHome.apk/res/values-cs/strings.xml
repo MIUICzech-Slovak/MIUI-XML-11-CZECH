@@ -436,4 +436,5 @@
      <string name="manager_group_settings">Spravovat kategorie</string>
      <string name="reset_cate_tip_content">Pokud budete pokračovat, budou obnovené předvolené kategorie. Pokračovat?</string>
      <string name="reset_cate_tip_title">Obnovit předvolené kategorie</string>
+     <string name="system_shortcuts_remove">Odebrat</string>
 </resources>

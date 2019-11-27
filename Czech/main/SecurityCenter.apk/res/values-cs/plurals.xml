@@ -569,5 +569,13 @@
      <plurals name="menu_text_app_manager_ex">
         <item quantity="other">Aktualizací: %d</item>
         <item quantity="one">Aktualizací: %d</item>
-     </plurals>			
+     </plurals>		
+     <plurals name="keyguard_charging_info_drained_hour_time_format">
+        <item quantity="other">%sh</item>
+        <item quantity="one">%sh</item>
+     </plurals>
+     <plurals name="keyguard_charging_info_drained_min_time_format">
+        <item quantity="other">%smin</item>
+        <item quantity="one">%smin</item>
+     </plurals>	
 </resources>

@@ -12,4 +12,24 @@
         <item quantity="few">%d oznámení týdně</item>
         <item quantity="many">%d oznámení týdně</item>
     </plurals>
+     <plurals name="last_sent_time_day">
+        <item quantity="other">Před %d dny</item>
+        <item quantity="one">Před %d dnem</item>
+     </plurals>
+     <plurals name="last_sent_time_hour">
+        <item quantity="other">Před %dh</item>
+        <item quantity="one">Před %dh</item>
+     </plurals>
+     <plurals name="last_sent_time_minute">
+        <item quantity="other">Před %dmin</item>
+        <item quantity="one">Před %dmin</item>
+     </plurals>
+     <plurals name="last_sent_time_month">
+        <item quantity="other">Před %d měsíci</item>
+        <item quantity="one">Před %d měsícem</item>
+     </plurals>
+     <plurals name="last_sent_time_week">
+        <item quantity="other">Před %d týdny</item>
+        <item quantity="one">Před %d týdnem</item>
+     </plurals>
 </resources>

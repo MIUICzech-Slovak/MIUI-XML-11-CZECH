@@ -589,4 +589,7 @@
      <string name="edit_event_title_edit_anniversary">Upravit výročí</string>
      <string name="edit_event_title_edit_birthday">Upravit narozeniny</string>
      <string name="edit_event_title_edit_countdown">Upravit odpočet</string>
+     <string name="shortcut_new_event">Přidat</string>
+     <string name="shortcut_next_agenda">Další událost</string>
+     <string name="shortcut_settings">Nastavení</string>
 </resources>
