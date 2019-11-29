@@ -395,7 +395,6 @@ Všechny předchozí uživatelské údaje budou uloženy."</string>
     <string name="picture_color_mode_desc">Použije se barevný prostor sRGB</string>
     <string name="pointer_location">Umístění ukazatele</string>
     <string name="pointer_location_summary">Zobrazit překryvnou vrstvu s aktuálními daty o dotycích</string>
-    <string name="power_charging">%1$s – %2$s</string>
     <string name="power_charging_duration">%1$s – plně se nabije za %2$s</string>
     <string name="power_discharge_by">Vydrží asi do %1$s (%2$s)</string>
     <string name="power_discharge_by_enhanced">Při vašem obvyklém využití (%2$s) vydrží asi do %1$s</string>
