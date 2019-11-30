@@ -685,7 +685,7 @@ Všechny předchozí uživatelské údaje budou uloženy."</string>
      <string name="miui_install_fail_reason">Důvod</string>
      <string name="miui_install_source">Od \"%s\"</string>
      <string name="miui_install_source_unkown">Neznámé</string>
-     <string name="miui_install_success">Nainstalované</string>
+     <string name="miui_install_success">Nainstalováno</string>
      <string name="miui_install_version">Verze: %1$s | Velikost: %2$s</string>
      <string name="miui_install_version_3">Verze %1$s -> %2$s | Velikost %3$s</string>
      <string name="miui_installing">Instalace...</string>
@@ -754,7 +754,7 @@ Všechny předchozí uživatelské údaje budou uloženy."</string>
      <string name="risk_warning_top_button">Neinstalovat</string>
      <string name="safe_guard_support">Technická podpora poskytovaná %1$s</string>
      <string name="safe_relative">Bezpečnost</string>
-     <string name="settings_warning_dialog_detail">"Budete upozorněný v těchto případech:
+     <string name="settings_warning_dialog_detail">"Budete upozorněni v těchto případech:
  "<li>Jestliže aplikace obsahuje viry.</li>"
  "<li>Instalační soubor není z důvěryhodného zdroje.</li></string>
      <string name="settings_warning_dialog_msg">Vaše zařízení je vystaveno bezpečnostnímu riziku. Přesto chcete vypnout?</string>
@@ -768,7 +768,7 @@ Všechny předchozí uživatelské údaje budou uloženy."</string>
      <string name="unlike">Ne</string>
      <string name="untrusted_external_source_always_click">Vždy povolit</string>
      <string name="untrusted_external_source_title">Povolit \"%1$s\" instalovat aplikace?</string>
-     <string name="untrusted_external_source_warning_summary">Váš telefon a osobní údaje jsou citlivé na útoky z neznámých zdrojů. Povolením instalace aplikací z tohoto zdroje souhlasíte s převzetím zodpovědnosti za poškození telefenu nebo ztrátu dat, která mohou vyplynout z používání těchto aplikací.</string>
+     <string name="untrusted_external_source_warning_summary">Váš telefon a osobní údaje jsou citlivé na útoky z neznámých zdrojů. Povolením instalace aplikací z tohoto zdroje souhlasíte s převzetím zodpovědnosti za poškození telefenu nebo ztrátu dat, které mohou vyplynout z používání těchto aplikací.</string>
      <string name="virus_scan_caller_unknown">Neznámé</string>
      <string name="virus_scan_clear">Odstranit</string>
      <string name="virus_scan_install">Instalovat</string>
