@@ -1024,7 +1024,7 @@ For more info check the message you received from your service provider"</string
   <string name="examination_score_80_60">Některé položky mohou být optimalizovány</string>
   <string name="examination_score_has_virus">Byly zjištěny některé podezřelé aplikace</string>
   <string name="exit">Ukončit</string>
-  <string name="exit_dialog_garbage_clean_message">Množství nepotřebných souborů ve vašem zařízení přresáhlo %s. Chcete jej vyčistit?</string>
+  <string name="exit_dialog_garbage_clean_message">Množství nepotřebných souborů ve vašem zařízení přesáhlo %s. Chcete jej vyčistit?</string>
   <string name="exit_dialog_garbage_clean_positive_button">Vyčistit</string>
   <string name="exit_dialog_garbage_clean_title">Vyčistit odpad</string>
   <string name="exit_dialog_homepage_optimise_message">Vaše skóre je menší, než 80 bodů. Chcete jej optimalizovat?</string>
