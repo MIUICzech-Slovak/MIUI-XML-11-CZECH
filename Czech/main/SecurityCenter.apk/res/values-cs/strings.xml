@@ -3402,4 +3402,19 @@ Remaining data includes data that has been rolled over from the previous month."
      <string name="notification_low_battery_title">Zůstává méně jak %s baterie</string>
      <string name="open_extreme_power_save_mode_title">Povolit Extrémní šetření baterie</string>
      <string name="save_mode_btn_ok">Rozumím</string>
+     <string name="HIPS_Perm_CallLog_Desc">zapsat a vymazat historii hovorů</string>
+     <string name="HIPS_Perm_Call_Desc">vytočit telefonní číslo</string>
+     <string name="HIPS_Perm_Contact_Desc">upravit a vymazat kontakty</string>
+     <string name="HIPS_Perm_PhoneID_Desc">přístup k telefonnímu číslu, IMEI, a IMSI</string>
+     <string name="HIPS_Perm_PhoneID_Desc_Q">Přístup k telefonnímu číslu a stavu zařízení</string>
+     <string name="HIPS_Perm_Read_Call_Log_Desc">číst historii hovorů</string>
+     <string name="HIPS_Perm_Read_Contact_Desc">číst vaše kontakty</string>
+     <string name="HIPS_Perm_Read_SMS_Desc">číst vaše SMS</string>
+     <string name="HIPS_Perm_SendSMS_Desc">odeslat SMS</string>
+     <string name="HIPS_Perm_add_voicemail_Desc">přidat hlasovou zprávu</string>
+     <string name="HIPS_Perm_get_accounts_Desc">přístup ke všem účtům uloženým v zařízení</string>
+     <string name="HIPS_Perm_use_sip_Desc">použít Session Initiation Protocol pro streamování videa</string>
+     <string name="permdesc_in_calls">Sledovat příchozí hovory</string>
+     <string name="permdesc_out_calls">Sledovat odchozí hovory</string>
+     <string name="system_permission_perm_optional">" (volitelné)"</string>
 </resources>
