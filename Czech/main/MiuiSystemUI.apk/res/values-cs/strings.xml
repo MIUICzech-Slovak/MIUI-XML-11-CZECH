@@ -2073,4 +2073,19 @@ Jakýkoli uživatel může aktualizovat aplikace všech ostatních uživatelů."
      <string name="wifi_coverage_extend_summary">Rozšířit Wi-Fi pokrytí pomocí hot-spotu</string>
      <string name="screenshot_failed_to_capture_title">Tato aplikace blokuje vytváření screenshotů</string>
      <string name="screenshot_failed_to_save_title">Není dostatek volného místa na úložišti</string>
+    <string name="screenshot_failed_to_save_title">Není dostatek volného místa na úložišti</string>
+  <string name="multi_face_delete_message">Upozornění</string>
+  <string name="multi_face_delete_show_message">Vymazat data o tváři?</string>
+  <string name="multi_face_input">Přidat tvář</string>
+  <string name="multi_face_input_enroll">Přidat tvář</string>
+  <string name="multi_face_input_enrolling">Přidávání tváře...</string>
+  <string name="multi_face_input_reach_upper_limit">Nebylo možné přidat tvář. Zkuste to znova později.</string>
+  <string name="multi_face_input_success_msg_lift">Potáhnout nahoru na zamknuté obrazovce pro odemknutí tváří</string>
+  <string name="multi_face_input_success_msg_normal">Použít odemknutí tváří když se rozsvítí displej</string>
+  <string name="multi_face_input_success_msg_slide">Potáhnout dolů na zamknuté obrazovce pro odemknutí tváří</string>
+  <string name="multi_face_input_success_name_title">Název</string>
+  <string name="multi_face_list">Data tváře</string>
+  <string name="multi_face_name_prefix">"Tvář"</string>
+  <string name="multi_face_number_reach_limit">Není možné přidat více jak 2 tváře</string>
+  <string name="quick_settings_cellular_detail_unable_change">Není možné nastavit během hovoru</string>
 </resources>
