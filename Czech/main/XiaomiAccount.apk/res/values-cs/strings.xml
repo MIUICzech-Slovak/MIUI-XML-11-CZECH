@@ -598,4 +598,5 @@ Zkontrolujte také složku SPAM."</string>
   <string name="wipe_data_dialog_title">Některé položky nebyly synchronizovány.</string>
      <string name="pwd_width_phone_number_or_mail_num">Heslo nesmí obsahovat vaše telefonní číslo, email nebo Mi ID</string>
      <string name="risky_pwd_not_allow">Nové heslo není bezpečné. Nastavte ho znova.</string>
+     <string name="passport_can_not_receive_verification_code">Nedostali jste ověřovací kód?</string>
 </resources>
