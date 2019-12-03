@@ -1706,4 +1706,11 @@ Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
   <string name="xdivert_title">X-Divert</string>
   <string name="last_sim_callback_title">Zapamatovat si předvolby SIM karty</string>
   <string name="last_sim_callback_summary">Při volání z historie hovorů se použije SIM karta, která byla s tímto kontaktem použita během předchozího hovoru.</string>
+  <string name="advanced_mobile_settings">Další nastavení</string>
+  <string name="main_netcheck_summary">Zkontrolovat chyby připojení</string>
+  <string name="mobile_advanced_dns_server_title">Adresa DNS serveru</string>
+  <string name="mobile_advanced_ip_address_title">IP adresa</string>
+  <string name="mobile_connection_management">Spravovat síťové připojení</string>
+  <string name="mobile_property">Nastavení mobilní sítě</string>
+  <string name="netcheck_title">Diagnostika mobilní sítě</string>
 </resources>
