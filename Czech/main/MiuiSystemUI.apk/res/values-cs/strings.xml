@@ -2073,7 +2073,6 @@ Jakýkoli uživatel může aktualizovat aplikace všech ostatních uživatelů."
      <string name="wifi_coverage_extend_summary">Rozšířit Wi-Fi pokrytí pomocí hot-spotu</string>
      <string name="screenshot_failed_to_capture_title">Tato aplikace blokuje vytváření screenshotů</string>
      <string name="screenshot_failed_to_save_title">Není dostatek volného místa na úložišti</string>
-    <string name="screenshot_failed_to_save_title">Není dostatek volného místa na úložišti</string>
   <string name="multi_face_delete_message">Upozornění</string>
   <string name="multi_face_delete_show_message">Vymazat data o tváři?</string>
   <string name="multi_face_input">Přidat tvář</string>
