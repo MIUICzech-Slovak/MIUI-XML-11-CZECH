@@ -3417,4 +3417,7 @@ Remaining data includes data that has been rolled over from the previous month."
      <string name="permdesc_in_calls">Sledovat příchozí hovory</string>
      <string name="permdesc_out_calls">Sledovat odchozí hovory</string>
      <string name="system_permission_perm_optional">" (volitelné)"</string>
+     <string name="power_center_list_item_haptic_feedback">Vypnout hmatovou odezvu</string>
+     <string name="power_center_list_item_wake_notification">Nerozsvěcovat displej upozorněními</string>
+     <string name="power_optimize_disable_gps_high_accuracy">Vypnout GPS</string>
 </resources>
