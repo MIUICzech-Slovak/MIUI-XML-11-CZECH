@@ -6185,4 +6185,5 @@ Zkontrolujte následující:
     <string name="dual_wifi_auto_disable">Zastavit automatické zrychlení</string>
     <string name="dual_wifi_auto_disable_summary">Odpojit z pomocné Wi-Fi sítě když je displej vypnutý</string>
     <string name="popup_led_try_later">Počkejte 1-2 minuty a zkuste to znova</string>
+    <string name="delete_fingerprint_confirm_title">Upozornění</string>
 </resources>
