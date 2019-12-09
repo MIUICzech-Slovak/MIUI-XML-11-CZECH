@@ -785,4 +785,5 @@ Přečtěte si a odsouhlaste naše Podmínky používání a Ochranu soukromí.
      <string name="menu_add_short_cut">Vytvořit odkaz na ploše</string>
      <string name="tip_short_cut_added_success">Vytvořené</string>
      <string name="tip_short_cut_already_added">Vytvořené</string>
+     <string name="wipe_data_query_progress_title">Kontrola...</string>
 </resources>
