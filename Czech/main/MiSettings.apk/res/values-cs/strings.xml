@@ -197,4 +197,26 @@
      <string name="unlock_times_per_hour">"Odemknutí za hodinu: "</string>
      <string name="usage_state_focus_call">Nouzový hovor</string>
      <string name="usage_state_focus_mode_experience_warning_message">Režim Soustředění umožňuje používat jen fotoaparát a SOS hovory. Není možné předčasně vypnout režim Soustředění.</string>
+     <string name="advanced_mode">Další nastavení</string>
+     <string name="color_gamut">Tón barvy</string>
+     <string name="contrast_ratio">Kontrast</string>
+     <string name="gamma">Gama</string>
+     <string name="hsv_space_color">HSV</string>
+     <string name="hsv_space_color_hue">Sytost</string>
+     <string name="hsv_space_color_saturation">Saturace</string>
+     <string name="hsv_space_color_value">Hodnota</string>
+     <string name="other_parameter">Ostatní</string>
+     <string name="p3_color_region_summary">Zobrazit celý obsah displeje v P3 barevném tónu</string>
+     <string name="preview">Náhled</string>
+     <string name="primary_color_region">Originál</string>
+     <string name="primary_color_region_summary">Identifikovat tón barvy automaticky podle kalibrace</string>
+     <string name="reset_edit">Vrátit změny</string>
+     <string name="restore_default">Obnovit předvolené</string>
+     <string name="rgb_space_color">RGB barva</string>
+     <string name="screen_original_gamut">Vylepšené</string>
+     <string name="screen_original_gamut_summary">Zobrazit celý obsah displeje v nejširším tónu barev</string>
+     <string name="search_app_name">Vyhledat aplikace</string>
+     <string name="search_empty">Žádné aplikace</string>
+     <string name="srgb_color_region">sRGB</string>
+     <string name="srgb_color_region_summary">Zobrazit celý obsah displeje v sRGB tónu barev</string>
 </resources>
