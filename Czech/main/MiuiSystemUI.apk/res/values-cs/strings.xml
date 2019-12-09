@@ -2087,4 +2087,6 @@ Jakýkoli uživatel může aktualizovat aplikace všech ostatních uživatelů."
   <string name="multi_face_name_prefix">"Tvář"</string>
   <string name="multi_face_number_reach_limit">Není možné přidat více jak 2 tváře</string>
   <string name="quick_settings_cellular_detail_unable_change">Není možné nastavit během hovoru</string>
+  <string name="ime_security_warning_global">Klávesnice mohou zaznamenávat text který zadáváte. Použít %1$s?</string>
+  <string name="ime_security_warning_title_global">Zapínání klávesnice</string>
 </resources>
