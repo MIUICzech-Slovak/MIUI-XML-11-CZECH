@@ -1794,7 +1794,7 @@
      <string name="photo_portrait_color_download_fail">Nebylo možné stáhnou doplněk. Připojte se k síti a zkuste to znova.</string>
      <string name="photo_portrait_color_download_success">Filtry stáhnuty</string>
      <string name="photo_portrait_color_no_face">Color pop funguje jen na fotografiích s osobami</string>
-     <string name="photo_portrait_download_sdk_without_wifi_msg">Nejste připojený na Wi-Fi. Můžete stáhnout filtry (%1$dMB) přes mobilní data./string>
+     <string name="photo_portrait_download_sdk_without_wifi_msg">Nejste připojený na Wi-Fi. Můžete stáhnout filtry (%1$dMB) přes mobilní data.</string>
      <string name="photo_portrait_download_sdk_without_wifi_title">Stáhnout filtry</string>
      <string name="send_heif_summary">Konvertujte obrázky před odesláním</string>
      <string name="send_heif_title">Konvertovat HEIF do JPG před odesláním</string>
