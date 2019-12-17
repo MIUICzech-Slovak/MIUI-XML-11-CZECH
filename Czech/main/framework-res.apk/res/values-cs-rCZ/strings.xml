@@ -1674,4 +1674,5 @@ Chcete ji zavřít?"</string>
   <string name="years">lety</string>
   <string name="yes">OK</string>
   <string name="zen_mode_forever">Na dobu neurčitou</string>
+  <string name="app_running_notification_tip_text">Toto může zpomalit vaše zařízení a zvýšit spotřebu baterie. Dotykem ukončíte aplikaci.</string>
 </resources>
