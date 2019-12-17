@@ -577,5 +577,17 @@
      <plurals name="keyguard_charging_info_drained_min_time_format">
         <item quantity="other">%smin</item>
         <item quantity="one">%smin</item>
-     </plurals>	
+     </plurals>
+        <plurals name="applock_guide_app_count_tips">
+        <item quantity="other">Můžete ochránit alespoň %s aplikací</item>
+        <item quantity="one">Můžete ochránit alespoň %s aplikaci</item>
+    </plurals>
+    <plurals name="gb_record_time_title">
+        <item quantity="other">%ds</item>
+        <item quantity="one">%ds</item>
+    </plurals>
+    <plurals name="videobox_settings_manager_apps_count">
+        <item quantity="other">Aplikací: %d</item>
+        <item quantity="one">Aplikaci: %d</item>
+    </plurals>
 </resources>
