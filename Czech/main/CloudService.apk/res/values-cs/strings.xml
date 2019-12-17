@@ -786,4 +786,61 @@ Přečtěte si a odsouhlaste naše Podmínky používání a Ochranu soukromí.
      <string name="tip_short_cut_added_success">Vytvořené</string>
      <string name="tip_short_cut_already_added">Vytvořené</string>
      <string name="wipe_data_query_progress_title">Kontrola...</string>
+    <string name="data_merge_dialog_alert_active_on_phone_msg_more_than_two">Tento účet je také použitý na dalším zařízení. Chcete spojit položky z vícero aplikací (včetně %1$s a %2$s) s položkami v tomto zařízení?</string>
+  <string name="data_merge_dialog_alert_active_on_phone_msg_one">Tento účet je také použitý na dalším zařízení. Chcete spojit položky z %s s položkami v tomto zařízení?</string>
+  <string name="data_merge_dialog_alert_active_on_phone_msg_two">Tento účet je také použitý na dalším zařízení. Chcete spojit položky z %1$s a %2$s s položkami v tomto zařízení?</string>
+  <string name="data_merge_dialog_alert_msg_more_than_two">Položky z vícero aplikací (včetně %1$s a %2$s) v tomto zařízení budou spojené s položkami v cloudu. Spojit položky nyní?</string>
+  <string name="data_merge_dialog_alert_msg_more_than_two_pad">Položky z vícero aplikací (včetně %1$s a %2$s) v tomto zařízení budou spojené s položkami v cloudu. Spojit položky nyní?</string>
+  <string name="data_merge_dialog_alert_msg_one">Položky z %s v tomto zařízení budou spojené s položkami v cloudu. Spojit položky nyní?</string>
+  <string name="data_merge_dialog_alert_msg_one_pad">Položky z %s v tomto zařízení budou spojené s položkami v cloudu. Spojit položky nyní?</string>
+  <string name="data_merge_dialog_alert_msg_two">Položky z %1$s a %2$s v tomto zařízení budou spojené s položkami v cloudu. Spojit položky nyní?</string>
+  <string name="data_merge_dialog_alert_msg_two_pad">Položky z %1$s a %2$s v tomto zařízení budou spojené s položkami v cloudu. Spojit položky nyní?</string>
+  <string name="data_merge_dialog_loading">Ověřování dat...</string>
+  <string name="do_not_merge">Nespojovat</string>
+  <string name="finddevice_miservice_notification_content">Uzamkněte vaše zařízení na dálku v případě krádeže</string>
+  <string name="finddevice_miservice_notification_title">Povolit Vyhledávání zařízení</string>
+  <string name="merge">Spojit</string>
+  <string name="privacy_dialog_finddevice_all_purpose_phone">Vítejte ve vyhledávání zařízení! Můžete tuto funkci využít pro vyhledávání, uzamknutí nebo vymazání vašeho zařízení v případě jeho ztráty nebo odcizení</string>
+  <string name="privacy_dialog_sync_all_purpose">Vítejte v Xiaomi Cloudu! Cloud můžete využít na synchronizaci vašich SMS, historie volaní, kontaktů, poznámek, nastavení, fotografií, nahrávek a kalendáře.</string>
+  <string name="privacy_doc_cloudservice">"Vítejte v Xiaomi Cloudu! Cloud můžete využít na synchronizaci vašich SMS, historie volaní, kontaktů, poznámek, nastavení, fotografií, nahrávek a kalendáře. Přístup k vašemu Xiaomi Cloudu máte na i.mi.com
+
+Pro aktivaci této služby bude odeslána bežná SMS.
+
+Pro správné fungování této funkce jsou vyžadována tato povolení:
+&amp;#8226; Kalendář:
+Pro synchronizaci událostí
+&amp;#8226; Přístup k SMS:
+Pro synchronizaci zpráv
+&amp;#8226; Přístup k MMS:
+Pro synchronizaci zpráv
+&amp;#8226; Přístup ke kontaktům:
+Pro synchronizaci kontaktů
+&amp;#8226; Úprava kontaktů:
+Pro synchronizaci kontaktů
+&amp;#8226; Úložiště:
+
+Přečtěte si a odsouhlaste naše Podmínky používání a Ochranu soukromí.
+"</string>
+  <string name="privacy_doc_finddevice_phone">"Vítejte v Xiaomi Cloudu! Cloud můžete využít na synchronizaci vašich SMS, historie volaní, kontaktů, poznámek, nastavení, fotografií, nahrávek a kalendáře. Přístup k vašemu Xiaomi Cloudu máte na i.mi.com.
+
+Pro správné fungování této funkce jsou vyžadována tato povolení:
+&amp;#8226; Přístup k informacím o zařízení:
+Pro identifikaci zařízení
+&amp;#8226; Poloha:
+Pri vyhledání vašeho zařízení
+Přečtěte si a odsouhlaste naše Podmínky používání a Ochranu soukromí.
+"</string>
+  <string name="privacy_doc_finddevice_with_telephony_feature_phone">"Vítejte v Xiaomi Cloudu! Cloud můžete využít na synchronizaci vašich SMS, historie volaní, kontaktů, poznámek, nastavení, fotografií, nahrávek a kalendáře. Přístup k vašemu Xiaomi Cloudu máte na i.mi.com.
+
+
+Pro aktivaci této služby bude odeslána bežná SMS.
+
+Pro správné fungování této funkce jsou vyžadována tato povolení:
+&amp;#8226; Přístup k informacím o zařízení:
+Pro identifikaci zařízení
+&amp;#8226; Poloha:
+Pro vyhledání vašeho zařízení
+
+Přečtěte si a odsouhlaste naše Podmínky používání a Ochranu soukromí.
+"</string>
 </resources>
