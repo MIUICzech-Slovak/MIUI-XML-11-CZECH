@@ -1713,20 +1713,4 @@ Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
   <string name="mobile_connection_management">Spravovat síťové připojení</string>
   <string name="mobile_property">Nastavení mobilní sítě</string>
   <string name="netcheck_title">Diagnostika mobilní sítě</string>
-  <string name="autoip">Auto IP vytáčení</string>
-  <string name="autoip_add_zero_prefix">Přidat 0 před mobilní číslo</string>
-  <string name="autoip_areacode_required">Je vyžadována předvolba</string>
-  <string name="autoip_areacode_required_accept">OK</string>
-  <string name="autoip_autoip_current_areacode_summary">Současná předvolba je %s</string>
-  <string name="autoip_current_areacode">Současná předvolba </string>
-  <string name="autoip_current_areacode_summary">Současná předvolba</string>
-  <string name="autoip_exception">Čísla která nepotřebují IP předvolbu</string>
-  <string name="autoip_exception_summary">%d celkem</string>
-  <string name="autoip_exception_summary_more">, %d celkem</string>
-  <string name="autoip_no_exceptions">Přidat čísla která nepotřebují IP předvolbu</string>
-  <string name="autoip_prefix">IP předvolba</string>
-  <string name="autoip_prefix_summary">IP předvolba operátora je %s</string>
-  <string name="autoip_setting">Automatické IP nastavení</string>
-  <string name="autoip_summary">Přidat IP předvolbu pro mezinárodní čísla</string>
-  <string name="autoip_support_local_numbers">Vždy použít IP předvolbu</string>
 </resources>
