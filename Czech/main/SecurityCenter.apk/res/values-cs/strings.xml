@@ -3487,4 +3487,8 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="videobox_settings_title">Video nástroje</string>
   <string name="vtb_other_milink_connect">Momentálně není možné vysílat...</string>
   <string name="vtb_stop_milink_connect">Vysílání videa je zastavené</string>
+  <string name="power_center_dialog_msg_title">Povolte pro získání %1$s extra času. Tyto úlohy budou vykonány pro šetření baterie:</string>
+  <string name="power_save_mode_other_optimization">Další optimalizace</string>
+  <string name="power_save_mode_close_notification_screenon_title">Nerozsvěcovat displej upozorněními</string>
+  <string name="power_save_mode_close_notification_screenon_summary">Funguje když je povolené šetření baterie</string>
 </resources>
