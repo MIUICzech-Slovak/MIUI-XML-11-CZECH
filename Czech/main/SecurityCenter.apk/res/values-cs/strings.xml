@@ -3491,4 +3491,10 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="power_save_mode_other_optimization">Další optimalizace</string>
   <string name="power_save_mode_close_notification_screenon_title">Nerozsvěcovat displej upozorněními</string>
   <string name="power_save_mode_close_notification_screenon_summary">Funguje když je povolené šetření baterie</string>
+  <string name="gb_operat_frequently">Ne tak rychle!</string>
+  <string name="global_wa_setting_alert_dialog_content">Můžete uvolnit %s</string>
+  <string name="global_wa_setting_alert_dialog_title">WhatsApp Čistič</string>
+  <string name="net_boostering">Zrychlení sítě</string>
+  <string name="notification_garbage_cleanup_summary">Vyčistěte odpad (%s) pro zrychlení vašeho zařízení</string>
+  <string name="notification_garbage_cleanup_title">Vyčistěte odpad</string>
 </resources>
