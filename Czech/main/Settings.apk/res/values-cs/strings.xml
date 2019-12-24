@@ -6195,6 +6195,6 @@ Zkontrolujte následující:
     <string name="ime_security_warning_title_global">Povolení klávesnice</string>
     <string name="open_haptic_feedback">Hmatová odezva</string>
     <string name="gps_description">Je podporovaných vícero navigačních systémů (GPS, BeiDou, GLONASS, Galileo)</string>
-
-  <string name="speaker_clean">Vyčistit reproduktor</string>
+    <string name="speaker_clean">Vyčistit reproduktor</string>
 </resources>
+
