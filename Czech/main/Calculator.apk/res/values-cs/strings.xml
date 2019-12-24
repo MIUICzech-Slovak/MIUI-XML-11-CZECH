@@ -33,7 +33,7 @@
   <string name="description_content">Kalkulačka slouží nejen na matematické počty, ale i na konverzi měn a výpočet fyzikálních veličin.</string>
   <string name="description_title">O Kalkulačce</string>
   <string name="devided_by_zero_reminder_message">Není možné dělit nulou</string>
-  <string name="dialog_privacy_content">Některé funkce Kalkulačky vyžadují připojení k síti. Používáním této aplikace souhlasíte s našimi %1$s a %2$s.</string>
+  <string name="dialog_privacy_content">Některé funkce Kalkulačky vyžadují připojení k síti. Používáním této aplikace souhlasíte s našimi Podmínkami používání a Ochrannou soukromí.</string>
   <string name="dialog_privacy_title">Podmínky používání</string>
   <string name="divDesc">děleno</string>
   <string name="dotDesc">desetiná čárka</string>
@@ -352,6 +352,9 @@ má velikost: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff">"Uvedená verze %1$s
 Delta aktualizace má velikost: %2$s"</string>
   <string name="xiaomi_update_dialog_title">%1$s aktualizováno!</string>
-     <string name="convertion_unit_radix">Číselný systém</string>
-     <string name="item_title_radix">Číselný systém</string>
+  <string name="convertion_unit_radix">Číselný systém</string>
+  <string name="item_title_radix">Číselný systém</string>
+  <string name="disallow">Nesouhlasím</string>
+  <string name="preference_privacy_title">Ochrana soukromí</string>
+  <string name="privacy_policy">Ochrana soukromí</string>
 </resources>
