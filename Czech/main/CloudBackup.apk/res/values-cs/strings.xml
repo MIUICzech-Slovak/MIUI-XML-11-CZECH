@@ -247,5 +247,6 @@ Poznámka: Nastavení doinstalovaných aplikací nebude zálohováno na MiCloud.
   <string name="unsupported_home">Aktualizujte na nejnovější verzi MIUI.</string>
   <string name="wait_icon_download">Stahování ikony aplikace</string>
      <string name="loading_progress_num">(%s%%)</string>
-     <string name="restoring_home_screen_apps">Obnovení z MiCloudu...</string>  
+     <string name="restoring_home_screen_apps">Obnovení z MiCloudu...</string>
+    <string name="restore_from_mimover">Přesunout z vašeho starého zařízení pomocí Přenosu</string>
 </resources>
