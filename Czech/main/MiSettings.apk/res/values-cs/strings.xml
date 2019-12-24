@@ -219,4 +219,28 @@
      <string name="search_empty">Žádné aplikace</string>
      <string name="srgb_color_region">sRGB</string>
      <string name="srgb_color_region_summary">Zobrazit celý obsah displeje v sRGB tónu barev</string>
+    <string name="create">Vytvořit</string>
+    <string name="create_failed">Nebylo možné vytvořit</string>
+    <string name="create_shortcut">Odkaz na ploše</string>
+    <string name="created">Vytvořeno</string>
+    <string name="created_successfully">Odkaz vytvořen</string>
+    <string name="lock_summary">Chraňte vaše soukromé informace</string>
+    <string name="more_settings">Nastavení</string>
+    <string name="no_matching">Nenašla se aplikace pro tento odkaz</string>
+    <string name="privacy_policy">Ochrana soukromí</string>
+    <string name="screen_time_lock">Zámek času displeje</string>
+    <string name="shortcut_created">Tento odkaz už existuje</string>
+    <string name="stop_summary">Všechny vaše statistiky budou vymazány po deaktivaci této funkce</string>
+    <string name="suggestion">Zpětná vazba</string>
+    <string name="usage_agree">Souhlasím</string>
+    <string name="usage_exit">Ukončit</string>
+    <string name="usage_home_permission_account_summary">Pro přihlášení do Mi účtu</string>
+    <string name="usage_home_permission_account_title">Přístup k osobním informacím</string>
+    <string name="usage_home_permission_phone_summary">Pro identifikaci vašeho zařízení přes VAID</string>
+    <string name="usage_home_permission_phone_title">Přístup k informacím o zařízení</string>
+    <string name="usage_home_premission_main_summary_new">"Vítejte v Čase používání!
+  Pro správné fungování vyžaduje tato aplikace připojení na internet a následující povolení:"</string>
+    <string name="usage_home_premission_main_summary_new_o">"Vítejte v Čase používání!
+  Pro správné fungování vyžaduje tato aplikace připojení na internet a následující povolení:"</string>
+    <string name="usage_home_premission_second_summary_new">Vaše data jsou chráněné.</string>
 </resources>
