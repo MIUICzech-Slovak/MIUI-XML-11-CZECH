@@ -50,4 +50,5 @@ Pro více informací si přečtěte Pomoc.</string>
   <string name="toast_msg_for_multi_window">Tato funkce není dostupná při rozdělené obrazovce</string>
   <string name="toast_msg_for_small_window">Po otevření aplikace kterou chcete vysílat na TV, použijte malé okno pro vysílání.</string>
   <string name="toast_title_for_small_window">Použijte malé okno pro vysílání.</string>
+  <string name="actionbar_button_up_description">Zpět</string>
 </resources>
