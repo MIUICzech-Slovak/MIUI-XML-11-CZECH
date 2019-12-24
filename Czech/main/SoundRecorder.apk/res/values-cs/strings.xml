@@ -176,4 +176,7 @@ Dotkněte se %s pro spuštění stahování po připojení k Wi-Fi"</string>
      <string name="search_hint">Vyhledat</string>  
      <string name="cancel_rename">Zrušit</string>
      <string name="loading_more">Načítání...</string>
+  <string name="delete_cloud_data_at_same_time">Vymazat i z cloudu</string>
+  <string name="preference_record_desktop_indicator_summary">Zobrazit modrý indikátor na ploše pokud probíhá nahrávání na pozadí</string>
+  <string name="preference_record_desktop_indicator_title">Indikátor na ploše</string>
 </resources>
