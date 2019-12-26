@@ -852,6 +852,7 @@ poskytována především firmou Ultimate Inc."</string>
   <string name="online_service_title">Online služby</string>
   <string name="online_special">Speciální</string>
   <string name="online_switch">Online služby</string>
+  <string name="online_switch_confirm_title">Vypnutím online služeb nebudou všechny online funkce k dispozici. Přesto vypnout?</string>
   <string name="online_switch_message">Vypnutí online služeb ovlivní VIP služby a doporučený obsah. Chcete online služby přesto vypnout?</string>
   <string name="online_switch_setting">Online nastavení</string>
   <string name="open_download">Otevřít</string>
