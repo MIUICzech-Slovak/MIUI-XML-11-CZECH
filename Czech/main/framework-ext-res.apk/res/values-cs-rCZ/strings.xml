@@ -245,4 +245,5 @@
   <string name="xspace_resolver_activity_title">Vybrat apl.</string>
      <string name="data_usage_context">Když není Wi-Fi zapnutá, vaše zařízení bude připojené k mobilním datům.</string>
      <string name="app_running_notification_tip_text">Může zpomalit zařízení a vybít baterii. Dotykem ukončete aplikaci.</string>
+  <string name="slatoast">Používání zrychlení mobilních dat může spotřebovat mobilní data</string>
 </resources>
