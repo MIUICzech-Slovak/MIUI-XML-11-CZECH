@@ -1335,5 +1335,8 @@ Vyberte si z následujících možností:</string>
   <string name="yesterday">Včera</string>
   <string name="zero_items_selected">Nic není vybráno</string>
   <string name="cloud_upgrade_recommend">Není možné synchronizovat kontakty z důvodu nedostatku místa na cloudovém úložišti.</string>
+  <string name="confirm_delete_cloud_all_call_logs">Vymazat celou historii hovorů %s z MiCloudu a ze zařízení?</string>
+  <string name="deleteCloudConfirmationDetail">Vymazat informace o kontaktu %s z MiCloudu a ze zařízení?</string>
+  <string name="no_phone_no_shortcut">Není možné vytvořit odkaz na kontakt bez telefonního čísla</string>
 </resources>
 
