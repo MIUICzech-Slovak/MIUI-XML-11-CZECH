@@ -3527,4 +3527,8 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="gs_game_manual_record_subtitle_child_carton">Nahrávání videí z her vyžaduje vyšší výkon zařízení a může vést k zásekům hry.</string>
   <string name="gs_game_manual_record_subtitle_child_conflict">Ostatní funkce nahrávání nemusí fungovat správně.</string>
   <string name="gs_game_record_intro_tips">*Nahrávání videí z her je dostupné jen pro kompatibilní hry</string>
+  <string name="ac_recommend_guide_dialog_app_content">Použijte Zámek aplikací pro ochranu vašich osobních dat v této aplikaci.</string>
+  <string name="ac_recommend_guide_dialog_content">Můžete chránit vaše osobní informace Zámkem aplikací.</string>
+  <string name="ac_recommend_guide_dialog_ignore">Více nezobrazovat</string>
+  <string name="ac_recommend_guide_dialog_open">Povolit</string>
 </resources>
