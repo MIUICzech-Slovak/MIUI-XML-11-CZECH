@@ -398,5 +398,9 @@ Můžete je i znovu stáhnout."</string>
      <string name="xspace_disable">Není vytvořené</string>
      <string name="xspace_enable">Vytvořené</string>
      <string name="xspace_notification">Upozornění klonovaných aplikací</string>
-     <string name="xspace_settins">Nastavit</string>  
+     <string name="xspace_settins">Nastavit</string>
+  <string name="greenguard_install_cancle">Ne</string>
+  <string name="greenguard_install_confirm">Instalovat</string>
+  <string name="greenguard_install_message">Rodinný ochránce je systémová aplikace. Není potřebné připojení na internet pro její instalaci.</string>
+  <string name="greenguard_install_title">Instalovat Rodinného ochránce</string>
 </resources>
