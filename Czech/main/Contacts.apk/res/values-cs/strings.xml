@@ -1338,5 +1338,7 @@ Vyberte si z následujících možností:</string>
   <string name="confirm_delete_cloud_all_call_logs">Vymazat celou historii hovorů %s z MiCloudu a ze zařízení?</string>
   <string name="deleteCloudConfirmationDetail">Vymazat informace o kontaktu %s z MiCloudu a ze zařízení?</string>
   <string name="no_phone_no_shortcut">Není možné vytvořit odkaz na kontakt bez telefonního čísla</string>
+  <string name="delete_conference_call_log_message">Vymazat všechny nahrávky konferenčních hovorů s tímto kontaktem?</string>
+  <string name="delete_conference_call_log_title">Vymazat nahrávky konferenčních hovorů</string>
 </resources>
 
