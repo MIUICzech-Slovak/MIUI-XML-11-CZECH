@@ -881,4 +881,14 @@ Pokus: %s."</string>
      <string name="cloud_recommend_view_tip">Povolte synchronizaci s Cloudem pro obnovení důležitých SMS</string>
      <string name="mx_main_purpose_short">Mi Zprávy umožňují uživatelům MIUI odesílat SMS a MMS zprávy zdarma.</string>
      <string name="contact_card_unknown_contact">Neznámý kontakt</string>
+  <string name="ignore">Později</string>
+  <string name="privacy_term">Ochrana soukromí</string>
+  <string name="recommend_both_dialog_title">Vítejte ve Zprávách!</string>
+  <string name="recommend_dialog_message">Můžete povolit Mi Zprávy a Inteligentní zprávy pro přístup k dalším nastavením.</string>
+  <string name="recommend_mx_dialog_title">Vítejte v Mi Zprávách!</string>
+  <string name="recommend_mx_setting_summary">Mi Zprávy umožňují posílat SMS zprávy ostatním uživatelům MIUI přes internet.</string>
+  <string name="recommend_smart_sms_dialog_title">Vítejte v Inteligentních zprávách!</string>
+  <string name="recommend_smart_sms_setting_summary">Inteligentní zprávy poskytují rozpoznání názvu odesílatele.</string>
+  <string name="turn_on">Povolit</string>
+  <string name="user_term">Podmínky používání</string>
 </resources>
