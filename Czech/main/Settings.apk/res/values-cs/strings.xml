@@ -6208,6 +6208,6 @@ Zkontrolujte následující:
   <string name="wake_suppression_summary">Vaše zařízení bude reagovat na nechtěné dotyky</string>
   <string name="wake_suppression_title">Malá plocha</string>
   <string name="wifi_direct_close_hotspot_hint">Vypněte přenosný hotspot před použitím Wi-Fi direct</string>
-  <string name="wifi_direct_close_slave_wifi_hint">Odpojte se od sekundární Wi-Fi před použitím Wi-Fi direct</string
+  <string name="wifi_direct_close_slave_wifi_hint">Odpojte se od sekundární Wi-Fi před použitím Wi-Fi direct</string>
 </resources>
 
