@@ -410,7 +410,7 @@ Administrátor může sledovat a spravovat nastavení, přístup, aplikace a dat
   <string name="auto_disable_screenbuttons_no">Nikdy nevypínat</string>
   <string name="auto_disable_screenbuttons_rotation_summary">Pokud je vaše zařízení naležato, navigační tlačítka budou blokována</string>
   <string name="auto_disable_screenbuttons_rotation_title">Blokovat navigační tlačítka v řežimu naležato</string>
-  <string name="auto_disable_screenbuttons_summary">Automaticky vypnout navigační tlačítka pod displejem, když jsou spuštěny vybrané aplikace. Dvojitým poklepaním na jakékoliv tlačítko je aktivuteje zpět.</string>
+  <string name="auto_disable_screenbuttons_summary">Automaticky vypnout navigační tlačítka pod displejem, když jsou spuštěny vybrané aplikace. Dvojitým poklepaním na jakékoliv tlačítko je aktivujete zpět.</string>
   <string name="auto_disable_screenbuttons_title">Automaticky vypnout navigační tlačítka</string>
   <string name="auto_dual_clock_aod_summary">Zobrazit duální hodiny pokud je rozdílný čas od hlavních hodin</string>
   <string name="auto_dual_clock_summary">Zobrazit duální hodiny pokud se mezi nimi liší čas</string>
