@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="add_cw_fail_tip">Nebolo možné pridať tapetu</string>
-  <string name="add_cw_success_tip">Pridané</string>
-  <string name="add_to_cw">Pridať do prezentácie</string>
-  <string name="add_to_trust_device">Toto je dôveryhodné zariadenie</string>
-  <string name="addcw_apply_btn_txt">Pridať tapetu</string>
+  <string name="add_cw_fail_tip">Nebylo možné přidat tapetu</string>
+  <string name="add_cw_success_tip">Přidáno</string>
+  <string name="add_to_cw">Přidat do prezentace</string>
+  <string name="add_to_trust_device">Toto je důvěryhodné zařízení</string>
+  <string name="addcw_apply_btn_txt">Přidat tapetu</string>
   <string name="and"> a </string>
   <string name="app_name">Denní tapeta</string>
   <string name="apply">Použít</string>
   <string name="at_least_one">Vyberte alespoň jednu kategorii</string>
   <string name="auto_interval">Auto</string>
-  <string name="back_icon_content_description">Späť</string>
-  <string name="bind_sign_in_title">Pripojiť k Mi účtu</string>
+  <string name="back_icon_content_description">Zpět</string>
+  <string name="bind_sign_in_title">Připojit k Mi účtu</string>
   <string name="cancel">Ukončit</string>
   <string name="cancel_international">Zrušit</string>
   <string name="cancel_lockscreen">Zrušit</string>
-  <string name="cancel_network">Ukončiť</string>
+  <string name="cancel_network">Ukončit</string>
   <string name="carousel_declaration_des2">Přidejte vlastní pozadí</string>
   <string name="carousel_declaration_des_new">Získejte přizpůsobené doporučení a vyberte si z množství skvělých tapet.</string>
   <string name="carousel_declaration_title_new">Skvělá pozadí na váš displej</string>
