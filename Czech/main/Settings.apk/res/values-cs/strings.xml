@@ -6209,5 +6209,12 @@ Zkontrolujte následující:
   <string name="wake_suppression_title">Malá plocha</string>
   <string name="wifi_direct_close_hotspot_hint">Vypněte přenosný hotspot před použitím Wi-Fi direct</string>
   <string name="wifi_direct_close_slave_wifi_hint">Odpojte se od sekundární Wi-Fi před použitím Wi-Fi direct</string>
+  <string name="bluetooth_pairing_page_title">Párovat nové zařízení</string>
+  <string name="bluetooth_pairing_pref_title">Párovat nové zařízení</string>
+  <string name="auto_clean_description">"O této funkci:
+1. Spusťte tuto funkci jednou nebo dvakrát pokud je reproduktor zanesený prachem.
+2. Pokud je reproduktor zablokovaný, spusťte čištění 2-5 krát a zatřeste zařízením."</string>
+  <string name="auto_clean_summary">Přehrát 30s zvuk pro vyčištění reproduktoru</string>
+  <string name="auto_clean_title">Vyčistit reproduktor</string>
 </resources>
 
