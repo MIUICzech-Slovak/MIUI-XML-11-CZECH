@@ -240,4 +240,10 @@
      <string name="sst_morning_history_title">Historie ranních pozdravů</string>
      <string name="system_default">Lokální</string>  
      <string name="open_gallery">Povolit Denní tapetu</string>
+     <string name="open_gallery_tips">Dotykem povolíte Denní tapetu</string>
+     <string name="mode_auto_desc">Povolte Denní tapetu pro získávání nových tapet automaticky</string>
+     <string name="mode_auto_desc_open">Dostávat nové tapety automaticky</string>
+     <string name="sst_subscripted2">Dostupné kategorie</string>
+     <string name="mode_cw_desc">Povolte Denní tapetu pro přizpůsobení prezentací</string>
+     <string name="more">Více</string>
 </resources>
