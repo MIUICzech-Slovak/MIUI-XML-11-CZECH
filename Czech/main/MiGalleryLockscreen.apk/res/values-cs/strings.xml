@@ -246,4 +246,13 @@
      <string name="sst_subscripted2">Dostupné kategorie</string>
      <string name="mode_cw_desc">Povolte Denní tapetu pro přizpůsobení prezentací</string>
      <string name="more">Více</string>
+     <string name="summary2">Používáním této funkce souhlasíte s našimi Podmínkami používání a Ochranou soukromí."</string>
+     <string name="show_wallpaper_loop_entry_title">Nastavení prezentace</string>
+     <string name="wp_desktop_enable_title">Prezentace na ploše</string>
+     <string name="wp_lockscreen_enable_title">Prezentace na zámku obrazovky</string>
+     <string name="sst_switch_wallpaper_order_title">Aktualizovat seřazení</string>
+     <string name="sst_switch_wallpaper_order_desc">Vyberte pořadí v kterém budou tapaty aktualizovány</string>
+     <string name="sst_switch_wallpaper_order_fixed">Za sebou</string>
+     <string name="sst_switch_wallpaper_order_random">Náhodně</string>
+     <string name="minutes_5">Každých 5 minut</string>
 </resources>
