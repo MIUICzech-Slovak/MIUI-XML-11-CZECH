@@ -600,4 +600,8 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
   <string name="wallpaper_static">Statické</string>
      <string name="lab">Experimentální</string>
      <string name="like_list">Oblíbené</string>
+  <string name="present_local_themes_subtitle">Přizpůsobte si zařízení</string>
+  <string name="resource_comment_current_version">Současná verze</string>
+  <string name="already_latest_version">Aktuální</string>
+  <string name="update_check">Kontrola aktualizací</string>
 </resources>
