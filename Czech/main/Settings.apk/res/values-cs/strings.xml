@@ -734,7 +734,7 @@ Vysílání využívá nízkoenergetické signály Bluetooth."</string>
   <string name="bluetooth_pairing_pin_error_message">Nelze párovat se zařízením %1$s. Kód PIN nebo přístupový klíč je nesprávný.</string>
   <string name="bluetooth_pairing_rejected_error_message">Párování odmítnuto zařízením %1$s.</string>
   <string name="bluetooth_pairing_request">Párovat s %1$s?</string>
-  <string name="bluetooth_pairing_shares_phonebook">Povolit zařízení %1$s přístup k vašim kontaktům a historii hovorů</string>
+  <string name="bluetooth_pairing_shares_phonebook">Povolit zařízení přístup k vašim kontaktům a historii hovorů</string>
   <string name="bluetooth_pairing_will_share_phonebook">Párováním připojenému zařízení udělíte přístup ke svým kontaktům a historii volání.</string>
   <string name="bluetooth_pan_nap_profile_summary_connected">Místní internetové připojení je sdíleno se zařízením</string>
   <string name="bluetooth_pan_profile_summary_use_for">Použít pro přístup k internetu</string>
