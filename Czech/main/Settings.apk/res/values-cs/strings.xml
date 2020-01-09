@@ -6216,5 +6216,11 @@ Zkontrolujte následující:
 2. Pokud je reproduktor zablokovaný, spusťte čištění 2-5 krát a zatřeste zařízením."</string>
   <string name="auto_clean_summary">Přehrát 30s zvuk pro vyčištění reproduktoru</string>
   <string name="auto_clean_title">Vyčistit reproduktor</string>
+  <string name="call_example_name">Jméno</string>
+  <string name="use_otg_charge_only">Zpětné nabíjení</string>
+  <string name="use_otg_charge_only_summary">Rychlejší 1A nabíjení</string>
+  <string name="use_otg_file_transfers">Zpětné nabíjení a přenos souborů</string>
+  <string name="use_otg_file_transfers_summary">Pomalejší 500mA nabíjení a přenos souborů</string>
+  <string name="use_otg_title">USB On-The-Go</string>
 </resources>
 
