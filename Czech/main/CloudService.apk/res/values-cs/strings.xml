@@ -843,4 +843,10 @@ Pro vyhledání vašeho zařízení
 
 Přečtěte si a odsouhlaste naše Podmínky používání a Ochranu soukromí.
 "</string>
+  <string name="check_contact">Přidat</string>
+  <string name="choose_contact_title">Kontakty</string>
+  <string name="picker_list_empty">Žádné kontakty</string>
+  <string name="picker_search_empty">Nebylo možné nalézt kontakty</string>
+  <string name="picker_search_hint">Vyhledat</string>
+  <string name="starred_contact">Oblíbené</string>
 </resources>
