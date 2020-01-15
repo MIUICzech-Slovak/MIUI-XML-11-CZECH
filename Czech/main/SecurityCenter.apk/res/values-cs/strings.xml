@@ -3531,4 +3531,18 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="ac_recommend_guide_dialog_content">Můžete chránit vaše osobní informace Zámkem aplikací.</string>
   <string name="ac_recommend_guide_dialog_ignore">Více nezobrazovat</string>
   <string name="ac_recommend_guide_dialog_open">Povolit</string>
+  <string name="antispam_mms_text">Nastavte Zprávy jako vaší předvolenou aplikaci pro SMS pro zobrazení blokovaných SMS</string>
+  <string name="antispam_mms_text_setting">Nastavte Zprávy jako vaší předvolenou aplikaci pro SMS pro použití černé listiny</string>
+  <string name="power_save_ps_close_setting_3">Vypnout služby a funkce s vysokou spotřebou baterie (%1$s, %2$s, %3$s)</string>
+  <string name="power_save_ps_close_setting_4">Vypnout služby a funkce s vysokou spotřebou baterie (%1$s, %2$s, %3$s, %4$s)</string>
+  <string name="power_save_ps_close_setting_5">Vypnout služby a funkce s vysokou spotřebou baterie (%1$s, %2$s, %3$s, %4$s, %5$s)</string>
+  <string name="power_save_ps_close_setting_5gnet">Připojení 5G sítě</string>
+  <string name="power_save_ps_close_setting_6">Vypnout služby a funkce s vysokou spotřebou baterie (%1$s, %2$s, %3$s, %4$s, %5$s, %6$s)</string>
+  <string name="power_save_ps_close_setting_7">Vypnout služby a funkce s vysokou spotřebou baterie (%1$s, %2$s, %3$s, %4$s, %5$s, %6$s, %7$s)</string>
+  <string name="power_save_ps_close_setting_dclickwakeup">Probuzení a vypnutí displeje dvojitým poklepáním</string>
+  <string name="power_save_ps_close_setting_fingeraod">Zobrazit ikonu otisku na vypnutém displeji</string>
+  <string name="power_save_ps_close_setting_gps">GPS</string>
+  <string name="power_save_ps_close_setting_haptic">Vibrační odezva</string>
+  <string name="power_save_ps_close_setting_pickupwakeup">Zvednutím rozsvítit displej</string>
+  <string name="power_save_ps_close_setting_sync">synchr.</string>
 </resources>
