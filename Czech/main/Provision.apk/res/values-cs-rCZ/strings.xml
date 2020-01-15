@@ -236,4 +236,5 @@ Před použitím této funkce musíte souhlasit se Zásadami ochrany osobních �
     <string name="voice_assist_title">Hlasové probuzení</string>
     <string name="welcome">Vítejte</string>
     <string name="zone_picker_title">Vybrat časové pásmo</string>
+    <string name="data_traffic_enable_dialog_title">Pokud nejste připojený na Wi-Fi, vaše zatřídění použije mobilní data.</string>
 </resources>
