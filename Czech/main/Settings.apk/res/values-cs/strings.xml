@@ -6234,5 +6234,75 @@ Zkontrolujte následující:
   <string name="corner_assistant_gesture_summary">Potáhněte ze spodního pravého nebo levého rohu pro spuštění Google Asistenta</string>
   <string name="corner_assistant_gesture_title">Potáhnutím z rohu spustit Google Asistenta</string>
   <string name="screen_fps_title">Frekvence displeje</string>
+
+  <string name="acount_data">Účty</string>
+  <string name="application_data">Aplikace</string>
+  <string name="backup_data">Zálohy</string>
+  <string name="backup_difference_content">"Lokální zálohy:
+Lokální zálohy mohou obsahovat více dat aplikací a položek. Soubory zálohy jsou uložené v MIUI-backup-AllBackup a musí být zkopírovány do vašeho PC po skončení zálohování aby jste je neztratili při obnově továrního nastavení.
+
+Cloudové zálohy:
+Zálohy jsou uložené v MiCloudu. Tento způsob je rychlejší ale není možné zálohovat data aplikací do MiCloud.
+"</string>
+  <string name="backup_difference_title">4. Jaký je rozdíl mezi lokální zálohou a tou v MiCloud?</string>
+  <string name="backup_restore_data_content">"Vaše zálohy mohou obsahovat kontakty, zprávy (SMS a MMS), historii hovorů, události v kalendáři, fotografie, videa, dokumenty, aplikace, data aplikací a rozložení plochy.
+"</string>
+  <string name="backup_restore_data_title">5. Které položky mohu zálohovat nebo obnovit?</string>
+  <string name="clear_all_data">Vymazat veškerá data</string>
+  <string name="clear_phone_data_category">Vymazat následující položky</string>
+  <string name="cloud_restore_section_summary_new">Zálohovat rozložení plochy, aplikace, nastavení systému, atd.</string>
+  <string name="cloud_restore_section_title_new">V MiCloudu</string>
+  <string name="common_issue">FAQ</string>
+  <string name="contact_data">Kontakty</string>
+  <string name="datasize_decrease_content">Kontakty, zprávy, a nastavení systému jsou během zálohování zkomprimovány</string>
+  <string name="datasize_decrease_title">6. Proč jsou zálohované soubory menší než ty nainstalované?</string>
+  <string name="how_backup_content">"Existují 3 různé typy zálohování: Lokální, MiCloud a USB.
+
+Lokální zálohy:
+Lokální zálohy mohou obsahovat více dat aplikací a položek. Soubory zálohy jsou uložené ve složce MIUI-backup-AllBackup v úložišti telefonu a musí být zkopírované do vašeho PC po skončení zálohování aby jste je neztratili při obnově továrního nastavení.
+
+MiCloud zálohy:
+Zálohy jsou uložené v MiCloudu. Tento způsob je rychlejší ale není možné zálohovat data aplikací do MiCloud..
+
+USB zálohy:
+Tento způsob je totožný s lokální zálohou ale soubory zálohy jsou ukládány na USB paměť.
+"</string>
+  <string name="how_backup_title">1. Jak mohu zálohovat položky?</string>
+  <string name="how_encrypt_content">"Můžete zašifrovat jen lokální zálohy. Existují dva způsoby:
+a) Otevřte stránku s vašimi lokálními zálohami, povolte šifrování tlačítkem, a přihlašte se ke svému Mi účtu. Zálohy budou automaticky zašifrovány. Pro obnovení zašifrovaných záloh se musíte přihlásit ke svému Mi účtu.
+b) Pokud používáte Mi PC Suite, můžete vybrat možnost šifrování v jeho nastaveních.
+
+Poznámka:
+Zapamatujte si nastavené heslo pro šifrování záloh! Pokud ho zapomenete, nebude možné zálohy dešifrovat.
+"</string>
+  <string name="how_encrypt_title">3. Jak zašifruji moje zálohy?</string>
+  <string name="how_restore_backup_content">"Jak obnovit zálohy:
+
+Lokální zálohy:
+Nakopírujte zálohy z vašeho PC nazpět do složky (MIUI-backup-AllBackup) v úložišti telefonu. Jděte do Nastavení &gt; Zálohování a obnovení &gt; Lokální zálohy, a vyberte zálohu kterou chcete obnovit.
+
+MiCloud zálohy:
+Přihlašte se do svého Mi účtu, jděte do Nastavení &gt; Zálohování a obnovení &gt; MiCloud záloha, a vyberte zálohu kterou chcete obnovit.
+
+USB zálohy:
+Nakopírujte zálohy z USB nazpět do složky (MIUI-backup-AllBackup) v úložišti telefonu. Jděte do Nastavení &gt; Zálohování a obnovení &gt; Lokální zálohy, a vyberte zálohu kterou chcete obnovit.
+"</string>
+  <string name="how_restore_backup_title">2. Jak obnovím zálohované položky?</string>
+  <string name="local_backup_section_summary_new">Zálohovat účty, data aplikací, nastavení systému, atd.</string>
+  <string name="local_backup_section_title_new">V tomto zařízení</string>
+  <string name="master_clear_title_new">Vymazat všechna data (obnovení továrního nastavení)</string>
+  <string name="other_data">Ostatní položky v tomto zařízení</string>
+  <string name="photo_data">Fotografie a videa</string>
+  <string name="privacy_settings_new">Zálohování nebo obnovení</string>
+  <string name="reset_title">Obnovit</string>
+  <string name="sd_data">SD karta</string>
+  <string name="system_backup_section_title_new">Zálohovat nebo obnovit</string>
+  <string name="tip_remove_data">Obnovení továrního nastavení vymaže tyto položky z vašeho zařízení</string>
+  <string name="wifi_assist">Wi-Fi asistent</string>
+  <string name="wifi_link_turbo_customize">Vlastní aplikace</string>
+  <string name="wifi_link_turbo_customize_summary">Vyberte aplikace které budou používat Wi-Fi asistenta podle vašeho nastavení</string>
+  <string name="wifi_link_turbo_list">Aplikace</string>
+  <string name="wifi_link_turbo_recommendation">Doporučené aplikace</string>
+  <string name="wifi_link_turbo_recommendation_summary">Dostávat doporučení na základě statistik používání dat</string>
 </resources>
 
