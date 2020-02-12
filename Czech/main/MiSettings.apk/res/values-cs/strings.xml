@@ -243,4 +243,26 @@
     <string name="usage_home_premission_main_summary_new_o">"Vítejte v Čase používání!
   Pro správné fungování vyžaduje tato aplikace připojení na internet a následující povolení:"</string>
     <string name="usage_home_premission_second_summary_new">Vaše data jsou chráněné.</string>
+  <string name="usage_current_week_usage">%s průměrně během 7 dní</string>
+  <string name="usage_device_limit_app_prolong">Přidat čas</string>
+  <string name="usage_device_limit_app_prolong_time1">Přidat 20 minut</string>
+  <string name="usage_device_limit_app_prolong_time2">Přidat 40 minut</string>
+  <string name="usage_device_limit_app_prolong_time3">Přidat 60 minut</string>
+  <string name="usage_device_limit_app_prolong_time4">Dnes neomezovat</string>
+  <string name="usage_device_limit_notifation_summary_start">Svůj limit dosáhnete v %1$s</string>
+  <string name="usage_device_limit_notifation_title">Zbývající čas na dnes</string>
+  <string name="usage_device_limit_time_over">Dosáhli jste váš dnešní limit (%1$s)</string>
+  <string name="usage_reach_device_limit">Čas vypršel! Dosáhli jste svůj limit.</string>
+  <string name="usage_reach_device_limit_warning_text">Dosáhli jste svůj limit zobrazení na dnes</string>
+  <string name="usage_stats_device_limit">Denní limit času displeje</string>
+  <string name="usage_stats_device_limit_summary">Nastavit denní limit používání</string>
+  <string name="usage_stats_limit_time_accuracy_title">Přesnost odhadu zbývajícího času</string>
+  <string name="usage_stats_limit_time_high_accuracy_summary">Zobrazit zbývající čas na minutu.</string>
+  <string name="usage_stats_limit_time_high_accuracy_title">Vysoká</string>
+  <string name="usage_stats_limit_time_low_accuracy_summary">Zobrazit zbývající čas s přesností na minutu pro poslední 2 hodiny</string>
+  <string name="usage_stats_limit_time_low_accuracy_title">Nízká</string>
+  <string name="usage_stats_limit_time_warn">Upozornění na čas displeje</string>
+  <string name="usage_stats_limit_time_warn_summary">Zobrazit zbývající čas v roletce</string>
+  <string name="usage_stats_limit_time_warn_title">Upozornit na zbývající čas</string>
+  <string name="usage_stats_no_limit">Výjimky aplikací</string>
 </resources>
