@@ -3626,7 +3626,7 @@ Zvolte Váš operační systém:"</string>
   <string name="privacy_password_transparent_tiltle"/>
   <string name="privacy_password_use_finger_dialog_mess">Můžete použít otisk prstu a Heslo ochrany soukromí.</string>
   <string name="privacy_password_use_finger_dialog_open">Nastavení</string>
-  <string name="privacy_password_use_finger_dialog_title">Odemknutí otisku prstu</string>
+  <string name="privacy_password_use_finger_dialog_title">Odemknutí otiskem prstu</string>
   <string name="privacy_password_use_finger_success">Povoleno</string>
   <string name="privacy_password_visible_pattern">Zobrazit vzor</string>
   <string name="privacy_protect_title">Ochrana soukromí</string>
