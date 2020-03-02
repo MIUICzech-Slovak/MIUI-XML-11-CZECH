@@ -2092,5 +2092,6 @@ Jakýkoli uživatel může aktualizovat aplikace všech ostatních uživatelů."
   <string name="accessibility_status_bar_micphone">Mikrofon připojen</string>
   <string name="how_to_use_app_quick">Jak přepínat mezi aplikacemi</string>
   <string name="how_to_use_app_quick_hide_line_summary">Potáhněte ze zdola nahoru, potom vlevo  nebo vpravo</string>
-  <string name="how_to_use_app_quick_summary">Potáhněte vlevo nebo vpravo z indikátoru nebo ze spodu displeje</string>
+  <string name="how_to_use_app_quick_summary">Potáhněte vlevo nebo vpravo z indikátoru nebo zespodu displeje</string>
+  <string name="screenshot_failed_in_landscape_mode">Dlouhý screenshot není podporovaný v režimu na šířku</string>
 </resources>
