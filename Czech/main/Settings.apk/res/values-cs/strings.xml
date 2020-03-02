@@ -6304,5 +6304,12 @@ Nakopírujte zálohy z USB nazpět do složky (MIUI-backup-AllBackup) v úloži�
   <string name="wifi_link_turbo_list">Aplikace</string>
   <string name="wifi_link_turbo_recommendation">Doporučené aplikace</string>
   <string name="wifi_link_turbo_recommendation_summary">Dostávat doporučení na základě statistik používání dat</string>
+  <string name="bluetooth_connect_settings">Nastavení Bluetooth připojení</string>
+  <string name="bluetooth_display_settings">Nastavení Bluetooth displeje</string>
+  <string name="bluetooth_mi_fast_connect">MiLink</string>
+  <string name="bluetooth_mi_fast_connect_summary">Připojit k Bluetooth zařízením na blízku</string>  
+  <string name="dark_wallpaper_mode">Upravit sytost barev tapety v Tmavém režimu</string>
+  <string name="tether_use_wifi6_summary">Některé zařízení nejsou kompatibilní s 802.11ax standardem.</string>
+  <string name="tether_use_wifi6_title">Podpora pro 6 generaci Wi-Fi sítě</string>
 </resources>
 
