@@ -1146,7 +1146,11 @@ Chcete opustit tuto stránku?"</string>
   <string name="webview_find_on_page">Najít na stránce</string>
   <string name="webviewchromium_private_browsing_warning">Tato funkce není podporována vaší verzí Androidu.</string>
   <string name="week_picker_dialog_title">Nastavit týden</string>
-     <string name="sug_search_history_delete_text">Odstranit</string>
-     <string name="sug_search_history_empty_text">Vymazat</string>
-     <string name="slide_guide">Potáhněte pro návrat</string>
+  <string name="sug_search_history_delete_text">Odstranit</string>
+  <string name="sug_search_history_empty_text">Vymazat</string>
+  <string name="slide_guide">Potáhněte pro návrat</string>
+  <string name="dark_mode_setting_dark">Tmavý režim</string>
+  <string name="dark_mode_setting_follow">Podle systému</string>
+  <string name="dark_mode_setting_light">Světlý režim</string>
+  <string name="dark_mode_setting_title">Tmavý režim</string>
 </resources>
