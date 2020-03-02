@@ -3545,4 +3545,6 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="power_save_ps_close_setting_haptic">Vibrační odezva</string>
   <string name="power_save_ps_close_setting_pickupwakeup">Zvednutím rozsvítit displej</string>
   <string name="power_save_ps_close_setting_sync">synchr.</string>
+  <string name="gb_add_game_loading_tips">Načítání...</string>
+  <string name="st_hint_operatelist">Toto pravidlo už existuje</string>
 </resources>
