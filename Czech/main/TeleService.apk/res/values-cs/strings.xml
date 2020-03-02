@@ -1721,4 +1721,9 @@ Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
   <string name="nr_usaged_network_usaged">Dnešní data</string>
   <string name="nr_usaged_operator">Operátor</string>
   <string name="nr_usaged_used_time">Čas používání</string>
+  <string name="phone_report_title">Číst informace o hovoru</string>
+  <string name="preferred_network_type_pref_entries_only_4g">Pouze LTE</string>
+  <string name="report_method_entries_item1">Pouze když jsou připojené sluchátka</string>
+  <string name="report_method_entries_item2">Vždy</string>
+  <string name="report_method_entries_item3">Vypnout</string>
 </resources>
