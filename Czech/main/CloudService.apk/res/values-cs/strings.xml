@@ -849,4 +849,5 @@ Přečtěte si a odsouhlaste naše Podmínky používání a Ochranu soukromí.
   <string name="picker_search_empty">Nebylo možné nalézt kontakty</string>
   <string name="picker_search_hint">Vyhledat</string>
   <string name="starred_contact">Oblíbené</string>
+  <string name="micloud_setting_sms_summary_for_google_csp">SMS</string>
 </resources>
