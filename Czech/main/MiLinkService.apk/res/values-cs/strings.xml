@@ -51,4 +51,6 @@ Pro více informací si přečtěte Pomoc.</string>
   <string name="toast_msg_for_small_window">Po otevření aplikace kterou chcete vysílat na TV, použijte malé okno pro vysílání.</string>
   <string name="toast_title_for_small_window">Použijte malé okno pro vysílání.</string>
   <string name="actionbar_button_up_description">Zpět</string>
+  <string name="nfc_connect_failed_toast">Nebylo možné vysílat. Zkuste to znova.</string>
+  <string name="small_window_not_supported">Není možné minimalizovat aplikaci pokud právě vysílá</string>
 </resources>
