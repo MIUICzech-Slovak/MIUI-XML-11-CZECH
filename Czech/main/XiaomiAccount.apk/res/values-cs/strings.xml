@@ -596,7 +596,16 @@ Zkontrolujte také složku SPAM."</string>
   <string name="wipe_data_dialog_msg">%s nebylo synchronizováno (tato data se odstraní, pokud budete pokračovat).</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="wipe_data_dialog_title">Některé položky nebyly synchronizovány.</string>
-     <string name="pwd_width_phone_number_or_mail_num">Heslo nesmí obsahovat vaše telefonní číslo, email nebo Mi ID</string>
-     <string name="risky_pwd_not_allow">Nové heslo není bezpečné. Nastavte ho znova.</string>
-     <string name="passport_can_not_receive_verification_code">Nedostali jste ověřovací kód?</string>
+  <string name="pwd_width_phone_number_or_mail_num">Heslo nesmí obsahovat vaše telefonní číslo, email nebo Mi ID</string>
+  <string name="risky_pwd_not_allow">Nové heslo není bezpečné. Nastavte ho znova.</string>
+  <string name="passport_can_not_receive_verification_code">Nedostali jste ověřovací kód?</string>
+  <string name="find_device">Vyhledávání zařízení</string>
+  <string name="find_device_clear_data">Vymazat data</string>
+  <string name="find_device_close">Vypnuto</string>
+  <string name="find_device_location">Lokalizovat</string>
+  <string name="find_device_open">Zapnuto</string>
+  <string name="find_device_play_sound">Přehrát zvuk</string>
+  <string name="find_device_set_lost_model">Ztracený režim</string>
+  <string name="find_device_title">Vyhledat zařízení</string>  
+  <string name="password_toggle_content_description">Přepnout viditelnost hesla</string>
 </resources>
