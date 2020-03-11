@@ -265,4 +265,10 @@
   <string name="usage_stats_limit_time_warn_summary">Zobrazit zbývající čas v roletce</string>
   <string name="usage_stats_limit_time_warn_title">Upozornit na zbývající čas</string>
   <string name="usage_stats_no_limit">Výjimky aplikací</string>
+  <string name="cu_confirm">Nastavit</string>
+  <string name="steady_on_screen_notification_title">Položte váš telefon a oddychněte si</string>
+  <string name="steady_on_screen_notify">Upozornit na používání bez přestávky</string>
+  <string name="steady_on_screen_setting">Časový limit používání</string>
+  <string name="steady_on_screen_summary">Časový limit pro používání bez přestávky</string>
+  <string name="to_authorize">Udělit povolení</string>
 </resources>
