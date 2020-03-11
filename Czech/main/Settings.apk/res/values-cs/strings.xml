@@ -6311,5 +6311,22 @@ Nakopírujte zálohy z USB nazpět do složky (MIUI-backup-AllBackup) v úloži�
   <string name="dark_wallpaper_mode">Upravit sytost barev tapety v Tmavém režimu</string>
   <string name="tether_use_wifi6_summary">Některé zařízení nejsou kompatibilní s 802.11ax standardem.</string>
   <string name="tether_use_wifi6_title">Podpora pro 6 generaci Wi-Fi sítě</string>
+  <string name="input_method_clipboard_settings">Nastavení schránky</string>
+  <string name="input_method_cloud_data_title">Schránka v cloudu</string>
+  <string name="input_method_cloud_paste_mode_bubble_des">Zobrazí se bublina po přidání nového obsahu do schránky.</string>
+  <string name="input_method_cloud_paste_mode_bubble_title">Bublina</string>
+  <string name="input_method_cloud_paste_mode_no_des">Nezobrazí se žádné upozornění po přidání nového obsahu do schránky.</string>
+  <string name="input_method_cloud_paste_mode_no_title">Žádné</string>
+  <string name="input_method_cloud_paste_mode_red_point_des">Zobrazí se červená tečka ve spodní části klávesnice po přidání nového obsahu do schránky.</string>
+  <string name="input_method_cloud_paste_mode_red_point_title">Červená tečka</string>
+  <string name="input_method_quick_access">Rychlý přístup</string>
+  <string name="input_method_quick_cloud_mode_title">Upozornění o novém obsahu v schránce</string>
+  <string name="input_method_quick_cloud_summary">Zkopírovat položky na PC a vložit ve vašem zařízení</string>
+  <string name="input_method_quick_cloud_title">Cloud clipboard</string>
+  <string name="input_method_quick_paste_summary">Zobrazit zkopírované položky dotykem na ikonu schránky</string>
+  <string name="input_method_quick_paste_title">Rychlé vložení</string>
+  <string name="input_method_quick_url_summary">Otevřít zkopírované URL dotykem na ikonu schránky</string>
+  <string name="input_method_quick_url_title">Webstránky</string>  
+  <string name="aggregate_title">Pravidla pro sdružené upozornění</string>
 </resources>
 
