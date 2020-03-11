@@ -1094,5 +1094,15 @@ Postupujte dle pokynů"</item>
         <item>Auto (doporučené)</item>
         <item>Saturované</item>
         <item>Originální barva</item>
-     </string-array>	
+     </string-array>
+	<string-array name="aggregate_entries">
+        <item>Odporúčané</item>
+        <item>Dôležité</item>
+        <item>Nedôležité</item>
+    </string-array>
+    <string-array name="aggregate_summaries">
+        <item>MIUI bude rozhodovat které upozornení se budou zobrazovat</item>
+        <item>Upozornění budou zobrazeny v roletce</item>
+        <item>Upozornění budou zobrazeny ve složce</item>
+    </string-array>
 </resources>
