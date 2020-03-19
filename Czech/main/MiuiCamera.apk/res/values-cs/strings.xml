@@ -855,4 +855,7 @@ skenované dokumenty automaticky"</string>
   <string name="preview_back_pressed_hint">Dotkněte se znova pro návrat</string>
   <string name="share">Sdílet</string>
   <string name="unknow_error">Neznámá chyba</string>
+  <string name="pref_document_mode">Dokumenty</string>
+  <string name="document_origin">Originál</string>
+  <string name="document_strengthen">Vylepšené</string>    
 </resources>
