@@ -348,4 +348,7 @@
   <string name="screen_overlay_message">Pro změnu nastavení tohoto povolení, musíte nejprve vypnout překrytí displeje v Nastavení &gt; Aplikace</string>
   <string name="screen_overlay_title">Zjištěno překrytí displeje</string>
   <string name="permdesc_location_background">Přístup k poloze na pozadí</string>
+  <string name="HIPS_Perm_clipboard">Schránka</string>
+  <string name="HIPS_Perm_clipboard_Desc">Změnit obsah schránky</string>
+  <string name="grant_dialog_button_allow_onetime">Povolit</string>
 </resources>
