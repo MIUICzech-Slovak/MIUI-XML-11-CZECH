@@ -3673,7 +3673,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="app_behavior_notification_location_two">\"%1s\" používá vaší polohu</string>
   <string name="app_behavior_settings_category_perm">Upozornění na povolení</string>
   <string name="app_behavior_settings_category_privacy">Upozornění na soukromí</string>
-  <string name="app_behavior_settings_perm_tips">Pokud aplikace použije nahrávání zvuku, fotoaprát nebo vaší polohu, zobrazí se upozornění</string>
+  <string name="app_behavior_settings_perm_tips">Pokud aplikace použije nahrávání zvuku, fotoaparát nebo vaší polohu, zobrazí se upozornění</string>
   <string name="app_behavior_settings_privacy_tips">Pokud aplikace použije vaše kontakty, historii hovorů nebo citlivá data, zobrazí se upozornění</string>
   <string name="app_behavior_start_from_app_single">Spuštěné %1s</string>
   <string name="app_behavior_start_from_launcher">%1s spuštěné z plochy</string>
