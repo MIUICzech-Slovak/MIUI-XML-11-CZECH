@@ -607,15 +607,15 @@
         <item quantity="one">Budete upozorněni na citlivé akce vykonané %1$d apl.</item>
     </plurals>
     <plurals name="app_behavior_notification_audio_more">
-        <item quantity="other">\"%1$1s\" a %2$d dalších apl. nahrávají zvuk</item>
-        <item quantity="one">\"%1$1s\" a %2$d apl. nahrává zvuk</item>
+        <item quantity="other">\"%2$d\" a %1$1s dalších apl. nahrávají zvuk</item>
+        <item quantity="one">"%2$d\" a %1$1s apl. nahrává zvuk</item>
     </plurals>
     <plurals name="app_behavior_notification_camera_more">
-        <item quantity="other">\"%1$1s\" a %2$d dalších apl. fotografují</item>
-        <item quantity="one">\"%1$1s\" a %2$d apl. fotografuje</item>
+        <item quantity="other">"%2$d\" a %1$1s dalších apl. fotografují</item>
+        <item quantity="one">"%2$d\" a %1$1s apl. fotografuje</item>
     </plurals>
     <plurals name="app_behavior_notification_location_more">
-        <item quantity="other">\"%1$1s\" a %2$d dalších apl. používají vaší polohu</item>
-        <item quantity="one">\"%1$1s\" a %2$d apl. používá vaší polohu</item>
+        <item quantity="other">"%2$d\" a %1$1s dalších apl. používají vaší polohu</item>
+        <item quantity="one">"%2$d\" a %1$1s apl. používá vaší polohu</item>
     </plurals>
 </resources>
