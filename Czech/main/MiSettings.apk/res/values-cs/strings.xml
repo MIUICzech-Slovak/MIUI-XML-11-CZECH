@@ -271,4 +271,11 @@
   <string name="steady_on_screen_setting">Časový limit používání</string>
   <string name="steady_on_screen_summary">Časový limit pro používání bez přestávky</string>
   <string name="to_authorize">Udělit povolení</string>
+  <string name="start_easymode">Povolit Jednoduchý režim</string>
+  <string name="title_activity_easy_mode">Jednoduchý režim</string>
+  <string name="exit_easymode">Vypnout Jednoduchý režim</string>
+  <string name="display_description">Větší ikony, větší text a jednodušší grafika</string>
+  <string name="display_title">Větší ikony</string>
+  <string name="contact_description">Dotykem na odkaz kontaktu uskutečníte hovor</string>
+  <string name="contact_title">Odkaz kontaktu</string>
 </resources>
