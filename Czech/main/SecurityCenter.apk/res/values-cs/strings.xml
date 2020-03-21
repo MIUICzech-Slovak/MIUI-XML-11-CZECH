@@ -3686,4 +3686,5 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="app_behavior_time_yesterday">Včera</string>
   <string name="app_perm_manager_service">Služby správy povolní</string>
   <string name="notify_channel_name_behavior">Záznam o chování</string>
+  <string name="notify_channel_optimize">Bezpečnostní oznámení</string>
 </resources>
