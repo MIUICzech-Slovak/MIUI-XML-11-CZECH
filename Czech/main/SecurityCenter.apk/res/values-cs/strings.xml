@@ -3661,9 +3661,9 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="privacy_notification_title_camera">%1s používá fotoaparát na pozadí</string>
   <string name="privacy_notification_title_camera_mic">%1s používá fotoaparát a mikrofon na pozadí</string>
   <string name="privacy_notification_title_mic">%1s používá mikrofon na pozadí</string>  
-  <string name="app_behavior_key_audio">Zvuk</string>
-  <string name="app_behavior_key_camera">Fotoaparát</string>
-  <string name="app_behavior_key_location">Poloha</string>
+  <string name="app_behavior_key_audio">Nahrává zvuk</string>
+  <string name="app_behavior_key_camera">Používá fotoaparát</string>
+  <string name="app_behavior_key_location">Používá polohu</string>
   <string name="app_behavior_key_protect">Ochrana soukromí</string>
   <string name="app_behavior_notification_audio_now_one">\"%1s\" nahrává zvuk</string>
   <string name="app_behavior_notification_audio_now_two">\"%1s\" nahrává zvuk</string>
@@ -3675,8 +3675,8 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="app_behavior_settings_category_privacy">Upozornění na soukromí</string>
   <string name="app_behavior_settings_perm_tips">Pokud aplikace použije nahrávání zvuku, fotoaparát nebo vaší polohu, zobrazí se upozornění</string>
   <string name="app_behavior_settings_privacy_tips">Pokud aplikace použije vaše kontakty, historii hovorů nebo citlivá data, zobrazí se upozornění</string>
-  <string name="app_behavior_start_from_app_single">Spuštěné %1s</string>
-  <string name="app_behavior_start_from_launcher">%1s spuštěné z plochy</string>
+  <string name="app_behavior_start_from_app_single">Tato aplikace byla spuštěna %1s</string>
+  <string name="app_behavior_start_from_launcher">%1s byla spuštěna z plochy</string>
   <string name="app_behavior_start_from_launcher_single">Spuštěné z plochy</string>
   <string name="app_behavior_start_from_notification">%1s spuštěné z upozornění</string>
   <string name="app_behavior_start_from_notification_single">Spuštěné z upozornění</string>
@@ -3684,7 +3684,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="app_behavior_start_from_recent_single">Spuštěné z nedávných</string>
   <string name="app_behavior_time_today">Dnes</string>
   <string name="app_behavior_time_yesterday">Včera</string>
-  <string name="app_perm_manager_service">Služby správy povolní</string>
+  <string name="app_perm_manager_service">Povolení</string>
   <string name="notify_channel_name_behavior">Záznam o chování</string>
   <string name="notify_channel_optimize">Bezpečnostní oznámení</string>
 </resources>
