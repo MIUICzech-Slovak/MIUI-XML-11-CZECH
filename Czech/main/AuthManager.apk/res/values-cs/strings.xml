@@ -351,4 +351,10 @@
   <string name="HIPS_Perm_clipboard">Schránka</string>
   <string name="HIPS_Perm_clipboard_Desc">Změnit obsah schránky</string>
   <string name="grant_dialog_button_allow_onetime">Povolit jednou</string>
+  <string name="virtual_reject_notice_content">Byla odeslaná prázdná odpověď aplikací pro ochranu vašich citlivých informací</string>
+  <string name="virtual_reject_notice_title_calendar">%1$s se pokoušela o přístup ke kalendáři</string>
+  <string name="virtual_reject_notice_title_calllog">%1$s se pokoušela o přístup k historii hovorů</string>
+  <string name="virtual_reject_notice_title_contacts">%1$s se pokoušela o přístup ke kontaktům</string>
+  <string name="virtual_reject_notice_title_phonestate">%1$s se pokouší o přístup k informacím o zařízení</string>
+  <string name="virtual_reject_notice_title_sms">%1$s se pokouší o přístup k SMS</string>
 </resources>
