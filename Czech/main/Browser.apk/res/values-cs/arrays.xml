@@ -38,6 +38,7 @@
          <item>Žádná</item>
      </string-array>
      <string-array name="pref_navscreen_layoutstate_choices">
+        <item>Dlaždice</item>
         <item>Na šířku</item>
         <item>Na výšku</item>
      </string-array>
@@ -51,9 +52,5 @@
         <item>Změnit kartu</item>
         <item>Žádná</item>
     </string-array>
-    <string-array name="pref_navscreen_layoutstate_choices">
-        <item>Dlaždice</item>
-        <item>Vertikální</item>
-        <item>Horizontální</item>
-    </string-array>
 </resources>
+
