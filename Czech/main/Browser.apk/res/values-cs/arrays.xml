@@ -50,5 +50,10 @@
         <item>Zpět / Další</item>
         <item>Změnit kartu</item>
         <item>Žádná</item>
-    </string-array>	
+    </string-array>
+    <string-array name="pref_navscreen_layoutstate_choices">
+        <item>Dlaždice</item>
+        <item>Vertikální</item>
+        <item>Horizontální</item>
+    </string-array>
 </resources>
