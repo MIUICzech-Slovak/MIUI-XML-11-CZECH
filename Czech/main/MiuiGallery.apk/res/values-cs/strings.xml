@@ -1756,6 +1756,13 @@
   <string name="video_editor_watermark">Vodoznak</string>
   <string name="video_err">"Nelze přehrát video."</string>
   <string name="video_not_exist">Video nebylo nalezeno</string>
+  <string name="video_quality_1080p_hd">1080P (vysoké rozlišení)</string>
+  <string name="video_quality_1080p_original">1080P (nekomprimované)</string>
+  <string name="video_quality_4k_hd">4K (vysoké rozlišení)</string>
+  <string name="video_quality_4k_original">4K (nekomprimované)</string>
+  <string name="video_quality_720p_hd">720P (vysoké rozlišení)</string>
+  <string name="video_quality_720p_original">720P (nekomprimované)</string>
+  <string name="video_quality_title_sub">Současné rozlišení: %1$s (≈%2$s)</string>
   <string name="video_with_time">Video vytvořeno v %s</string>
   <string name="video_with_time_and_location">Video vytvořeno v %1$s. Poloha: %2$s.</string>
   <string name="view_baby_album">Zobrazit Dětské album</string>
