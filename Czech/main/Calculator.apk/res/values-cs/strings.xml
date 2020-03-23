@@ -140,6 +140,7 @@
     <string name="hint_annual_rate">Zadejte roční úrokovou sazbu</string>
     <string name="hint_enter_amount">Zadejte částku</string>
     <string name="hint_floatwindow_alpha_guide_text">Klepněte pro přizpůsobení průhlednosti</string>
+    <string name="history_delete_confirmation">Vymazat historii nyní?</string>
     <string name="home_loan">Hypoteční úrok</string>
     <string name="home_title_calculator">Kalkulačka</string>
     <string name="house_rent">Nájem</string>
