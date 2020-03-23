@@ -734,6 +734,7 @@ Chcete opustit tuto stránku?"</string>
   <string name="pref_accessibility_url_shortcut_enter_title">Rychlá volba URL</string>
   <string name="pref_adblock_counts">Blokovaných reklam: %d</string>
   <string name="pref_adblock_title">Blokování reklam</string>
+  <string name="pref_advert_null">Žádné položky označené jako reklamy. Stisknutím a podržením položky na webové stránce ji označíte.</string>
   <string name="pref_auto_update_under_wifi">Auto. aktualizovat přes Wi-Fi</string>
   <string name="pref_automatic_matching_searchengines_title">Auto. vyhledat vyhledávač podle zvyku</string>
   <string name="pref_category_hint">Kategorie</string>
@@ -784,6 +785,7 @@ Chcete opustit tuto stránku?"</string>
   <string name="pref_force_userscalable">Vynutit nastavení přiblížení</string>
   <string name="pref_force_userscalable_summary">"Ignorovat požadavek stránky na kontrolu vlastností přiblížení"</string>
   <string name="pref_general_title">Obecné</string>
+  <string name="pref_label_advert_manager">Spravujte označené reklamy</string>
   <string name="pref_key_gesture_title">Tlačítka a gesta</string>
   <string name="pref_nav_mode_summary_pad">Tablet</string>
   <string name="pref_nav_mode_summary_phone">Telefon</string>
