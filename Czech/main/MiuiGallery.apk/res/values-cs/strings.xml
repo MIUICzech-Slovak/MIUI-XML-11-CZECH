@@ -1893,4 +1893,6 @@
   <string name="drag_view_tip_sub_title">Stlačte a podržte album pro jeho přesunutí</string>
   <string name="drag_view_tip_title">Přesunout album</string>
   <string name="vlog_clip_cut_fail_min_time">Klip musí být alespoň %1$ss dlouhý</string>
+  <string name="downloading_title_file">Stahování položek z MiCloud...</string>
+  <string name="vlog_bottom_view_exit">Ukončit</string>
 </resources>
