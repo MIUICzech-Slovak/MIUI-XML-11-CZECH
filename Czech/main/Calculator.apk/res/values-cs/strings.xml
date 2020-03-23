@@ -171,11 +171,15 @@
     <string name="item_title_vel_conversion">Rychlost</string>
     <string name="item_title_volume_conversion">Objem</string>
     <string name="item_title_weight_conversion">Hmotnost</string>
+    <string name="label_about">O aplikaci</string>
+    <string name="label_clear_history">Vymazat vše</string>
     <string name="label_date_difference">Rozdíl</string>
     <string name="label_days">Dny</string>
+    <string name="label_delete">Vymazat</string>
     <string name="label_emi">EMI</string>
     <string name="label_first_repayment">První splátka</string>
     <string name="label_from_date">Od</string>
+    <string name="label_history">Historie</string>
     <string name="label_interest">Úrok</string>
     <string name="label_loan_tenure">Délka půjčky</string>
     <string name="label_months">Měsíce</string>
