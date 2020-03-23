@@ -450,7 +450,7 @@ Aktualizovat nyní?"</string>
      <string name="add">Přidat</string>
      <string name="add_data_source">Přidávání zdroje dat</string>
      <string name="add_data_source_description">"Chcete-li zvýšit přesnost statistik a získat relevantnější zdravotní rady, přidejte do Mi Zdraví údaje o zdraví získané jinými zařízeními.
- Mi Zdraví podporuje zařízení, která jste dříve přidali do aplikace Mi Home."</string>
+   Mi Zdraví podporuje zařízení, která jste dříve přidali do aplikace Mi Home."</string>
      <string name="add_data_source_login_and_open_sync">Abyste mohli přidávat zdroje dat, přihlaste se ke svému Mi účtu a zapněte synchronizaci s cloudem.</string>
      <string name="add_data_source_open_sync">Chcete-li přidat zdroje dat, zapněte synchronizaci s cloudem.</string>
      <string name="add_data_source_support_step">Toto zařízení negeneruje počet kroků. Můžete zkusit vybrat jiný zdroj dat.</string>
@@ -464,8 +464,8 @@ Aktualizovat nyní?"</string>
      <string name="data_account_info_loading">Získávání informací o účtě...</string>
      <string name="data_delete_tip">Vymazání dat o zdraví z tohoto zařízení...</string>
      <string name="data_safety_tip_details">Po odhlášení budou vaše zdravotní data v tomto zařízení uchována. Údaje o svém zdraví můžete odstranit v sekci Zdraví - Zdroje dat.</string>
-     <string name="data_safety_tip_details2">"Některé vaše zdravotní údaje jsou nahrány do cloudu.  Můžete si vybrat, zda chcete údaje o svém zdravotním stavu ponechat v tomto zařízení nebo je smazat. Výběrem možnosti \"Odstranit\" níže odstraníte pouze data z tohoto zařízení, synchronizované položky budou stále uloženy v cloudu.
-Pokud se rozhodnete údaje o svém zdravotním stavu smazat poté, co jste se rozhodli je uchovat, můžete tak učinit v sekci Zdraví &gt; Zdroje dat."</string>
+     <string name="data_safety_tip_details2">"Některé vaše zdravotní údaje jsou nahrány do cloudu.  Můžete si vybrat, zda chcete údaje o svém zdravotním stavu ponechat v tomto zařízení nebo je smazat. Výběrem možnosti \"Odstranit\" níže odstraníte pouze data z tohoto zařízení, synchronizované položky budou stále uloženy v cloudu.
+   Pokud se rozhodnete údaje o svém zdravotním stavu smazat poté, co jste se rozhodli je uchovat, můžete tak učinit v sekci Zdraví &gt; Zdroje dat."</string>
      <string name="data_safety_tip_title">Vymazání dat o zdraví</string>
      <string name="data_source">Zdroj dat</string>
      <string name="data_source_data_updating">Aktualizování dat...</string>
@@ -481,9 +481,9 @@ Pokud se rozhodnete údaje o svém zdravotním stavu smazat poté, co jste se ro
      <string name="device_list_origin_description">"Tato zařízení jsou spojema s Mi účtem %1$s. Pokud zde nemůžete najít potřebné zařízení, ujistěte se, že jste jej již přidali do příslušné aplikace."</string>
      <string name="device_off_sync_description">"Data o zdraví vytvořena tímto zařízením nebudou synchronizována s Mi Zdraví"</string>
      <string name="diagnosis_log_send_failed">Odeslání diagnostického logu selhalo.</string>
-     <string name="diagnosis_log_sent_format">"Diagnostický log byl odeslán.
-ID:%s
-Zašlete prosím tento kód technikovi."</string>
+     <string name="diagnosis_log_sent_format">"Diagnostický log byl odeslán.
+   ID:%s
+   Zašlete prosím tento kód technikovi."</string>
      <string name="dialog_account_perm_desc">Pro přístup a přihlášení do systémového účtu</string>
      <string name="dialog_keep">Zachovat</string>
      <string name="exposed_dropdown_menu_content_description">Zobrazit rozbalovací nabídku</string>
