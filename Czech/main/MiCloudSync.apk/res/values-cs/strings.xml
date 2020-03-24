@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">MiCloudSync</string>
-  <string name="error_data_in_transfer">Synchr. bude dokončena o %sh.</string>
+  <string name="error_data_in_transfer">Synchr. bude dokončena za %sh.</string>
   <string name="error_data_in_transfer_title">MiCloud není dostupný</string>
   <string name="error_forbidden">Synchr. byla deaktivována z důvodu problémů s vašim Mi účtem.</string>
   <string name="error_not_acceptable">Synchr. byla deaktivována.</string>
