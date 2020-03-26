@@ -6321,5 +6321,8 @@ Nakopírujte zálohy z USB nazpět do složky (MIUI-backup-AllBackup) v úloži�
   <string name="input_method_quick_url_summary">Otevřít zkopírované URL dotykem na ikonu schránky</string>
   <string name="input_method_quick_url_title">Webstránky</string>  
   <string name="aggregate_title">Pravidla pro sdružené upozornění</string>
+    <string name="screen_dark_mode_smart_dark_3rd_apps_list">Doinstalované aplikace</string>
+    <string name="screen_dark_mode_smart_dark_apps_setting_summary">Některé aplikace mohou být zobrazeny nesprávně v Tmavém režimu. Můžete zakázat Tmavý režim pro jednotlivé aplikace.</string>
+    <string name="screen_dark_mode_smart_dark_apps_setting_title">Jednotlivé aplikace</string>    
 </resources>
 
