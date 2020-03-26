@@ -3716,4 +3716,14 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="warningcenter_mijia_title">Varování ze Smart home</string>
   <string name="warningcenter_smarthome">MiHome</string>
   <string name="warningcenter_title">MIUI Centrum Varování</string>
+  <string name="app_behavior_desc_virtual_once">Odeslaná prázdná zpráva do %1$s</string>
+  <string name="app_behavior_perm_change_tip_virtual">\"%1s\" je změněné na \"Odeslat prázdnou zprávu\"</string>
+  <string name="permission_action_desc">Udělit povolení ale odeslat prázdnou zprávu do aplikace pro ochranu citlivých dat</string>
+  <string name="permission_action_tag">Ochrana soukromí</string>
+  <string name="permission_action_virtual">Odeslat prázdnou zprávu</string>
+  <string name="permission_upgrade_more">Více funkcí na ochranu soukromí</string>
+  <string name="permission_upgrade_privacy_title">Povolení pro nahrávání zvuku a přístup ke kontaktům nyní mají možnost udělit přístup jen pokud se aplikace používá. Pro ochranu vašeho soukromí, aplikace nebudou mít k těmto povolením přístup na pozadí.</string>
+  <string name="permission_upgrade_runtime">Povolení pro přístup k vaší poloze a zhotovení fotografie nyní mají možnost udělit přístup pouze jednou. Pro ochranu vašeho soukromí, aplikace nebudou mít k těmto povolením přístup po jejich ukončení.</string>
+  <string name="permission_upgrade_title">Aktualizované povolení</string>
+  <string name="permission_upgrade_virtual">Pokud nechcete povolit aplikacím přístup k vaším kontaktům nebo historii hovorů, můžete vybrat možnost \"Odeslat prázdnou zprávu\" když přidělíte tato povolení.</string>
 </resources>
